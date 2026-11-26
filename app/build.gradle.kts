@@ -1,1 +1,78 @@
-cGx1Z2lucyB7CiAgICBpZCgiY29tLmFuZHJvaWQuYXBwbGljYXRpb24iKQogICAgaWQoIm9yZy5qZXRicmFpbnMua290bGluLmFuZHJvaWQiKQogICAgaWQoImNvbS5nb29nbGUuZGV2dG9vbHMua3NwIikKfQoKYW5kcm9pZCB7CiAgICBuYW1lc3BhY2UgPSAiY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lciIKICAgIGNvbXBpbGVTZGsgPSAzNAoKICAgIGRlZmF1bHRDb25maWcgewogICAgICAgIGFwcGxpY2F0aW9uSWQgPSAiY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lciIKICAgICAgICBtaW5TZGsgPSAyNAogICAgICAgIHRhcmdldFNkayA9IDM0CiAgICAgICAgdmVyc2lvbkNvZGUgPSAxCiAgICAgICAgdmVyc2lvbk5hbWUgPSAiMS4wIgogICAgICAgIHRlc3RJbnN0cnVtZW50YXRpb25SdW5uZXIgPSAiYW5kcm9pZHgudGVzdC5ydW5uZXIuQW5kcm9pZEpVbml0UnVubmVyIgogICAgfQoKICAgIGJ1aWxkVHlwZXMgewogICAgICAgIHJlbGVhc2UgewogICAgICAgICAgICBpc01pbmlmeUVuYWJsZWQgPSBmYWxzZQogICAgICAgICAgICBwcm9ndWFyZEZpbGVzKAogICAgICAgICAgICAgICAgZ2V0RGVmYXVsdFByb2d1YXJkRmlsZSgicHJvZ3VhcmQtYW5kcm9pZC1vcHRpbWl6ZS50eHQiKSwKICAgICAgICAgICAgICAgICJwcm9ndWFyZC1ydWxlcy5wcm8iCiAgICAgICAgICAgICkKICAgICAgICB9CiAgICB9CiAgICBjb21waWxlT3B0aW9ucyB7CiAgICAgICAgc291cmNlQ29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICAgICAgdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IEphdmFWZXJzaW9uLlZFUlNJT05fMV84CiAgICB9CiAgICBrb3RsaW5PcHRpb25zIHsganZtVGFyZ2V0ID0gIjEuOCIgfQogICAgYnVpbGRGZWF0dXJlcyB7IGNvbXBvc2UgPSB0cnVlIH0KICAgIGNvbXBvc2VPcHRpb25zIHsga290bGluQ29tcGlsZXJFeHRlbnNpb25WZXJzaW9uID0gIjEuNS4xNCIgfQp9CgpkZXBlbmRlbmNpZXMgewogICAgdmFsIGNvbXBvc2VCb20gPSBwbGF0Zm9ybSgiYW5kcm9pZHguY29tcG9zZTpjb21wb3NlLWJvbToyMDI0LjA2LjAwIikKICAgIGltcGxlbWVudGF0aW9uKGNvbXBvc2VCb20pCiAgICBhbmRyb2lkVGVzdEltcGxlbWVudGF0aW9uKGNvbXBvc2VCb20pCgogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LmNvcmU6Y29yZS1rdHg6MS4xMy4xIikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5jb3JlOmNvcmUtc3BsYXNoc2NyZWVuOjEuMC4xIikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5hY3Rpdml0eTphY3Rpdml0eS1jb21wb3NlOjEuOS4yIikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5jb21wb3NlLnVpOnVpIikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5jb21wb3NlLnVpOnVpLWdyYXBoaWNzIikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5jb21wb3NlLnVpOnVpLXRvb2xpbmctcHJldmlldyIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDM6bWF0ZXJpYWwzIikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsOm1hdGVyaWFsLWljb25zLWV4dGVuZGVkIikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5uYXZpZ2F0aW9uOm5hdmlnYXRpb24tY29tcG9zZToyLjcuNyIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHgubGlmZWN5Y2xlOmxpZmVjeWNsZS12aWV3bW9kZWwtY29tcG9zZToyLjguNCIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHgubGlmZWN5Y2xlOmxpZmVjeWNsZS1ydW50aW1lLWNvbXBvc2U6Mi44LjQiKQoKICAgIC8vIENhbWVyYVgKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5jYW1lcmE6Y2FtZXJhLWNvcmU6MS4zLjQiKQogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LmNhbWVyYTpjYW1lcmEtY2FtZXJhMjoxLjMuNCIpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY2FtZXJhOmNhbWVyYS1saWZlY3ljbGU6MS4zLjQiKQogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LmNhbWVyYTpjYW1lcmEtdmlldzoxLjMuNCIpCgogICAgLy8gTUwgS2l0OiBiYXJjb2RlICsgdGV4dCByZWNvZ25pdGlvbiAoT0NSKQogICAgaW1wbGVtZW50YXRpb24oImNvbS5nb29nbGUubWxraXQ6YmFyY29kZS1zY2FubmluZzoxNy4zLjAiKQogICAgaW1wbGVtZW50YXRpb24oImNvbS5nb29nbGUubWxraXQ6dGV4dC1yZWNvZ25pdGlvbjoxNi4wLjAiKQoKICAgIC8vIFJvb20gKGxvY2FsIG9mZmxpbmUgZGF0YWJhc2UpCiAgICBpbXBsZW1lbnRhdGlvbigiYW5kcm9pZHgucm9vbTpyb29tLXJ1bnRpbWU6Mi42LjEiKQogICAgaW1wbGVtZW50YXRpb24oImFuZHJvaWR4LnJvb206cm9vbS1rdHg6Mi42LjEiKQogICAga3NwKCJhbmRyb2lkeC5yb29tOnJvb20tY29tcGlsZXI6Mi42LjEiKQoKICAgIC8vIEltYWdlIGxvYWRpbmcgZm9yIHN0dWRlbnQgcGhvdG9zCiAgICBpbXBsZW1lbnRhdGlvbigiaW8uY29pbC1rdDpjb2lsLWNvbXBvc2U6Mi43LjAiKQoKICAgIC8vIERhdGFTdG9yZSBmb3Igc2V0dGluZ3MgKGluc3RpdHV0aW9uIG5hbWUsIGFkbWluIFBJTikKICAgIGltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5kYXRhc3RvcmU6ZGF0YXN0b3JlLXByZWZlcmVuY2VzOjEuMS4xIikKCiAgICBkZWJ1Z0ltcGxlbWVudGF0aW9uKCJhbmRyb2lkeC5jb21wb3NlLnVpOnVpLXRvb2xpbmciKQogICAgZGVidWdJbXBsZW1lbnRhdGlvbigiYW5kcm9pZHguY29tcG9zZS51aTp1aS10ZXN0LW1hbmlmZXN0IikKfQo=
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+    id("com.google.devtools.ksp")
+}
+
+android {
+    namespace = "com.institution.idscanner"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.institution.idscanner"
+        minSdk = 24
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0"
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            isMinifyEnabled = false
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+        }
+    }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+    kotlinOptions { jvmTarget = "1.8" }
+    buildFeatures { compose = true }
+    composeOptions { kotlinCompilerExtensionVersion = "1.5.14" }
+}
+
+dependencies {
+    val composeBom = platform("androidx.compose:compose-bom:2024.06.00")
+    implementation(composeBom)
+    androidTestImplementation(composeBom)
+
+    implementation("androidx.core:core-ktx:1.13.1")
+    implementation("androidx.core:core-splashscreen:1.0.1")
+    implementation("androidx.activity:activity-compose:1.9.2")
+    implementation("androidx.compose.ui:ui")
+    implementation("androidx.compose.ui:ui-graphics")
+    implementation("androidx.compose.ui:ui-tooling-preview")
+    implementation("androidx.compose.material3:material3")
+    implementation("androidx.compose.material:material-icons-extended")
+    implementation("androidx.navigation:navigation-compose:2.7.7")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.8.4")
+    implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.4")
+
+    // CameraX
+    implementation("androidx.camera:camera-core:1.3.4")
+    implementation("androidx.camera:camera-camera2:1.3.4")
+    implementation("androidx.camera:camera-lifecycle:1.3.4")
+    implementation("androidx.camera:camera-view:1.3.4")
+
+    // ML Kit: barcode + text recognition (OCR)
+    implementation("com.google.mlkit:barcode-scanning:17.3.0")
+    implementation("com.google.mlkit:text-recognition:16.0.0")
+
+    // Room (local offline database)
+    implementation("androidx.room:room-runtime:2.6.1")
+    implementation("androidx.room:room-ktx:2.6.1")
+    ksp("androidx.room:room-compiler:2.6.1")
+
+    // Image loading for student photos
+    implementation("io.coil-kt:coil-compose:2.7.0")
+
+    // DataStore for settings (institution name, admin PIN)
+    implementation("androidx.datastore:datastore-preferences:1.1.1")
+
+    debugImplementation("androidx.compose.ui:ui-tooling")
+    debugImplementation("androidx.compose.ui:ui-test-manifest")
+}
