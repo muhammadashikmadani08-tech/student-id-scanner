@@ -1,1 +1,223 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpCgppbXBvcnQgYW5kcm9pZC5uZXQuVXJpCmltcG9ydCBhbmRyb2lkeC5hY3Rpdml0eS5jb21wb3NlLnJlbWVtYmVyTGF1bmNoZXJGb3JBY3Rpdml0eVJlc3VsdAppbXBvcnQgYW5kcm9pZHguYWN0aXZpdHkucmVzdWx0LmNvbnRyYWN0LkFjdGl2aXR5UmVzdWx0Q29udHJhY3RzCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LkNvbHVtbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5TcGFjZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuZmlsbE1heFNpemUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuZmlsbE1heFdpZHRoCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LmhlaWdodAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5wYWRkaW5nCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ucmVtZW1iZXJTY3JvbGxTdGF0ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLnRleHQuS2V5Ym9hcmRPcHRpb25zCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24udmVydGljYWxTY3JvbGwKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLkJ1dHRvbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuTWF0ZXJpYWxUaGVtZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuT3V0bGluZWRCdXR0b24KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLk91dGxpbmVkVGV4dEZpZWxkCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5UZXh0CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuQ29tcG9zYWJsZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLmNvbGxlY3RBc1N0YXRlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuZ2V0VmFsdWUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5tdXRhYmxlU3RhdGVPZgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLnJlbWVtYmVyCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUucmVtZW1iZXJDb3JvdXRpbmVTY29wZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLnNldFZhbHVlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLk1vZGlmaWVyCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLnBsYXRmb3JtLkxvY2FsQ29udGV4dAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS50ZXh0LmlucHV0LktleWJvYXJkVHlwZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS50ZXh0LmlucHV0LlBhc3N3b3JkVmlzdWFsVHJhbnNmb3JtYXRpb24KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudW5pdC5kcAppbXBvcnQgY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lci5BcHBWaWV3TW9kZWwKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIudXRpbC5CYWNrdXBVdGlsCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnV0aWwuQ3N2VXRpbAppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmxhdW5jaAppbXBvcnQgamF2YS5pby5GaWxlCgpAQ29tcG9zYWJsZQpmdW4gQWRtaW5TY3JlZW4oCiAgICB2bTogQXBwVmlld01vZGVsLAogICAgb25TdHVkZW50czogKCkgLT4gVW5pdCwKICAgIG9uQWRkOiAoKSAtPiBVbml0LAogICAgb25TZXR0aW5nczogKCkgLT4gVW5pdAopIHsKICAgIHZhbCBjb250ZXh0ID0gTG9jYWxDb250ZXh0LmN1cnJlbnQKICAgIHZhbCBzY29wZSA9IHJlbWVtYmVyQ29yb3V0aW5lU2NvcGUoKQogICAgdmFsIHBpbiBieSB2bS5hZG1pblBpbi5jb2xsZWN0QXNTdGF0ZSgpCiAgICB2YXIgZW50ZXJlZCBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKCIiKSB9CiAgICB2YXIgdW5sb2NrZWQgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZihmYWxzZSkgfQogICAgdmFyIG1lc3NhZ2UgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZigiIikgfQogICAgdmFsIHN0dWRlbnRzIGJ5IHZtLnN0dWRlbnRzLmNvbGxlY3RBc1N0YXRlKCkKCiAgICB2YWwgaW1wb3J0TGF1bmNoZXIgPSByZW1lbWJlckxhdW5jaGVyRm9yQWN0aXZpdHlSZXN1bHQoQWN0aXZpdHlSZXN1bHRDb250cmFjdHMuT3BlbkRvY3VtZW50KCkpIHsgdXJpOiBVcmk/IC0+CiAgICAgICAgaWYgKHVyaSAhPSBudWxsKSBzY29wZS5sYXVuY2ggewogICAgICAgICAgICBydW5DYXRjaGluZyB7CiAgICAgICAgICAgICAgICBjb250ZXh0LmNvbnRlbnRSZXNvbHZlci5vcGVuSW5wdXRTdHJlYW0odXJpKT8udXNlIHsgdm0uaW1wb3J0U3R1ZGVudHMoQ3N2VXRpbC5wYXJzZShpdCkpIH0KICAgICAgICAgICAgICAgIG1lc3NhZ2UgPSAiQ1NWIGltcG9ydCDgprjgpq7gp43gpqrgpqjgp43gpqgg4Ka54Kav4Ka84KeH4Kab4KeH4KWkIgogICAgICAgICAgICB9Lm9uRmFpbHVyZSB7IG1lc3NhZ2UgPSAiSW1wb3J0IOCmrOCnjeCmr+CmsOCnjeCmpTogJHtpdC5tZXNzYWdlfSIgfQogICAgICAgIH0KICAgIH0KICAgIHZhbCBleHBvcnRMYXVuY2hlciA9IHJlbWVtYmVyTGF1bmNoZXJGb3JBY3Rpdml0eVJlc3VsdChBY3Rpdml0eVJlc3VsdENvbnRyYWN0cy5DcmVhdGVEb2N1bWVudCgidGV4dC9jc3YiKSkgeyB1cmk6IFVyaT8gLT4KICAgICAgICBpZiAodXJpICE9IG51bGwpIHNjb3BlLmxhdW5jaCB7CiAgICAgICAgICAgIHJ1bkNhdGNoaW5nIHsKICAgICAgICAgICAgICAgIGNvbnRleHQuY29udGVudFJlc29sdmVyLm9wZW5PdXRwdXRTdHJlYW0odXJpKT8udXNlIHsKICAgICAgICAgICAgICAgICAgICBpdC53cml0ZShDc3ZVdGlsLnRvQ3N2KHN0dWRlbnRzKS50b0J5dGVBcnJheShDaGFyc2V0cy5VVEZfOCkpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBtZXNzYWdlID0gIkNTViBleHBvcnQg4Ka44Kau4KeN4Kaq4Kao4KeN4KaoIOCmueCmr+CmvOCnh+Cmm+Cnh+ClpCIKICAgICAgICAgICAgfS5vbkZhaWx1cmUgeyBtZXNzYWdlID0gIkV4cG9ydCDgpqzgp43gpq/gprDgp43gpqU6ICR7aXQubWVzc2FnZX0iIH0KICAgICAgICB9CiAgICB9CiAgICB2YWwgYmFja3VwTGF1bmNoZXIgPSByZW1lbWJlckxhdW5jaGVyRm9yQWN0aXZpdHlSZXN1bHQoQWN0aXZpdHlSZXN1bHRDb250cmFjdHMuQ3JlYXRlRG9jdW1lbnQoImFwcGxpY2F0aW9uL29jdGV0LXN0cmVhbSIpKSB7IHVyaTogVXJpPyAtPgogICAgICAgIGlmICh1cmkgIT0gbnVsbCkgc2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgcnVuQ2F0Y2hpbmcgewogICAgICAgICAgICAgICAgY29udGV4dC5jb250ZW50UmVzb2x2ZXIub3Blbk91dHB1dFN0cmVhbSh1cmkpPy51c2UgeyBCYWNrdXBVdGlsLmJhY2t1cChjb250ZXh0LCBpdCwgdm0uZGF0YWJhc2VGaWxlTmFtZSkgfQogICAgICAgICAgICAgICAgbWVzc2FnZSA9ICJCYWNrdXAg4Ka44Kau4KeN4Kaq4Kao4KeN4KaoIOCmueCmr+CmvOCnh+Cmm+Cnh+ClpCIKICAgICAgICAgICAgfS5vbkZhaWx1cmUgeyBtZXNzYWdlID0gIkJhY2t1cCDgpqzgp43gpq/gprDgp43gpqU6ICR7aXQubWVzc2FnZX0iIH0KICAgICAgICB9CiAgICB9CiAgICB2YWwgcmVzdG9yZUxhdW5jaGVyID0gcmVtZW1iZXJMYXVuY2hlckZvckFjdGl2aXR5UmVzdWx0KEFjdGl2aXR5UmVzdWx0Q29udHJhY3RzLk9wZW5Eb2N1bWVudCgpKSB7IHVyaTogVXJpPyAtPgogICAgICAgIGlmICh1cmkgIT0gbnVsbCkgc2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgcnVuQ2F0Y2hpbmcgewogICAgICAgICAgICAgICAgdmFsIHRtcCA9IEZpbGUoY29udGV4dC5jYWNoZURpciwgInJlc3RvcmUuZGIiKQogICAgICAgICAgICAgICAgY29udGV4dC5jb250ZW50UmVzb2x2ZXIub3BlbklucHV0U3RyZWFtKHVyaSk/LnVzZSB7IHNyYyAtPiB0bXAub3V0cHV0U3RyZWFtKCkudXNlIHsgc3JjLmNvcHlUbyhpdCkgfSB9CiAgICAgICAgICAgICAgICBCYWNrdXBVdGlsLnJlc3RvcmUoY29udGV4dCwgdG1wLCB2bS5kYXRhYmFzZUZpbGVOYW1lKQogICAgICAgICAgICAgICAgbWVzc2FnZSA9ICJSZXN0b3JlIOCmuOCmruCnjeCmquCmqOCnjeCmqCDigJQg4KaF4KeN4Kav4Ka+4KaqIOCmrOCmqOCnjeCmpyDgppXgprDgp4cg4KaG4Kas4Ka+4KawIOCmluCngeCmsuCngeCmqOClpCIKICAgICAgICAgICAgfS5vbkZhaWx1cmUgeyBtZXNzYWdlID0gIlJlc3RvcmUg4Kas4KeN4Kav4Kaw4KeN4KalOiAke2l0Lm1lc3NhZ2V9IiB9CiAgICAgICAgfQogICAgfQoKICAgIENvbHVtbihNb2RpZmllci5maWxsTWF4U2l6ZSgpLnBhZGRpbmcoMTYuZHApLnZlcnRpY2FsU2Nyb2xsKHJlbWVtYmVyU2Nyb2xsU3RhdGUoKSkpIHsKICAgICAgICBUZXh0KCJBZG1pbiBTZWN0aW9uIiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVNZWRpdW0pCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMi5kcCkpCiAgICAgICAgaWYgKCF1bmxvY2tlZCkgewogICAgICAgICAgICBUZXh0KCJBZG1pbiBQSU4g4Kam4Ka/4KaoICjgpqHgpr/gpqvgprLgp43gpp86IDEyMzQp4KWkIFNldHRpbmdzIOCmpeCnh+CmleCnhyBQSU4g4Kas4Kam4Kay4Ka+4Kao4KeLIOCmr+CmvuCmr+CmvOClpCIpCiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgIE91dGxpbmVkVGV4dEZpZWxkKAogICAgICAgICAgICAgICAgdmFsdWUgPSBlbnRlcmVkLCBvblZhbHVlQ2hhbmdlID0geyBlbnRlcmVkID0gaXQgfSwKICAgICAgICAgICAgICAgIGxhYmVsID0geyBUZXh0KCJQSU4iKSB9LAogICAgICAgICAgICAgICAgdmlzdWFsVHJhbnNmb3JtYXRpb24gPSBQYXNzd29yZFZpc3VhbFRyYW5zZm9ybWF0aW9uKCksCiAgICAgICAgICAgICAgICBrZXlib2FyZE9wdGlvbnMgPSBLZXlib2FyZE9wdGlvbnMoa2V5Ym9hcmRUeXBlID0gS2V5Ym9hcmRUeXBlLk51bWJlclBhc3N3b3JkKSwKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkKICAgICAgICAgICAgKQogICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgICAgICBCdXR0b24oCiAgICAgICAgICAgICAgICBvbkNsaWNrID0geyB1bmxvY2tlZCA9IGVudGVyZWQgPT0gcGluOyBpZiAoIXVubG9ja2VkKSBtZXNzYWdlID0gIuCmreCngeCmsiBQSU7gpaQiIH0sCiAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICkgeyBUZXh0KCJVbmxvY2sg4KaV4Kaw4KeB4KaoIikgfQogICAgICAgICAgICBpZiAobWVzc2FnZS5pc05vdEJsYW5rKCkpIHsgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSk7IFRleHQobWVzc2FnZSkgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIEJ1dHRvbihvbkNsaWNrID0gb25BZGQsIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsgVGV4dCgiQWRkIFN0dWRlbnQiKSB9CiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgIE91dGxpbmVkQnV0dG9uKG9uQ2xpY2sgPSBvblN0dWRlbnRzLCBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpKSB7IFRleHQoIlN0dWRlbnRzIOCmpuCnh+CmluCngeCmqCAvIEVkaXQgLyBEZWxldGUiKSB9CiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgIE91dGxpbmVkQnV0dG9uKG9uQ2xpY2sgPSB7IGltcG9ydExhdW5jaGVyLmxhdW5jaChhcnJheU9mKCJ0ZXh0L2NzdiIsICJ0ZXh0L2NvbW1hLXNlcGFyYXRlZC12YWx1ZXMiLCAiKi8qIikpIH0sIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsKICAgICAgICAgICAgICAgIFRleHQoIkNTVi9FeGNlbCAoQ1NWKSDgpqXgp4fgppXgp4cgSW1wb3J0IOCmleCmsOCngeCmqCIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICAgICAgT3V0bGluZWRCdXR0b24ob25DbGljayA9IHsgZXhwb3J0TGF1bmNoZXIubGF1bmNoKCJzdHVkZW50cy5jc3YiKSB9LCBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpKSB7CiAgICAgICAgICAgICAgICBUZXh0KCJDU1Yt4KaPIEV4cG9ydCDgppXgprDgp4HgpqgiKQogICAgICAgICAgICB9CiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgIE91dGxpbmVkQnV0dG9uKG9uQ2xpY2sgPSB7IGJhY2t1cExhdW5jaGVyLmxhdW5jaCgic3R1ZGVudF9iYWNrdXAuZGIiKSB9LCBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpKSB7CiAgICAgICAgICAgICAgICBUZXh0KCJEYXRhYmFzZSBCYWNrdXAg4Kao4Ka/4KaoIikKICAgICAgICAgICAgfQogICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgICAgICBPdXRsaW5lZEJ1dHRvbihvbkNsaWNrID0geyByZXN0b3JlTGF1bmNoZXIubGF1bmNoKGFycmF5T2YoIiovKiIpKSB9LCBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpKSB7CiAgICAgICAgICAgICAgICBUZXh0KCJEYXRhYmFzZSBSZXN0b3JlIOCmleCmsOCngeCmqCIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICAgICAgT3V0bGluZWRCdXR0b24ob25DbGljayA9IG9uU2V0dGluZ3MsIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsKICAgICAgICAgICAgICAgIFRleHQoIuCmquCnjeCmsOCmpOCmv+Cmt+CnjeCmoOCmvuCmqOCnh+CmsCDgpqjgpr7gpq4g4KaTIFBJTiDgpqrgprDgpr/gpqzgprDgp43gpqTgpqgg4KaV4Kaw4KeB4KaoIikKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobWVzc2FnZS5pc05vdEJsYW5rKCkpIHsgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMC5kcCkpOyBUZXh0KG1lc3NhZ2UpIH0KICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMC5kcCkpCiAgICAgICAgICAgIFRleHQoIkV4Y2VsIOCmq+CmvuCmh+CmsiDgprjgprDgpr7gprjgprDgpr8g4Kao4Kav4Ka8IOKAlCBFeGNlbC3gpo8gRmlsZSA+IFNhdmUgQXMgPiBDU1YgVVRGLTgg4KaV4Kaw4KeHIGltcG9ydCDgppXgprDgp4HgpqjgpaQiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5ib2R5TWVkaXVtKQogICAgICAgIH0KICAgIH0KfQoKQENvbXBvc2FibGUKZnVuIFNldHRpbmdzU2NyZWVuKHZtOiBBcHBWaWV3TW9kZWwsIG9uRG9uZTogKCkgLT4gVW5pdCkgewogICAgdmFsIGluc3RpdHV0aW9uTmFtZSBieSB2bS5pbnN0aXR1dGlvbk5hbWUuY29sbGVjdEFzU3RhdGUoKQogICAgdmFsIHBpbiBieSB2bS5hZG1pblBpbi5jb2xsZWN0QXNTdGF0ZSgpCiAgICB2YWwgY3VycmVudEVtYWlsIGJ5IHZtLmN1cnJlbnRBY2NvdW50RW1haWwuY29sbGVjdEFzU3RhdGUoKQogICAgdmFyIG5hbWUgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZigiIikgfQogICAgdmFyIG5ld1BpbiBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKCIiKSB9CiAgICB2YXIgZmlyc3QgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZih0cnVlKSB9CiAgICBpZiAoZmlyc3QgJiYgaW5zdGl0dXRpb25OYW1lLmlzTm90QmxhbmsoKSkgeyBuYW1lID0gaW5zdGl0dXRpb25OYW1lOyBmaXJzdCA9IGZhbHNlIH0KCiAgICAvLyBHbWFpbCBhY2NvdW50IHNlY3Rpb246IGVhY2ggR21haWwga2VlcHMgaXRzIG93biBzZXBhcmF0ZSBsb2NhbCBkYXRhLgogICAgdmFsIGNvbnRleHQgPSBMb2NhbENvbnRleHQuY3VycmVudAogICAgdmFsIHNjb3BlID0gcmVtZW1iZXJDb3JvdXRpbmVTY29wZSgpCiAgICB2YXIgZW1haWxJbnB1dCBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKCIiKSB9CiAgICB2YXIgZW1haWxGaXJzdCBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKHRydWUpIH0KICAgIGlmIChlbWFpbEZpcnN0ICYmIGN1cnJlbnRFbWFpbC5pc05vdEJsYW5rKCkpIHsgZW1haWxJbnB1dCA9IGN1cnJlbnRFbWFpbDsgZW1haWxGaXJzdCA9IGZhbHNlIH0KICAgIHZhciBlbWFpbEVycm9yIGJ5IHJlbWVtYmVyIHsgbXV0YWJsZVN0YXRlT2YoIiIpIH0KCiAgICBDb2x1bW4oTW9kaWZpZXIuZmlsbE1heFNpemUoKS5wYWRkaW5nKDE2LmRwKS52ZXJ0aWNhbFNjcm9sbChyZW1lbWJlclNjcm9sbFN0YXRlKCkpKSB7CiAgICAgICAgVGV4dCgiU2V0dGluZ3MiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5oZWFkbGluZU1lZGl1bSkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEyLmRwKSkKICAgICAgICBUZXh0KCLgpqrgp43gprDgpqTgpr/gprfgp43gpqDgpr7gpqjgp4fgprAg4Kao4Ka+4KauIChIb21lIFNjcmVlbi3gpo8g4Kam4KeH4KaW4Ka+4Kas4KeHOyBMb2dvIOCmrOCmpuCmsuCmvuCmpOCnhyByZXMvZHJhd2FibGUt4KaP4KawIOCmhuCmh+CmleCmqCDgpqzgpqbgprLgpr7gpqgg4oCUIFJFQURNRSDgpqbgp4fgppbgp4Hgpqgp4KWkIikKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgIE91dGxpbmVkVGV4dEZpZWxkKHZhbHVlID0gbmFtZSwgb25WYWx1ZUNoYW5nZSA9IHsgbmFtZSA9IGl0IH0sIGxhYmVsID0geyBUZXh0KCLgpqrgp43gprDgpqTgpr/gprfgp43gpqDgpr7gpqjgp4fgprAg4Kao4Ka+4KauIikgfSwgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEyLmRwKSkKICAgICAgICBUZXh0KCLgpqzgprDgp43gpqTgpq7gpr7gpqggQWRtaW4gUElOOiAkcGluIikKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgIE91dGxpbmVkVGV4dEZpZWxkKAogICAgICAgICAgICB2YWx1ZSA9IG5ld1Bpbiwgb25WYWx1ZUNoYW5nZSA9IHsgbmV3UGluID0gaXQgfSwgbGFiZWwgPSB7IFRleHQoIuCmqOCmpOCngeCmqCBQSU4gKDQg4Ka44KaC4KaW4KeN4Kav4Ka+KSIpIH0sCiAgICAgICAgICAgIGtleWJvYXJkT3B0aW9ucyA9IEtleWJvYXJkT3B0aW9ucyhrZXlib2FyZFR5cGUgPSBLZXlib2FyZFR5cGUuTnVtYmVyUGFzc3dvcmQpLAogICAgICAgICAgICB2aXN1YWxUcmFuc2Zvcm1hdGlvbiA9IFBhc3N3b3JkVmlzdWFsVHJhbnNmb3JtYXRpb24oKSwgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKQogICAgICAgICkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDE0LmRwKSkKICAgICAgICBCdXR0b24oCiAgICAgICAgICAgIG9uQ2xpY2sgPSB7CiAgICAgICAgICAgICAgICBpZiAobmFtZS5pc05vdEJsYW5rKCkpIHZtLnNldEluc3RpdHV0aW9uTmFtZShuYW1lLnRyaW0oKSkKICAgICAgICAgICAgICAgIGlmIChuZXdQaW4ubGVuZ3RoID49IDQpIHZtLnNldEFkbWluUGluKG5ld1Bpbi50cmltKCkpCiAgICAgICAgICAgICAgICBvbkRvbmUoKQogICAgICAgICAgICB9LAogICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgKSB7IFRleHQoIlNhdmUg4KaV4Kaw4KeB4KaoIikgfQogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMjAuZHApKQogICAgICAgIFRleHQoIkdtYWlsIOCmheCnjeCmr+CmvuCmleCmvuCmieCmqOCnjeCmnyIsIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LnRpdGxlTWVkaXVtKQogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgVGV4dCgKICAgICAgICAgICAgaWYgKGN1cnJlbnRFbWFpbC5pc0JsYW5rKCkpICLgppXgp4vgpqjgp4sgR21haWwg4Kam4KeH4KaT4Kav4Ka84Ka+IOCmueCmr+CmvOCmqOCmvyIKICAgICAgICAgICAgZWxzZSAi4Kas4Kaw4KeN4Kak4Kau4Ka+4KaoIEdtYWlsOiAkY3VycmVudEVtYWlsIgogICAgICAgICkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgIE91dGxpbmVkVGV4dEZpZWxkKAogICAgICAgICAgICB2YWx1ZSA9IGVtYWlsSW5wdXQsIG9uVmFsdWVDaGFuZ2UgPSB7IGVtYWlsSW5wdXQgPSBpdDsgZW1haWxFcnJvciA9ICIiIH0sCiAgICAgICAgICAgIGxhYmVsID0geyBUZXh0KCJHbWFpbCDgprLgpr/gppbgp4HgpqgiKSB9LAogICAgICAgICAgICBrZXlib2FyZE9wdGlvbnMgPSBLZXlib2FyZE9wdGlvbnMoa2V5Ym9hcmRUeXBlID0gS2V5Ym9hcmRUeXBlLkVtYWlsKSwKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKQogICAgICAgICkKICAgICAgICBpZiAoZW1haWxFcnJvci5pc05vdEJsYW5rKCkpIHsKICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg2LmRwKSkKICAgICAgICAgICAgVGV4dChlbWFpbEVycm9yLCBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUuZXJyb3IpCiAgICAgICAgfQogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgT3V0bGluZWRCdXR0b24oCiAgICAgICAgICAgIG9uQ2xpY2sgPSB7CiAgICAgICAgICAgICAgICB2YWwgbm9ybWFsaXNlZCA9IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIuZGF0YS5BY2NvdW50U3RvcmUubm9ybWFsaXNlRW1haWwoZW1haWxJbnB1dCkKICAgICAgICAgICAgICAgIGlmICghY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lci5kYXRhLkFjY291bnRTdG9yZS5pc1ZhbGlkRW1haWwobm9ybWFsaXNlZCkpIHsKICAgICAgICAgICAgICAgICAgICBlbWFpbEVycm9yID0gIuCmuOCmoOCmv+CmlSBHbWFpbCDgprLgpr/gppbgp4HgpqggKOCmr+Cnh+CmruCmqCBuYW1lQGdtYWlsLmNvbSngpaQiCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuQE91dGxpbmVkQnV0dG9uCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBzY29wZS5sYXVuY2ggewogICAgICAgICAgICAgICAgICAgIHZtLnNldEFjY291bnRFbWFpbChub3JtYWxpc2VkKQogICAgICAgICAgICAgICAgICAgIC8vIFJlc3RhcnQgc28gdGhlIG90aGVyIGFjY291bnQncyBkYXRhYmFzZSBhbmQgc2V0dGluZ3MgbG9hZC4KICAgICAgICAgICAgICAgICAgICB2YWwgYWN0aXZpdHkgPSBjb250ZXh0IGFzPyBhbmRyb2lkLmFwcC5BY3Rpdml0eQogICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5Py5sZXQgewogICAgICAgICAgICAgICAgICAgICAgICB2YWwgaW50ZW50ID0gaXQuaW50ZW50CiAgICAgICAgICAgICAgICAgICAgICAgIGl0LmZpbmlzaCgpCiAgICAgICAgICAgICAgICAgICAgICAgIGl0LnN0YXJ0QWN0aXZpdHkoaW50ZW50KQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKQogICAgICAgICkgeyBUZXh0KCLgpoXgp43gpq/gpr7gppXgpr7gpongpqjgp43gpp8g4Kas4Kam4Kay4Ka+4KaoIikgfQogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgVGV4dCgi4Kak4Kal4KeN4KavIOCmq+Cni+CmqOCnh+CmhyDgpobgprLgpr7gpqbgpr7gpq3gpr7gpqzgp4cg4Kal4Ka+4KaV4Kas4KeHOyBHbWFpbC3gpo8g4KaG4Kaq4Kay4KeL4KahIOCmueCmrOCnhyDgpqjgpr7gpaQiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5ib2R5TWVkaXVtKQogICAgfQp9Cg==
+package com.institution.idscanner.ui
+
+import android.net.Uri
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.text.KeyboardOptions
+import androidx.compose.foundation.verticalScroll
+import androidx.compose.material3.Button
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.input.KeyboardType
+import androidx.compose.ui.text.input.PasswordVisualTransformation
+import androidx.compose.ui.unit.dp
+import com.institution.idscanner.AppViewModel
+import com.institution.idscanner.util.BackupUtil
+import com.institution.idscanner.util.CsvUtil
+import kotlinx.coroutines.launch
+import java.io.File
+
+@Composable
+fun AdminScreen(
+    vm: AppViewModel,
+    onStudents: () -> Unit,
+    onAdd: () -> Unit,
+    onSettings: () -> Unit
+) {
+    val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+    val pin by vm.adminPin.collectAsState()
+    var entered by remember { mutableStateOf("") }
+    var unlocked by remember { mutableStateOf(false) }
+    var message by remember { mutableStateOf("") }
+    val students by vm.students.collectAsState()
+
+    val importLauncher = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { uri: Uri? ->
+        if (uri != null) scope.launch {
+            runCatching {
+                context.contentResolver.openInputStream(uri)?.use { vm.importStudents(CsvUtil.parse(it)) }
+                message = "CSV import সম্পন্ন হয়েছে।"
+            }.onFailure { message = "Import ব্যর্থ: ${it.message}" }
+        }
+    }
+    val exportLauncher = rememberLauncherForActivityResult(ActivityResultContracts.CreateDocument("text/csv")) { uri: Uri? ->
+        if (uri != null) scope.launch {
+            runCatching {
+                context.contentResolver.openOutputStream(uri)?.use {
+                    it.write(CsvUtil.toCsv(students).toByteArray(Charsets.UTF_8))
+                }
+                message = "CSV export সম্পন্ন হয়েছে।"
+            }.onFailure { message = "Export ব্যর্থ: ${it.message}" }
+        }
+    }
+    val backupLauncher = rememberLauncherForActivityResult(ActivityResultContracts.CreateDocument("application/octet-stream")) { uri: Uri? ->
+        if (uri != null) scope.launch {
+            runCatching {
+                context.contentResolver.openOutputStream(uri)?.use { BackupUtil.backup(context, it, vm.databaseFileName) }
+                message = "Backup সম্পন্ন হয়েছে।"
+            }.onFailure { message = "Backup ব্যর্থ: ${it.message}" }
+        }
+    }
+    val restoreLauncher = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { uri: Uri? ->
+        if (uri != null) scope.launch {
+            runCatching {
+                val tmp = File(context.cacheDir, "restore.db")
+                context.contentResolver.openInputStream(uri)?.use { src -> tmp.outputStream().use { src.copyTo(it) } }
+                BackupUtil.restore(context, tmp, vm.databaseFileName)
+                message = "Restore সম্পন্ন — অ্যাপ বন্ধ করে আবার খুলুন।"
+            }.onFailure { message = "Restore ব্যর্থ: ${it.message}" }
+        }
+    }
+
+    Column(Modifier.fillMaxSize().padding(16.dp).verticalScroll(rememberScrollState())) {
+        Text("Admin Section", style = MaterialTheme.typography.headlineMedium)
+        Spacer(Modifier.height(12.dp))
+        if (!unlocked) {
+            Text("Admin PIN দিন (ডিফল্ট: 1234)। Settings থেকে PIN বদলানো যায়।")
+            Spacer(Modifier.height(8.dp))
+            OutlinedTextField(
+                value = entered, onValueChange = { entered = it },
+                label = { Text("PIN") },
+                visualTransformation = PasswordVisualTransformation(),
+                keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.NumberPassword),
+                modifier = Modifier.fillMaxWidth()
+            )
+            Spacer(Modifier.height(8.dp))
+            Button(
+                onClick = { unlocked = entered == pin; if (!unlocked) message = "ভুল PIN।" },
+                modifier = Modifier.fillMaxWidth()
+            ) { Text("Unlock করুন") }
+            if (message.isNotBlank()) { Spacer(Modifier.height(8.dp)); Text(message) }
+        } else {
+            Button(onClick = onAdd, modifier = Modifier.fillMaxWidth()) { Text("Add Student") }
+            Spacer(Modifier.height(8.dp))
+            OutlinedButton(onClick = onStudents, modifier = Modifier.fillMaxWidth()) { Text("Students দেখুন / Edit / Delete") }
+            Spacer(Modifier.height(8.dp))
+            OutlinedButton(onClick = { importLauncher.launch(arrayOf("text/csv", "text/comma-separated-values", "*/*")) }, modifier = Modifier.fillMaxWidth()) {
+                Text("CSV/Excel (CSV) থেকে Import করুন")
+            }
+            Spacer(Modifier.height(8.dp))
+            OutlinedButton(onClick = { exportLauncher.launch("students.csv") }, modifier = Modifier.fillMaxWidth()) {
+                Text("CSV-এ Export করুন")
+            }
+            Spacer(Modifier.height(8.dp))
+            OutlinedButton(onClick = { backupLauncher.launch("student_backup.db") }, modifier = Modifier.fillMaxWidth()) {
+                Text("Database Backup নিন")
+            }
+            Spacer(Modifier.height(8.dp))
+            OutlinedButton(onClick = { restoreLauncher.launch(arrayOf("*/*")) }, modifier = Modifier.fillMaxWidth()) {
+                Text("Database Restore করুন")
+            }
+            Spacer(Modifier.height(8.dp))
+            OutlinedButton(onClick = onSettings, modifier = Modifier.fillMaxWidth()) {
+                Text("প্রতিষ্ঠানের নাম ও PIN পরিবর্তন করুন")
+            }
+            if (message.isNotBlank()) { Spacer(Modifier.height(10.dp)); Text(message) }
+            Spacer(Modifier.height(10.dp))
+            Text("Excel ফাইল সরাসরি নয় — Excel-এ File > Save As > CSV UTF-8 করে import করুন।", style = MaterialTheme.typography.bodyMedium)
+        }
+    }
+}
+
+@Composable
+fun SettingsScreen(vm: AppViewModel, onDone: () -> Unit) {
+    val institutionName by vm.institutionName.collectAsState()
+    val pin by vm.adminPin.collectAsState()
+    val currentEmail by vm.currentAccountEmail.collectAsState()
+    var name by remember { mutableStateOf("") }
+    var newPin by remember { mutableStateOf("") }
+    var first by remember { mutableStateOf(true) }
+    if (first && institutionName.isNotBlank()) { name = institutionName; first = false }
+
+    // Gmail account section: each Gmail keeps its own separate local data.
+    val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+    var emailInput by remember { mutableStateOf("") }
+    var emailFirst by remember { mutableStateOf(true) }
+    if (emailFirst && currentEmail.isNotBlank()) { emailInput = currentEmail; emailFirst = false }
+    var emailError by remember { mutableStateOf("") }
+
+    Column(Modifier.fillMaxSize().padding(16.dp).verticalScroll(rememberScrollState())) {
+        Text("Settings", style = MaterialTheme.typography.headlineMedium)
+        Spacer(Modifier.height(12.dp))
+        Text("প্রতিষ্ঠানের নাম (Home Screen-এ দেখাবে; Logo বদলাতে res/drawable-এর আইকন বদলান — README দেখুন)।")
+        Spacer(Modifier.height(8.dp))
+        OutlinedTextField(value = name, onValueChange = { name = it }, label = { Text("প্রতিষ্ঠানের নাম") }, modifier = Modifier.fillMaxWidth())
+        Spacer(Modifier.height(12.dp))
+        Text("বর্তমান Admin PIN: $pin")
+        Spacer(Modifier.height(8.dp))
+        OutlinedTextField(
+            value = newPin, onValueChange = { newPin = it }, label = { Text("নতুন PIN (4 সংখ্যা)") },
+            keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.NumberPassword),
+            visualTransformation = PasswordVisualTransformation(), modifier = Modifier.fillMaxWidth()
+        )
+        Spacer(Modifier.height(14.dp))
+        Button(
+            onClick = {
+                if (name.isNotBlank()) vm.setInstitutionName(name.trim())
+                if (newPin.length >= 4) vm.setAdminPin(newPin.trim())
+                onDone()
+            },
+            modifier = Modifier.fillMaxWidth()
+        ) { Text("Save করুন") }
+        Spacer(Modifier.height(20.dp))
+        Text("Gmail অ্যাকাউন্ট", style = MaterialTheme.typography.titleMedium)
+        Spacer(Modifier.height(8.dp))
+        Text(
+            if (currentEmail.isBlank()) "কোনো Gmail দেওয়া হয়নি"
+            else "বর্তমান Gmail: $currentEmail"
+        )
+        Spacer(Modifier.height(8.dp))
+        OutlinedTextField(
+            value = emailInput, onValueChange = { emailInput = it; emailError = "" },
+            label = { Text("Gmail লিখুন") },
+            keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Email),
+            modifier = Modifier.fillMaxWidth()
+        )
+        if (emailError.isNotBlank()) {
+            Spacer(Modifier.height(6.dp))
+            Text(emailError, color = MaterialTheme.colorScheme.error)
+        }
+        Spacer(Modifier.height(8.dp))
+        OutlinedButton(
+            onClick = {
+                val normalised = com.institution.idscanner.data.AccountStore.normaliseEmail(emailInput)
+                if (!com.institution.idscanner.data.AccountStore.isValidEmail(normalised)) {
+                    emailError = "সঠিক Gmail লিখুন (যেমন name@gmail.com)।"
+                    return@OutlinedButton
+                }
+                scope.launch {
+                    vm.setAccountEmail(normalised)
+                    // Restart so the other account's database and settings load.
+                    val activity = context as? android.app.Activity
+                    activity?.let {
+                        val intent = it.intent
+                        it.finish()
+                        it.startActivity(intent)
+                    }
+                }
+            },
+            modifier = Modifier.fillMaxWidth()
+        ) { Text("অ্যাকাউন্ট বদলান") }
+        Spacer(Modifier.height(8.dp))
+        Text("তথ্য ফোনেই আলাদাভাবে থাকবে; Gmail-এ আপলোড হবে না।", style = MaterialTheme.typography.bodyMedium)
+    }
+}
