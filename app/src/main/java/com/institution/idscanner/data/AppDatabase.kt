@@ -1,1 +1,103 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgYW5kcm9pZHgucm9vbS5EYXRhYmFzZQppbXBvcnQgYW5kcm9pZHgucm9vbS5Sb29tCmltcG9ydCBhbmRyb2lkeC5yb29tLlJvb21EYXRhYmFzZQppbXBvcnQgYW5kcm9pZHgucm9vbS5taWdyYXRpb24uTWlncmF0aW9uCmltcG9ydCBhbmRyb2lkeC5zcWxpdGUuZGIuU3VwcG9ydFNRTGl0ZURhdGFiYXNlCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuQ29yb3V0aW5lU2NvcGUKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5EaXNwYXRjaGVycwppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmxhdW5jaAoKQERhdGFiYXNlKAogICAgZW50aXRpZXMgPSBbU3R1ZGVudDo6Y2xhc3MsIFNjYW5IaXN0b3J5OjpjbGFzcywgQXR0ZW5kYW5jZVJlY29yZDo6Y2xhc3NdLAogICAgdmVyc2lvbiA9IDIsCiAgICBleHBvcnRTY2hlbWEgPSBmYWxzZQopCmFic3RyYWN0IGNsYXNzIEFwcERhdGFiYXNlIDogUm9vbURhdGFiYXNlKCkgewogICAgYWJzdHJhY3QgZnVuIHN0dWRlbnREYW8oKTogU3R1ZGVudERhbwogICAgYWJzdHJhY3QgZnVuIGhpc3RvcnlEYW8oKTogU2Nhbkhpc3RvcnlEYW8KICAgIGFic3RyYWN0IGZ1biBhdHRlbmRhbmNlRGFvKCk6IEF0dGVuZGFuY2VEYW8KCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBAVm9sYXRpbGUgcHJpdmF0ZSB2YXIgSU5TVEFOQ0U6IEFwcERhdGFiYXNlPyA9IG51bGwKICAgICAgICBAVm9sYXRpbGUgcHJpdmF0ZSB2YXIgSU5TVEFOQ0VfTkFNRTogU3RyaW5nPyA9IG51bGwKCiAgICAgICAgLyoqIEFkZHMgdGhlIGF0dGVuZGFuY2UgdGFibGUuIEV4aXN0aW5nIHN0dWRlbnRzL2hpc3RvcnkgYXJlIHVudG91Y2hlZC4gKi8KICAgICAgICB2YWwgTUlHUkFUSU9OXzFfMiA9IG9iamVjdCA6IE1pZ3JhdGlvbigxLCAyKSB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBtaWdyYXRlKGRiOiBTdXBwb3J0U1FMaXRlRGF0YWJhc2UpIHsKICAgICAgICAgICAgICAgIGRiLmV4ZWNTUUwoCiAgICAgICAgICAgICAgICAgICAgIkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGBhdHRlbmRhbmNlYCAoIiArCiAgICAgICAgICAgICAgICAgICAgICAgICJgaWRgIElOVEVHRVIgUFJJTUFSWSBLRVkgQVVUT0lOQ1JFTUVOVCBOT1QgTlVMTCwgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICJgc3R1ZGVudElkYCBURVhUIE5PVCBOVUxMLCBgZGF0ZWAgVEVYVCBOT1QgTlVMTCwgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICJgc2Nhbm5lZEF0YCBJTlRFR0VSIE5PVCBOVUxMKSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGRiLmV4ZWNTUUwoCiAgICAgICAgICAgICAgICAgICAgIkNSRUFURSBVTklRVUUgSU5ERVggSUYgTk9UIEVYSVNUUyAiICsKICAgICAgICAgICAgICAgICAgICAgICAgImBpbmRleF9hdHRlbmRhbmNlX3N0dWRlbnRJZF9kYXRlYCBPTiBgYXR0ZW5kYW5jZWAgKGBzdHVkZW50SWRgLCBgZGF0ZWApIgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICAvKiogRGF0YWJhc2UgZmlsZSBmb3IgYW4gYWNjb3VudDogdGhlIHNoYXJlZCBmaWxlIHdoZW4gbm8gR21haWwgaXMgc2V0LAogICAgICAgICAqICBvdGhlcndpc2UgYSBzZXBhcmF0ZSBmaWxlIHBlciBHbWFpbCAoaGFzaGVkLCBzbyBubyBlbWFpbCBpbiB0aGUgbmFtZSkuICovCiAgICAgICAgZnVuIGRhdGFiYXNlTmFtZUZvcihhY2NvdW50RW1haWw6IFN0cmluZyk6IFN0cmluZyB7CiAgICAgICAgICAgIHZhbCBrZXkgPSBBY2NvdW50U3RvcmUuYWNjb3VudEtleShhY2NvdW50RW1haWwpCiAgICAgICAgICAgIHJldHVybiBpZiAoa2V5ID09ICJkZWZhdWx0IikgInN0dWRlbnRfaWRfc2Nhbm5lci5kYiIKICAgICAgICAgICAgZWxzZSAic3R1ZGVudF9pZF9zY2FubmVyXyRrZXkuZGIiCiAgICAgICAgfQoKICAgICAgICBmdW4gZ2V0KGNvbnRleHQ6IENvbnRleHQsIGFjY291bnRFbWFpbDogU3RyaW5nID0gIiIpOiBBcHBEYXRhYmFzZSB7CiAgICAgICAgICAgIHZhbCBuYW1lID0gZGF0YWJhc2VOYW1lRm9yKGFjY291bnRFbWFpbCkKICAgICAgICAgICAgdmFsIGNhY2hlZCA9IElOU1RBTkNFCiAgICAgICAgICAgIGlmIChjYWNoZWQgIT0gbnVsbCAmJiBJTlNUQU5DRV9OQU1FID09IG5hbWUpIHJldHVybiBjYWNoZWQKICAgICAgICAgICAgcmV0dXJuIHN5bmNocm9uaXplZCh0aGlzKSB7CiAgICAgICAgICAgICAgICB2YWwgYWdhaW4gPSBJTlNUQU5DRQogICAgICAgICAgICAgICAgaWYgKGFnYWluICE9IG51bGwgJiYgSU5TVEFOQ0VfTkFNRSA9PSBuYW1lKSB7CiAgICAgICAgICAgICAgICAgICAgYWdhaW4KICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy8gQWNjb3VudCBzd2l0Y2hlZDogY2xvc2UgdGhlIG9sZCBkYXRhYmFzZSBiZWZvcmUgb3BlbmluZwogICAgICAgICAgICAgICAgICAgIC8vIHRoZSBvdGhlciBhY2NvdW50J3MgZmlsZS4KICAgICAgICAgICAgICAgICAgICB0cnkgeyBJTlNUQU5DRT8uY2xvc2UoKSB9IGNhdGNoIChfOiBFeGNlcHRpb24pIHsgfQogICAgICAgICAgICAgICAgICAgIFJvb20uZGF0YWJhc2VCdWlsZGVyKAogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LmFwcGxpY2F0aW9uQ29udGV4dCwKICAgICAgICAgICAgICAgICAgICAgICAgQXBwRGF0YWJhc2U6OmNsYXNzLmphdmEsCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWUKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRNaWdyYXRpb25zKE1JR1JBVElPTl8xXzIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRDYWxsYmFjayhTZWVkQ2FsbGJhY2soKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmFsc28geyBJTlNUQU5DRSA9IGl0OyBJTlNUQU5DRV9OQU1FID0gbmFtZSB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIC8qKiBTZWVkcyA1IGRlbW8gc3R1ZGVudHMgb24gZmlyc3QgY3JlYXRpb24gb2YgZWFjaCBkYXRhYmFzZSBmaWxlLCBzbwogICAgICAgICAqICBzY2FubmluZyBjYW4gYmUgdHJpZWQgaW1tZWRpYXRlbHkuIEVhY2ggR21haWwgYWNjb3VudCdzIG5ldwogICAgICAgICAqICBkYXRhYmFzZSBnZXRzIGl0cyBvd24gY29weS4gRGVsZXRlIHRoZW0gZnJvbSBBZG1pbiA+IFN0dWRlbnRzLAogICAgICAgICAqICBvciByZXBsYWNlIHRoZW0gd2l0aCBhIENTViBpbXBvcnQuICovCiAgICAgICAgcHJpdmF0ZSBjbGFzcyBTZWVkQ2FsbGJhY2sgOiBDYWxsYmFjaygpIHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQ3JlYXRlKGRiOiBTdXBwb3J0U1FMaXRlRGF0YWJhc2UpIHsKICAgICAgICAgICAgICAgIHN1cGVyLm9uQ3JlYXRlKGRiKQogICAgICAgICAgICAgICAgQ29yb3V0aW5lU2NvcGUoRGlzcGF0Y2hlcnMuSU8pLmxhdW5jaCB7CiAgICAgICAgICAgICAgICAgICAgLy8gU2VlZCB0aHJvdWdoIHJhdyBTUUw6IFJvb20gaXMgbm90IHJlYWR5IGluc2lkZSBvbkNyZWF0ZS4KICAgICAgICAgICAgICAgICAgICB2YWwgZGVtbyA9IGxpc3RPZigKICAgICAgICAgICAgICAgICAgICAgICAgYXJyYXlPZigiU1RELTEwMDEiLCAi4KaG4Kas4KeN4Kam4KeB4Kay4KeN4Kay4Ka+4Ka5IOCmhuCmsiDgpq7gpr7gpq7gp4HgpqgiLCAi4Kau4KeL4KaDIOCmhuCmrOCnjeCmpuCngeCmsiDgppXgprDgpr/gpq4iLCAi4Kar4Ka+4Kak4KeH4Kau4Ka+IOCmrOCnh+Cml+CmriIsICLgpqbgprbgpq4iLCAiMDEiLCAiMjAyNS0yNiIsICLgppUiLCAiMDE3MDAwMDAwMDEiKSwKICAgICAgICAgICAgICAgICAgICAgICAgYXJyYXlPZigiU1RELTEwMDIiLCAi4Kar4Ka+4Kaw4Kac4Ka+4Kao4Ka+IOCmhuCmleCnjeCmpOCmvuCmsCIsICLgpq7gp4vgpoMg4Kar4Kac4Kay4KeB4KayIOCmueCmlSIsICLgprbgpr7gprngpqjgpr7gppwg4Kas4KeH4KaX4KauIiwgIuCmqOCmrOCmriIsICIwNSIsICIyMDI1LTI2IiwgIuCmliIsICIwMTcwMDAwMDAwMiIpLAogICAgICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCJTVEQtMTAwMyIsICLgpq7gp4vgpoMg4Kaw4Ka+4KaV4Ka/4KasIOCmueCmvuCmuOCmvuCmqCIsICLgpq7gp4vgpoMg4KaG4Kao4KeL4Kav4Ka84Ka+4KawIOCmueCni+CmuOCnh+CmqCIsICLgprDgp4vgppXgp4fgpq/gprzgpr4g4Kas4KeH4KaX4KauIiwgIuCmheCmt+CnjeCmn+CmriIsICIxMiIsICIyMDI1LTI2IiwgIuCmlSIsICIwMTcwMDAwMDAwMyIpLAogICAgICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCJTVEQtMTAwNCIsICLgpqjgp4HgprjgprDgpr7gpqQg4Kac4Ka+4Ka54Ka+4KaoIiwgIuCmruCni+CmgyDgpqjgppzgprDgp4HgprIg4KaH4Ka44Kay4Ka+4KauIiwgIuCmruCmsOCmv+Cmr+CmvOCmriDgpqzgp4fgppfgpq4iLCAi4Ka44Kaq4KeN4Kak4KauIiwgIjAzIiwgIjIwMjUtMjYiLCAi4KaXIiwgIiIpLAogICAgICAgICAgICAgICAgICAgICAgICBhcnJheU9mKCJTVEQtMTAwNSIsICLgpqTgpr7gpqjgpq3gp4DgprAg4KaG4Ka54Kau4KeH4KamIiwgIuCmruCni+CmgyDgpqTgpr7gppzgp4HgprIg4KaH4Ka44Kay4Ka+4KauIiwgIuCmhuCmruCmv+CmqOCmviDgppbgpr7gpqTgp4HgpqgiLCAi4Ka34Ka34KeN4KagIiwgIjA3IiwgIjIwMjUtMjYiLCAi4KaVIiwgIjAxNzAwMDAwMDA1IikKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgZGVtby5mb3JFYWNoIHsKICAgICAgICAgICAgICAgICAgICAgICAgZGIuZXhlY1NRTCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJJTlNFUlQgSU5UTyBzdHVkZW50cyAoc3R1ZGVudElkLCBuYW1lLCBmYXRoZXJOYW1lLCBtb3RoZXJOYW1lLCBjbGFzc05hbWUsIHJvbGwsIHNlc3Npb24sIHNlY3Rpb24sIHBob25lLCBwaG90b1VyaSkgIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlZBTFVFUyAoPywgPywgPywgPywgPywgPywgPywgPywgPywgJycpIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0CiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0K
+package com.institution.idscanner.data
+
+import android.content.Context
+import androidx.room.Database
+import androidx.room.Room
+import androidx.room.RoomDatabase
+import androidx.room.migration.Migration
+import androidx.sqlite.db.SupportSQLiteDatabase
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+
+@Database(
+    entities = [Student::class, ScanHistory::class, AttendanceRecord::class],
+    version = 2,
+    exportSchema = false
+)
+abstract class AppDatabase : RoomDatabase() {
+    abstract fun studentDao(): StudentDao
+    abstract fun historyDao(): ScanHistoryDao
+    abstract fun attendanceDao(): AttendanceDao
+
+    companion object {
+        @Volatile private var INSTANCE: AppDatabase? = null
+        @Volatile private var INSTANCE_NAME: String? = null
+
+        /** Adds the attendance table. Existing students/history are untouched. */
+        val MIGRATION_1_2 = object : Migration(1, 2) {
+            override fun migrate(db: SupportSQLiteDatabase) {
+                db.execSQL(
+                    "CREATE TABLE IF NOT EXISTS `attendance` (" +
+                        "`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, " +
+                        "`studentId` TEXT NOT NULL, `date` TEXT NOT NULL, " +
+                        "`scannedAt` INTEGER NOT NULL)"
+                )
+                db.execSQL(
+                    "CREATE UNIQUE INDEX IF NOT EXISTS " +
+                        "`index_attendance_studentId_date` ON `attendance` (`studentId`, `date`)"
+                )
+            }
+        }
+
+        /** Database file for an account: the shared file when no Gmail is set,
+         *  otherwise a separate file per Gmail (hashed, so no email in the name). */
+        fun databaseNameFor(accountEmail: String): String {
+            val key = AccountStore.accountKey(accountEmail)
+            return if (key == "default") "student_id_scanner.db"
+            else "student_id_scanner_$key.db"
+        }
+
+        fun get(context: Context, accountEmail: String = ""): AppDatabase {
+            val name = databaseNameFor(accountEmail)
+            val cached = INSTANCE
+            if (cached != null && INSTANCE_NAME == name) return cached
+            return synchronized(this) {
+                val again = INSTANCE
+                if (again != null && INSTANCE_NAME == name) {
+                    again
+                } else {
+                    // Account switched: close the old database before opening
+                    // the other account's file.
+                    try { INSTANCE?.close() } catch (_: Exception) { }
+                    Room.databaseBuilder(
+                        context.applicationContext,
+                        AppDatabase::class.java,
+                        name
+                    )
+                        .addMigrations(MIGRATION_1_2)
+                        .addCallback(SeedCallback())
+                        .build()
+                        .also { INSTANCE = it; INSTANCE_NAME = name }
+                }
+            }
+        }
+
+        /** Seeds 5 demo students on first creation of each database file, so
+         *  scanning can be tried immediately. Each Gmail account's new
+         *  database gets its own copy. Delete them from Admin > Students,
+         *  or replace them with a CSV import. */
+        private class SeedCallback : Callback() {
+            override fun onCreate(db: SupportSQLiteDatabase) {
+                super.onCreate(db)
+                CoroutineScope(Dispatchers.IO).launch {
+                    // Seed through raw SQL: Room is not ready inside onCreate.
+                    val demo = listOf(
+                        arrayOf("STD-1001", "আব্দুল্লাহ আল মামুন", "মোঃ আব্দুল করিম", "ফাতেমা বেগম", "দশম", "01", "2025-26", "ক", "01700000001"),
+                        arrayOf("STD-1002", "ফারজানা আক্তার", "মোঃ ফজলুল হক", "শাহনাজ বেগম", "নবম", "05", "2025-26", "খ", "01700000002"),
+                        arrayOf("STD-1003", "মোঃ রাকিব হাসান", "মোঃ আনোয়ার হোসেন", "রোকেয়া বেগম", "অষ্টম", "12", "2025-26", "ক", "01700000003"),
+                        arrayOf("STD-1004", "নুসরাত জাহান", "মোঃ নজরুল ইসলাম", "মরিয়ম বেগম", "সপ্তম", "03", "2025-26", "গ", ""),
+                        arrayOf("STD-1005", "তানভীর আহমেদ", "মোঃ তাজুল ইসলাম", "আমিনা খাতুন", "ষষ্ঠ", "07", "2025-26", "ক", "01700000005")
+                    )
+                    demo.forEach {
+                        db.execSQL(
+                            "INSERT INTO students (studentId, name, fatherName, motherName, className, roll, session, section, phone, photoUri) " +
+                                "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, '')",
+                            it
+                        )
+                    }
+                }
+            }
+        }
+    }
+}
