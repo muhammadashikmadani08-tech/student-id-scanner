@@ -1,1 +1,50 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnV0aWwKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgYW5kcm9pZC5uZXQuVXJpCmltcG9ydCBqYXZhLmlvLkZpbGUKCi8qKgogKiBTdHVkZW50IHBob3RvcyBhcmUgY29waWVkIGludG8gdGhlIGFwcCdzIG93biBpbnRlcm5hbCBzdG9yYWdlLCBzbyB0aGV5CiAqIHN1cnZpdmUgYXBwIHJlc3RhcnRzLiBBIHJhdyBnYWxsZXJ5IGNvbnRlbnQ6Ly8gVVJJIGlzIE5PVCBkdXJhYmxlOiB0aGUKICogc3lzdGVtIHBpY2tlciBncmFudCBleHBpcmVzIGFuZCB0aGUgcGhvdG8gdGhlbiBkaXNhcHBlYXJzIGZyb20gcHJvZmlsZXMuCiAqIFN0b3JlZCB2YWx1ZXMgYXJlIGFic29sdXRlIGZpbGUgcGF0aHMgdW5kZXIgZmlsZXNEaXIvcGhvdG9zLy4KICovCm9iamVjdCBQaG90b1N0b3JlIHsKICAgIHByaXZhdGUgZnVuIHBob3Rvc0Rpcihjb250ZXh0OiBDb250ZXh0KTogRmlsZSA9CiAgICAgICAgRmlsZShjb250ZXh0LmZpbGVzRGlyLCAicGhvdG9zIikuYWxzbyB7IGlmICghaXQuZXhpc3RzKCkpIGl0Lm1rZGlycygpIH0KCiAgICAvKiogQ29waWVzIFt1cmldIGludG8gaW50ZXJuYWwgc3RvcmFnZSBhbmQgcmV0dXJucyB0aGUgc2F2ZWQgZmlsZSBwYXRoLiAqLwogICAgZnVuIHNhdmVQaG90byhjb250ZXh0OiBDb250ZXh0LCB1cmk6IFVyaSk6IFN0cmluZz8gewogICAgICAgIHJldHVybiB0cnkgewogICAgICAgICAgICB2YWwgZXh0ID0gY29udGV4dC5jb250ZW50UmVzb2x2ZXIuZ2V0VHlwZSh1cmkpPy5zdWJzdHJpbmdBZnRlcigiLyIpPy50YWtlSWYgeyBpdC5sZW5ndGggaW4gMy4uNCB9ID86ICJqcGciCiAgICAgICAgICAgIHZhbCBmaWxlID0gRmlsZShwaG90b3NEaXIoY29udGV4dCksICJwaG90b18ke1N5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpfS4kZXh0IikKICAgICAgICAgICAgY29udGV4dC5jb250ZW50UmVzb2x2ZXIub3BlbklucHV0U3RyZWFtKHVyaSk/LnVzZSB7IGlucHV0IC0+CiAgICAgICAgICAgICAgICBmaWxlLm91dHB1dFN0cmVhbSgpLnVzZSB7IGlucHV0LmNvcHlUbyhpdCkgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZpbGUuYWJzb2x1dGVQYXRoCiAgICAgICAgfSBjYXRjaCAoXzogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIG51bGwKICAgICAgICB9CiAgICB9CgogICAgLyoqIENvcGllcyBhIHN0aWxsLXVucmVzb2x2ZWQgY29udGVudCBVUkkgKGlmIGFueSkgaW50byBpbnRlcm5hbCBzdG9yYWdlLiAqLwogICAgZnVuIHJlc29sdmVTdG9yZWRQYXRoKGNvbnRleHQ6IENvbnRleHQsIHN0b3JlZDogU3RyaW5nKTogU3RyaW5nIHsKICAgICAgICBpZiAoIXN0b3JlZC5zdGFydHNXaXRoKCJjb250ZW50Oi8vIikpIHJldHVybiBzdG9yZWQKICAgICAgICByZXR1cm4gdHJ5IHsKICAgICAgICAgICAgc2F2ZVBob3RvKGNvbnRleHQsIFVyaS5wYXJzZShzdG9yZWQpKSA/OiBzdG9yZWQKICAgICAgICB9IGNhdGNoIChfOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgc3RvcmVkCiAgICAgICAgfQogICAgfQoKICAgIGZ1biBkZWxldGVQaG90byhzdG9yZWQ6IFN0cmluZykgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlmIChzdG9yZWQuc3RhcnRzV2l0aCgiLyIpKSB7CiAgICAgICAgICAgICAgICB2YWwgZmlsZSA9IEZpbGUoc3RvcmVkKQogICAgICAgICAgICAgICAgaWYgKGZpbGUuZXhpc3RzKCkpIGZpbGUuZGVsZXRlKCkKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKF86IEV4Y2VwdGlvbikgewogICAgICAgIH0KICAgIH0KfQo=
+package com.institution.idscanner.util
+
+import android.content.Context
+import android.net.Uri
+import java.io.File
+
+/**
+ * Student photos are copied into the app's own internal storage, so they
+ * survive app restarts. A raw gallery content:// URI is NOT durable: the
+ * system picker grant expires and the photo then disappears from profiles.
+ * Stored values are absolute file paths under filesDir/photos/.
+ */
+object PhotoStore {
+    private fun photosDir(context: Context): File =
+        File(context.filesDir, "photos").also { if (!it.exists()) it.mkdirs() }
+
+    /** Copies [uri] into internal storage and returns the saved file path. */
+    fun savePhoto(context: Context, uri: Uri): String? {
+        return try {
+            val ext = context.contentResolver.getType(uri)?.substringAfter("/")?.takeIf { it.length in 3..4 } ?: "jpg"
+            val file = File(photosDir(context), "photo_${System.currentTimeMillis()}.$ext")
+            context.contentResolver.openInputStream(uri)?.use { input ->
+                file.outputStream().use { input.copyTo(it) }
+            }
+            file.absolutePath
+        } catch (_: Exception) {
+            null
+        }
+    }
+
+    /** Copies a still-unresolved content URI (if any) into internal storage. */
+    fun resolveStoredPath(context: Context, stored: String): String {
+        if (!stored.startsWith("content://")) return stored
+        return try {
+            savePhoto(context, Uri.parse(stored)) ?: stored
+        } catch (_: Exception) {
+            stored
+        }
+    }
+
+    fun deletePhoto(stored: String) {
+        try {
+            if (stored.startsWith("/")) {
+                val file = File(stored)
+                if (file.exists()) file.delete()
+            }
+        } catch (_: Exception) {
+        }
+    }
+}
