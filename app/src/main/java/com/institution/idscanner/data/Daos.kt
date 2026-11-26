@@ -1,1 +1,65 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEKCmltcG9ydCBhbmRyb2lkeC5yb29tLkRhbwppbXBvcnQgYW5kcm9pZHgucm9vbS5EZWxldGUKaW1wb3J0IGFuZHJvaWR4LnJvb20uSW5zZXJ0CmltcG9ydCBhbmRyb2lkeC5yb29tLk9uQ29uZmxpY3RTdHJhdGVneQppbXBvcnQgYW5kcm9pZHgucm9vbS5RdWVyeQppbXBvcnQgYW5kcm9pZHgucm9vbS5VcGRhdGUKaW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5mbG93LkZsb3cKCkBEYW8KaW50ZXJmYWNlIFN0dWRlbnREYW8gewogICAgQFF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIHN0dWRlbnRzIE9SREVSIEJZIG5hbWUgQVNDIikKICAgIGZ1biBnZXRBbGwoKTogRmxvdzxMaXN0PFN0dWRlbnQ+PgoKICAgIEBRdWVyeSgiU0VMRUNUICogRlJPTSBzdHVkZW50cyBXSEVSRSBzdHVkZW50SWQgPSA6aWQgTElNSVQgMSIpCiAgICBzdXNwZW5kIGZ1biBnZXRCeUlkKGlkOiBTdHJpbmcpOiBTdHVkZW50PwoKICAgIEBRdWVyeSgKICAgICAgICAiU0VMRUNUICogRlJPTSBzdHVkZW50cyBXSEVSRSBzdHVkZW50SWQgTElLRSAnJScgfHwgOnEgfHwgJyUnICIgKwogICAgICAgICAgICAiT1IgbmFtZSBMSUtFICclJyB8fCA6cSB8fCAnJScgT1IgY2xhc3NOYW1lIExJS0UgJyUnIHx8IDpxIHx8ICclJyAiICsKICAgICAgICAgICAgIk9SIHJvbGwgTElLRSAnJScgfHwgOnEgfHwgJyUnIE9SREVSIEJZIG5hbWUgQVNDIgogICAgKQogICAgZnVuIHNlYXJjaChxOiBTdHJpbmcpOiBGbG93PExpc3Q8U3R1ZGVudD4+CgogICAgQEluc2VydChvbkNvbmZsaWN0ID0gT25Db25mbGljdFN0cmF0ZWd5LlJFUExBQ0UpCiAgICBzdXNwZW5kIGZ1biB1cHNlcnQoc3R1ZGVudDogU3R1ZGVudCkKCiAgICBASW5zZXJ0KG9uQ29uZmxpY3QgPSBPbkNvbmZsaWN0U3RyYXRlZ3kuUkVQTEFDRSkKICAgIHN1c3BlbmQgZnVuIHVwc2VydEFsbChzdHVkZW50czogTGlzdDxTdHVkZW50PikKCiAgICBAVXBkYXRlCiAgICBzdXNwZW5kIGZ1biB1cGRhdGUoc3R1ZGVudDogU3R1ZGVudCkKCiAgICBARGVsZXRlCiAgICBzdXNwZW5kIGZ1biBkZWxldGUoc3R1ZGVudDogU3R1ZGVudCkKCiAgICBAUXVlcnkoIlNFTEVDVCBDT1VOVCgqKSBGUk9NIHN0dWRlbnRzIikKICAgIHN1c3BlbmQgZnVuIGNvdW50KCk6IEludAp9CgpARGFvCmludGVyZmFjZSBTY2FuSGlzdG9yeURhbyB7CiAgICBAUXVlcnkoIlNFTEVDVCAqIEZST00gc2Nhbl9oaXN0b3J5IE9SREVSIEJZIHNjYW5uZWRBdCBERVNDIikKICAgIGZ1biBnZXRBbGwoKTogRmxvdzxMaXN0PFNjYW5IaXN0b3J5Pj4KCiAgICBASW5zZXJ0CiAgICBzdXNwZW5kIGZ1biBpbnNlcnQoZW50cnk6IFNjYW5IaXN0b3J5KQoKICAgIEBRdWVyeSgiREVMRVRFIEZST00gc2Nhbl9oaXN0b3J5IFdIRVJFIGlkID0gOmlkIikKICAgIHN1c3BlbmQgZnVuIGRlbGV0ZUJ5SWQoaWQ6IExvbmcpCgogICAgQFF1ZXJ5KCJERUxFVEUgRlJPTSBzY2FuX2hpc3RvcnkiKQogICAgc3VzcGVuZCBmdW4gY2xlYXJBbGwoKQp9CgpARGFvCmludGVyZmFjZSBBdHRlbmRhbmNlRGFvIHsKICAgIC8qKiBJbnNlcnRzIG9ubHkgaWYgbm8gcmVjb3JkIGZvciB0aGlzIHN0dWRlbnQrZGF0ZSBleGlzdHMgeWV0LiAqLwogICAgQEluc2VydChvbkNvbmZsaWN0ID0gT25Db25mbGljdFN0cmF0ZWd5LklHTk9SRSkKICAgIHN1c3BlbmQgZnVuIGluc2VydElnbm9yZShyZWNvcmQ6IEF0dGVuZGFuY2VSZWNvcmQpCgogICAgQFF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIGF0dGVuZGFuY2UgV0hFUkUgc3R1ZGVudElkID0gOnN0dWRlbnRJZCBPUkRFUiBCWSBkYXRlIEFTQyIpCiAgICBmdW4gZ2V0Rm9yU3R1ZGVudChzdHVkZW50SWQ6IFN0cmluZyk6IEZsb3c8TGlzdDxBdHRlbmRhbmNlUmVjb3JkPj4KfQo=
+package com.institution.idscanner.data
+
+import androidx.room.Dao
+import androidx.room.Delete
+import androidx.room.Insert
+import androidx.room.OnConflictStrategy
+import androidx.room.Query
+import androidx.room.Update
+import kotlinx.coroutines.flow.Flow
+
+@Dao
+interface StudentDao {
+    @Query("SELECT * FROM students ORDER BY name ASC")
+    fun getAll(): Flow<List<Student>>
+
+    @Query("SELECT * FROM students WHERE studentId = :id LIMIT 1")
+    suspend fun getById(id: String): Student?
+
+    @Query(
+        "SELECT * FROM students WHERE studentId LIKE '%' || :q || '%' " +
+            "OR name LIKE '%' || :q || '%' OR className LIKE '%' || :q || '%' " +
+            "OR roll LIKE '%' || :q || '%' ORDER BY name ASC"
+    )
+    fun search(q: String): Flow<List<Student>>
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun upsert(student: Student)
+
+    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun upsertAll(students: List<Student>)
+
+    @Update
+    suspend fun update(student: Student)
+
+    @Delete
+    suspend fun delete(student: Student)
+
+    @Query("SELECT COUNT(*) FROM students")
+    suspend fun count(): Int
+}
+
+@Dao
+interface ScanHistoryDao {
+    @Query("SELECT * FROM scan_history ORDER BY scannedAt DESC")
+    fun getAll(): Flow<List<ScanHistory>>
+
+    @Insert
+    suspend fun insert(entry: ScanHistory)
+
+    @Query("DELETE FROM scan_history WHERE id = :id")
+    suspend fun deleteById(id: Long)
+
+    @Query("DELETE FROM scan_history")
+    suspend fun clearAll()
+}
+
+@Dao
+interface AttendanceDao {
+    /** Inserts only if no record for this student+date exists yet. */
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    suspend fun insertIgnore(record: AttendanceRecord)
+
+    @Query("SELECT * FROM attendance WHERE studentId = :studentId ORDER BY date ASC")
+    fun getForStudent(studentId: String): Flow<List<AttendanceRecord>>
+}
