@@ -1,1 +1,139 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpCgppbXBvcnQgYW5kcm9pZC5uZXQuVXJpCmltcG9ydCBhbmRyb2lkeC5hY3Rpdml0eS5jb21wb3NlLnJlbWVtYmVyTGF1bmNoZXJGb3JBY3Rpdml0eVJlc3VsdAppbXBvcnQgYW5kcm9pZHguYWN0aXZpdHkucmVzdWx0LmNvbnRyYWN0LkFjdGl2aXR5UmVzdWx0Q29udHJhY3RzCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LkNvbHVtbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLnJlbWVtYmVyQ29yb3V0aW5lU2NvcGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkucGxhdGZvcm0uTG9jYWxDb250ZXh0CmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnV0aWwuUGhvdG9TdG9yZQppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLkRpc3BhdGNoZXJzCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMubGF1bmNoCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMud2l0aENvbnRleHQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuU3BhY2VyCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LmZpbGxNYXhTaXplCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LmZpbGxNYXhXaWR0aAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5oZWlnaHQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQucGFkZGluZwppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLnJlbWVtYmVyU2Nyb2xsU3RhdGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi52ZXJ0aWNhbFNjcm9sbAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuQnV0dG9uCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5NYXRlcmlhbFRoZW1lCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5PdXRsaW5lZEJ1dHRvbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuT3V0bGluZWRUZXh0RmllbGQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLlRleHQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5Db21wb3NhYmxlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuY29sbGVjdEFzU3RhdGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5nZXRWYWx1ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLm11dGFibGVTdGF0ZU9mCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUucmVtZW1iZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5zZXRWYWx1ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS5Nb2RpZmllcgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS51bml0LmRwCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLkFwcFZpZXdNb2RlbAppbXBvcnQgY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lci5kYXRhLlN0dWRlbnQKCkBDb21wb3NhYmxlCmZ1biBTdHVkZW50Rm9ybVNjcmVlbih2bTogQXBwVmlld01vZGVsLCBleGlzdGluZzogU3R1ZGVudD8sIG9uRG9uZTogKCkgLT4gVW5pdCkgewogICAgdmFyIGlkIGJ5IHJlbWVtYmVyIHsgbXV0YWJsZVN0YXRlT2YoZXhpc3Rpbmc/LnN0dWRlbnRJZCA/OiAiIikgfQogICAgdmFyIG5hbWUgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZihleGlzdGluZz8ubmFtZSA/OiAiIikgfQogICAgdmFyIGZhdGhlciBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGV4aXN0aW5nPy5mYXRoZXJOYW1lID86ICIiKSB9CiAgICB2YXIgbW90aGVyIGJ5IHJlbWVtYmVyIHsgbXV0YWJsZVN0YXRlT2YoZXhpc3Rpbmc/Lm1vdGhlck5hbWUgPzogIiIpIH0KICAgIHZhciBjbGFzc05hbWUgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZihleGlzdGluZz8uY2xhc3NOYW1lID86ICIiKSB9CiAgICB2YXIgcm9sbCBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGV4aXN0aW5nPy5yb2xsID86ICIiKSB9CiAgICB2YXIgc2Vzc2lvbiBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGV4aXN0aW5nPy5zZXNzaW9uID86ICIiKSB9CiAgICB2YXIgc2VjdGlvbiBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGV4aXN0aW5nPy5zZWN0aW9uID86ICIiKSB9CiAgICB2YXIgcGhvbmUgYnkgcmVtZW1iZXIgeyBtdXRhYmxlU3RhdGVPZihleGlzdGluZz8ucGhvbmUgPzogIiIpIH0KICAgIHZhciBwaG90b1VyaSBieSByZW1lbWJlciB7IG11dGFibGVTdGF0ZU9mKGV4aXN0aW5nPy5waG90b1VyaSA/OiAiIikgfQogICAgdmFyIGVycm9yIGJ5IHJlbWVtYmVyIHsgbXV0YWJsZVN0YXRlT2YoIiIpIH0KCiAgICAvLyBQaWNrZWQgcGhvdG9zIGFyZSBjb3BpZWQgaW50byB0aGUgYXBwJ3MgaW50ZXJuYWwgc3RvcmFnZSBhdCBvbmNlLCBzbyB0aGUKICAgIC8vIHBob3RvIHN0YXlzIHNhdmVkIGV2ZW4gYWZ0ZXIgdGhlIGFwcCBpcyBjbG9zZWQgYW5kIHJlb3BlbmVkLgogICAgdmFsIGNvbnRleHQgPSBMb2NhbENvbnRleHQuY3VycmVudAogICAgdmFsIHNjb3BlID0gcmVtZW1iZXJDb3JvdXRpbmVTY29wZSgpCiAgICB2YWwgcGhvdG9QaWNrZXIgPSByZW1lbWJlckxhdW5jaGVyRm9yQWN0aXZpdHlSZXN1bHQoQWN0aXZpdHlSZXN1bHRDb250cmFjdHMuR2V0Q29udGVudCgpKSB7IHVyaTogVXJpPyAtPgogICAgICAgIGlmICh1cmkgIT0gbnVsbCkgewogICAgICAgICAgICBzY29wZS5sYXVuY2ggewogICAgICAgICAgICAgICAgdmFsIHNhdmVkID0gd2l0aENvbnRleHQoRGlzcGF0Y2hlcnMuSU8pIHsgUGhvdG9TdG9yZS5zYXZlUGhvdG8oY29udGV4dCwgdXJpKSB9CiAgICAgICAgICAgICAgICBwaG90b1VyaSA9IHNhdmVkID86IHVyaS50b1N0cmluZygpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgQ29sdW1uKE1vZGlmaWVyLmZpbGxNYXhTaXplKCkucGFkZGluZygxNi5kcCkudmVydGljYWxTY3JvbGwocmVtZW1iZXJTY3JvbGxTdGF0ZSgpKSkgewogICAgICAgIFRleHQoaWYgKGV4aXN0aW5nID09IG51bGwpICJBZGQgU3R1ZGVudCIgZWxzZSAiRWRpdCBTdHVkZW50Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVNZWRpdW0pCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMi5kcCkpCiAgICAgICAgQENvbXBvc2FibGUKICAgICAgICBmdW4gRmllbGQodjogU3RyaW5nLCBvblY6IChTdHJpbmcpIC0+IFVuaXQsIGxhYmVsOiBTdHJpbmcsIGVuYWJsZWQ6IEJvb2xlYW4gPSB0cnVlKSB7CiAgICAgICAgICAgIE91dGxpbmVkVGV4dEZpZWxkKHZhbHVlID0gdiwgb25WYWx1ZUNoYW5nZSA9IG9uViwgbGFiZWwgPSB7IFRleHQobGFiZWwpIH0sIGVuYWJsZWQgPSBlbmFibGVkLCBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpKQogICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgIH0KICAgICAgICBGaWVsZChpZCwgeyBpZCA9IGl0IH0sICJTdHVkZW50IElEICoiLCBlbmFibGVkID0gZXhpc3RpbmcgPT0gbnVsbCkKICAgICAgICBGaWVsZChuYW1lLCB7IG5hbWUgPSBpdCB9LCAi4Kao4Ka+4KauICoiKQogICAgICAgIEZpZWxkKGZhdGhlciwgeyBmYXRoZXIgPSBpdCB9LCAi4Kaq4Ka/4Kak4Ka+4KawIOCmqOCmvuCmriIpCiAgICAgICAgRmllbGQobW90aGVyLCB7IG1vdGhlciA9IGl0IH0sICLgpq7gpr7gpqTgpr7gprAg4Kao4Ka+4KauIikKICAgICAgICBGaWVsZChjbGFzc05hbWUsIHsgY2xhc3NOYW1lID0gaXQgfSwgIuCmtuCnjeCmsOCnh+Cmo+CmvyIpCiAgICAgICAgRmllbGQocm9sbCwgeyByb2xsID0gaXQgfSwgIuCmsOCni+CmsiIpCiAgICAgICAgRmllbGQoc2Vzc2lvbiwgeyBzZXNzaW9uID0gaXQgfSwgIuCmuOCnh+CmtuCmqCIpCiAgICAgICAgRmllbGQoc2VjdGlvbiwgeyBzZWN0aW9uID0gaXQgfSwgIuCmrOCmv+CmreCmvuCmly/gprbgpr7gppbgpr4iKQogICAgICAgIEZpZWxkKHBob25lLCB7IHBob25lID0gaXQgfSwgIuCmruCni+CmrOCmvuCmh+CmsiDgpqjgpq7gp43gpqzgprAiKQogICAgICAgIE91dGxpbmVkQnV0dG9uKG9uQ2xpY2sgPSB7IHBob3RvUGlja2VyLmxhdW5jaCgiaW1hZ2UvKiIpIH0sIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsKICAgICAgICAgICAgVGV4dChpZiAocGhvdG9VcmkuaXNCbGFuaygpKSAi4Kab4Kas4Ka/IOCmrOCnh+Cmm+CnhyDgpqjgpr/gpqggKOCmkOCmmuCnjeCmm+Cmv+CmlSkiIGVsc2UgIuCmm+CmrOCmvyDgpqrgprDgpr/gpqzgprDgp43gpqTgpqgg4KaV4Kaw4KeB4KaoIikKICAgICAgICB9CiAgICAgICAgaWYgKGVycm9yLmlzTm90QmxhbmsoKSkgeyBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKTsgVGV4dChlcnJvciwgY29sb3IgPSBNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLmVycm9yKSB9CiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMi5kcCkpCiAgICAgICAgQnV0dG9uKAogICAgICAgICAgICBvbkNsaWNrID0gewogICAgICAgICAgICAgICAgaWYgKGlkLmlzQmxhbmsoKSB8fCBuYW1lLmlzQmxhbmsoKSkgeyBlcnJvciA9ICJTdHVkZW50IElEIOCmkyDgpqjgpr7gpq4g4KaF4Kas4Ka24KeN4Kav4KaHIOCmpuCmv+CmpOCnhyDgprngpqzgp4fgpaQiOyByZXR1cm5AQnV0dG9uIH0KICAgICAgICAgICAgICAgIHZhbCBzdHVkZW50ID0gU3R1ZGVudChpZC50cmltKCksIG5hbWUudHJpbSgpLCBmYXRoZXIudHJpbSgpLCBtb3RoZXIudHJpbSgpLCBjbGFzc05hbWUudHJpbSgpLCByb2xsLnRyaW0oKSwgc2Vzc2lvbi50cmltKCksIHNlY3Rpb24udHJpbSgpLCBwaG9uZS50cmltKCksIHBob3RvVXJpKQogICAgICAgICAgICAgICAgaWYgKHBob3RvVXJpLnN0YXJ0c1dpdGgoImNvbnRlbnQ6Ly8iKSkgewogICAgICAgICAgICAgICAgICAgIC8vIENvcHkgdGhlIHBob3RvIGludG8gaW50ZXJuYWwgc3RvcmFnZSBmaXJzdCwgdGhlbiBzYXZlLgogICAgICAgICAgICAgICAgICAgIHNjb3BlLmxhdW5jaCB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBzYXZlZCA9IHdpdGhDb250ZXh0KERpc3BhdGNoZXJzLklPKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQaG90b1N0b3JlLnJlc29sdmVTdG9yZWRQYXRoKGNvbnRleHQsIHBob3RvVXJpKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIHZtLnNhdmVTdHVkZW50KHN0dWRlbnQuY29weShwaG90b1VyaSA9IHNhdmVkKSkKICAgICAgICAgICAgICAgICAgICAgICAgb25Eb25lKCkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHZtLnNhdmVTdHVkZW50KHN0dWRlbnQpCiAgICAgICAgICAgICAgICAgICAgb25Eb25lKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKQogICAgICAgICkgeyBUZXh0KCJTYXZlIOCmleCmsOCngeCmqCIpIH0KICAgIH0KfQoKQENvbXBvc2FibGUKZnVuIFByb2ZpbGVTY3JlZW4oCiAgICB2bTogQXBwVmlld01vZGVsLAogICAgc3R1ZGVudElkOiBTdHJpbmcsCiAgICBvbkVkaXQ6ICgpIC0+IFVuaXQsCiAgICBvbkRlbGV0ZTogKCkgLT4gVW5pdCwKICAgIG9uQmFjazogKCkgLT4gVW5pdCwKICAgIG9uQXR0ZW5kYW5jZTogKCkgLT4gVW5pdCA9IHt9CikgewogICAgdmFsIHN0dWRlbnRzIGJ5IHZtLnN0dWRlbnRzLmNvbGxlY3RBc1N0YXRlKCkKICAgIHZhbCBpbnN0aXR1dGlvbk5hbWUgYnkgdm0uaW5zdGl0dXRpb25OYW1lLmNvbGxlY3RBc1N0YXRlKCkKICAgIHZhbCBzdHVkZW50ID0gc3R1ZGVudHMuZmlyc3RPck51bGwgeyBpdC5zdHVkZW50SWQgPT0gc3R1ZGVudElkIH0KICAgIENvbHVtbihNb2RpZmllci5maWxsTWF4U2l6ZSgpLnBhZGRpbmcoMTYuZHApKSB7CiAgICAgICAgaWYgKHN0dWRlbnQgPT0gbnVsbCkgewogICAgICAgICAgICBUZXh0KCJTdHVkZW50IOCmquCmvuCmk+Cmr+CmvOCmviDgpq/gpr7gpq/gprzgpqjgpr/gpaQiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5oZWFkbGluZU1lZGl1bSkKICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMC5kcCkpCiAgICAgICAgICAgIE91dGxpbmVkQnV0dG9uKG9uQ2xpY2sgPSBvbkJhY2ssIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsgVGV4dCgi4Kar4Ka/4Kaw4KeHIOCmr+CmvuCmqCIpIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBUZXh0KCJTdHVkZW50IFByb2ZpbGUiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5oZWFkbGluZU1lZGl1bSkKICAgICAgICAgICAgU3R1ZGVudERldGFpbENhcmQoc3R1ZGVudCwgaW5zdGl0dXRpb25OYW1lKQogICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEwLmRwKSkKICAgICAgICAgICAgT3V0bGluZWRCdXR0b24ob25DbGljayA9IG9uQXR0ZW5kYW5jZSwgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKSkgeyBUZXh0KCLgprjgpr7gpqrgp43gpqTgpr7gprngpr/gppUg4Ka54Ka+4Kac4Ka/4Kaw4Ka+IOCmpuCnh+CmluCngeCmqCIpIH0KICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICAgICAgQnV0dG9uKG9uQ2xpY2sgPSBvbkVkaXQsIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsgVGV4dCgiRWRpdCDgppXgprDgp4HgpqggKEFkbWluKSIpIH0KICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICAgICAgT3V0bGluZWRCdXR0b24oCiAgICAgICAgICAgICAgICBvbkNsaWNrID0geyB2bS5kZWxldGVTdHVkZW50KHN0dWRlbnQpOyBvbkRlbGV0ZSgpIH0sCiAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpCiAgICAgICAgICAgICkgeyBUZXh0KCJEZWxldGUg4KaV4Kaw4KeB4KaoIChBZG1pbikiKSB9CiAgICAgICAgfQogICAgfQp9Cg==
+package com.institution.idscanner.ui
+
+import android.net.Uri
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.foundation.layout.Column
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.platform.LocalContext
+import com.institution.idscanner.util.PhotoStore
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
+import androidx.compose.material3.Button
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+import com.institution.idscanner.AppViewModel
+import com.institution.idscanner.data.Student
+
+@Composable
+fun StudentFormScreen(vm: AppViewModel, existing: Student?, onDone: () -> Unit) {
+    var id by remember { mutableStateOf(existing?.studentId ?: "") }
+    var name by remember { mutableStateOf(existing?.name ?: "") }
+    var father by remember { mutableStateOf(existing?.fatherName ?: "") }
+    var mother by remember { mutableStateOf(existing?.motherName ?: "") }
+    var className by remember { mutableStateOf(existing?.className ?: "") }
+    var roll by remember { mutableStateOf(existing?.roll ?: "") }
+    var session by remember { mutableStateOf(existing?.session ?: "") }
+    var section by remember { mutableStateOf(existing?.section ?: "") }
+    var phone by remember { mutableStateOf(existing?.phone ?: "") }
+    var photoUri by remember { mutableStateOf(existing?.photoUri ?: "") }
+    var error by remember { mutableStateOf("") }
+
+    // Picked photos are copied into the app's internal storage at once, so the
+    // photo stays saved even after the app is closed and reopened.
+    val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+    val photoPicker = rememberLauncherForActivityResult(ActivityResultContracts.GetContent()) { uri: Uri? ->
+        if (uri != null) {
+            scope.launch {
+                val saved = withContext(Dispatchers.IO) { PhotoStore.savePhoto(context, uri) }
+                photoUri = saved ?: uri.toString()
+            }
+        }
+    }
+
+    Column(Modifier.fillMaxSize().padding(16.dp).verticalScroll(rememberScrollState())) {
+        Text(if (existing == null) "Add Student" else "Edit Student", style = MaterialTheme.typography.headlineMedium)
+        Spacer(Modifier.height(12.dp))
+        @Composable
+        fun Field(v: String, onV: (String) -> Unit, label: String, enabled: Boolean = true) {
+            OutlinedTextField(value = v, onValueChange = onV, label = { Text(label) }, enabled = enabled, modifier = Modifier.fillMaxWidth())
+            Spacer(Modifier.height(8.dp))
+        }
+        Field(id, { id = it }, "Student ID *", enabled = existing == null)
+        Field(name, { name = it }, "নাম *")
+        Field(father, { father = it }, "পিতার নাম")
+        Field(mother, { mother = it }, "মাতার নাম")
+        Field(className, { className = it }, "শ্রেণি")
+        Field(roll, { roll = it }, "রোল")
+        Field(session, { session = it }, "সেশন")
+        Field(section, { section = it }, "বিভাগ/শাখা")
+        Field(phone, { phone = it }, "মোবাইল নম্বর")
+        OutlinedButton(onClick = { photoPicker.launch("image/*") }, modifier = Modifier.fillMaxWidth()) {
+            Text(if (photoUri.isBlank()) "ছবি বেছে নিন (ঐচ্ছিক)" else "ছবি পরিবর্তন করুন")
+        }
+        if (error.isNotBlank()) { Spacer(Modifier.height(8.dp)); Text(error, color = MaterialTheme.colorScheme.error) }
+        Spacer(Modifier.height(12.dp))
+        Button(
+            onClick = {
+                if (id.isBlank() || name.isBlank()) { error = "Student ID ও নাম অবশ্যই দিতে হবে।"; return@Button }
+                val student = Student(id.trim(), name.trim(), father.trim(), mother.trim(), className.trim(), roll.trim(), session.trim(), section.trim(), phone.trim(), photoUri)
+                if (photoUri.startsWith("content://")) {
+                    // Copy the photo into internal storage first, then save.
+                    scope.launch {
+                        val saved = withContext(Dispatchers.IO) {
+                            PhotoStore.resolveStoredPath(context, photoUri)
+                        }
+                        vm.saveStudent(student.copy(photoUri = saved))
+                        onDone()
+                    }
+                } else {
+                    vm.saveStudent(student)
+                    onDone()
+                }
+            },
+            modifier = Modifier.fillMaxWidth()
+        ) { Text("Save করুন") }
+    }
+}
+
+@Composable
+fun ProfileScreen(
+    vm: AppViewModel,
+    studentId: String,
+    onEdit: () -> Unit,
+    onDelete: () -> Unit,
+    onBack: () -> Unit,
+    onAttendance: () -> Unit = {}
+) {
+    val students by vm.students.collectAsState()
+    val institutionName by vm.institutionName.collectAsState()
+    val student = students.firstOrNull { it.studentId == studentId }
+    Column(Modifier.fillMaxSize().padding(16.dp)) {
+        if (student == null) {
+            Text("Student পাওয়া যায়নি।", style = MaterialTheme.typography.headlineMedium)
+            Spacer(Modifier.height(10.dp))
+            OutlinedButton(onClick = onBack, modifier = Modifier.fillMaxWidth()) { Text("ফিরে যান") }
+        } else {
+            Text("Student Profile", style = MaterialTheme.typography.headlineMedium)
+            StudentDetailCard(student, institutionName)
+            Spacer(Modifier.height(10.dp))
+            OutlinedButton(onClick = onAttendance, modifier = Modifier.fillMaxWidth()) { Text("সাপ্তাহিক হাজিরা দেখুন") }
+            Spacer(Modifier.height(8.dp))
+            Button(onClick = onEdit, modifier = Modifier.fillMaxWidth()) { Text("Edit করুন (Admin)") }
+            Spacer(Modifier.height(8.dp))
+            OutlinedButton(
+                onClick = { vm.deleteStudent(student); onDelete() },
+                modifier = Modifier.fillMaxWidth()
+            ) { Text("Delete করুন (Admin)") }
+        }
+    }
+}
