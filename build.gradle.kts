@@ -1,1 +1,8 @@
-Ly8gVG9wLWxldmVsIGJ1aWxkIGZpbGUKcGx1Z2lucyB7CiAgICBpZCgiY29tLmFuZHJvaWQuYXBwbGljYXRpb24iKSB2ZXJzaW9uICI4LjUuMiIgYXBwbHkgZmFsc2UKICAgIGlkKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5hbmRyb2lkIikgdmVyc2lvbiAiMS45LjI0IiBhcHBseSBmYWxzZQogICAgaWQoImNvbS5nb29nbGUuZGV2dG9vbHMua3NwIikgdmVyc2lvbiAiMS45LjI0LTEuMC4yMCIgYXBwbHkgZmFsc2UKICAgIC8vIE5PVEU6IG5vIG9yZy5qZXRicmFpbnMua290bGluLnBsdWdpbi5jb21wb3NlIHBsdWdpbiBmb3IgS290bGluIDEuOS54IOKAlAogICAgLy8gQ29tcG9zZSB1c2VzIGNvbXBvc2VPcHRpb25zLmtvdGxpbkNvbXBpbGVyRXh0ZW5zaW9uVmVyc2lvbiBiZWxvdyAoMS41LjE0KS4KfQo=
+// Top-level build file
+plugins {
+    id("com.android.application") version "8.5.2" apply false
+    id("org.jetbrains.kotlin.android") version "1.9.24" apply false
+    id("com.google.devtools.ksp") version "1.9.24-1.0.20" apply false
+    // NOTE: no org.jetbrains.kotlin.plugin.compose plugin for Kotlin 1.9.x —
+    // Compose uses composeOptions.kotlinCompilerExtensionVersion below (1.5.14).
+}
