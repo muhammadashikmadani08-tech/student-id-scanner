@@ -1,1 +1,131 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5Db2x1bW4KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuUm93CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LlNwYWNlcgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5maWxsTWF4U2l6ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5maWxsTWF4V2lkdGgKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuaGVpZ2h0CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LnBhZGRpbmcKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQud2lkdGgKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXp5LkxhenlDb2x1bW4KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXp5Lml0ZW1zCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5DYXJkCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5NYXRlcmlhbFRoZW1lCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5PdXRsaW5lZEJ1dHRvbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuVGV4dAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLkNvbXBvc2FibGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5jb2xsZWN0QXNTdGF0ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLmdldFZhbHVlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUubXV0YWJsZVN0YXRlT2YKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5yZW1lbWJlcgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLnNldFZhbHVlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLk1vZGlmaWVyCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLmdyYXBoaWNzLkNvbG9yCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLnVuaXQuZHAKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIuQXBwVmlld01vZGVsCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuU3R1ZGVudFJlcG9zaXRvcnkKaW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0CmltcG9ydCBqYXZhLnV0aWwuQ2FsZW5kYXIKaW1wb3J0IGphdmEudXRpbC5EYXRlCmltcG9ydCBqYXZhLnV0aWwuTG9jYWxlCmltcG9ydCBqYXZhLnV0aWwuVGltZVpvbmUKCnByaXZhdGUgdmFsIERIQUtBX1RaOiBUaW1lWm9uZSA9IFRpbWVab25lLmdldFRpbWVab25lKCJBc2lhL0RoYWthIikKcHJpdmF0ZSB2YWwgREFZX05BTUVTID0gbGlzdE9mKAogICAgIuCmtuCmqOCmv+CmrOCmvuCmsCIsICLgprDgpqzgpr/gpqzgpr7gprAiLCAi4Ka44KeL4Kau4Kas4Ka+4KawIiwgIuCmruCmmeCnjeCml+CmsuCmrOCmvuCmsCIsICLgpqzgp4Hgpqfgpqzgpr7gprAiLCAi4Kas4KeD4Ka54Ka44KeN4Kaq4Kak4Ka/4Kas4Ka+4KawIiwgIuCmtuCngeCmleCnjeCmsOCmrOCmvuCmsCIKKQoKcHJpdmF0ZSBkYXRhIGNsYXNzIFdlZWtEYXkoCiAgICB2YWwgZGF5TmFtZTogU3RyaW5nLAogICAgdmFsIGRhdGVNaWxsaXM6IExvbmcsCiAgICB2YWwgZGF0ZVN0cmluZzogU3RyaW5nCikKCkBDb21wb3NhYmxlCmZ1biBXZWVrbHlBdHRlbmRhbmNlU2NyZWVuKHZtOiBBcHBWaWV3TW9kZWwsIHN0dWRlbnRJZDogU3RyaW5nKSB7CiAgICB2YWwgc3R1ZGVudHMgYnkgdm0uc3R1ZGVudHMuY29sbGVjdEFzU3RhdGUoKQogICAgdmFsIHJlY29yZHMgYnkgdm0uYXR0ZW5kYW5jZUZvcihzdHVkZW50SWQpLmNvbGxlY3RBc1N0YXRlKGluaXRpYWwgPSBlbXB0eUxpc3QoKSkKICAgIHZhbCBzdHVkZW50ID0gc3R1ZGVudHMuZmlyc3RPck51bGwgeyBpdC5zdHVkZW50SWQgPT0gc3R1ZGVudElkIH0KICAgIHZhciB3ZWVrT2Zmc2V0IGJ5IHJlbWVtYmVyIHsgbXV0YWJsZVN0YXRlT2YoMCkgfQoKICAgIHZhbCBub3cgPSBDYWxlbmRhci5nZXRJbnN0YW5jZShESEFLQV9UWikKICAgIHZhbCB0b2RheVN0cmluZyA9IFN0dWRlbnRSZXBvc2l0b3J5LmRhdGVTdHJpbmcobm93LnRpbWVJbk1pbGxpcykKICAgIHZhbCBub3dIb3VyID0gbm93LmdldChDYWxlbmRhci5IT1VSX09GX0RBWSkKCiAgICAvLyBTYXR1cmRheSBpcyB0aGUgZmlyc3QgZGF5IG9mIHRoZSB3ZWVrLiB3ZWVrT2Zmc2V0IDAgPSBjdXJyZW50IHdlZWsuCiAgICB2YWwgd2Vla0RheXMgPSByZW1lbWJlcih3ZWVrT2Zmc2V0KSB7CiAgICAgICAgdmFsIHN0YXJ0ID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoREhBS0FfVFopCiAgICAgICAgdmFsIGJhY2sgPSAoc3RhcnQuZ2V0KENhbGVuZGFyLkRBWV9PRl9XRUVLKSAtIENhbGVuZGFyLlNBVFVSREFZICsgNykgJSA3CiAgICAgICAgc3RhcnQuYWRkKENhbGVuZGFyLkRBWV9PRl9ZRUFSLCAtYmFjayArIHdlZWtPZmZzZXQgKiA3KQogICAgICAgICgwLi42KS5tYXAgeyBpIC0+CiAgICAgICAgICAgIHZhbCBkYXkgPSAoc3RhcnQuY2xvbmUoKSBhcyBDYWxlbmRhcikuYXBwbHkgeyBhZGQoQ2FsZW5kYXIuREFZX09GX1lFQVIsIGkpIH0KICAgICAgICAgICAgV2Vla0RheSgKICAgICAgICAgICAgICAgIGRheU5hbWUgPSBEQVlfTkFNRVNbaV0sCiAgICAgICAgICAgICAgICBkYXRlTWlsbGlzID0gZGF5LnRpbWVJbk1pbGxpcywKICAgICAgICAgICAgICAgIGRhdGVTdHJpbmcgPSBTdHVkZW50UmVwb3NpdG9yeS5kYXRlU3RyaW5nKGRheS50aW1lSW5NaWxsaXMpCiAgICAgICAgICAgICkKICAgICAgICB9CiAgICB9CiAgICB2YWwgYnlEYXRlID0gcmVtZW1iZXIocmVjb3JkcykgeyByZWNvcmRzLmFzc29jaWF0ZUJ5IHsgaXQuZGF0ZSB9IH0KICAgIHZhbCBkYXRlRm10ID0gcmVtZW1iZXIgeyBTaW1wbGVEYXRlRm9ybWF0KCJkZCBNTU0geXl5eSIsIExvY2FsZS5nZXREZWZhdWx0KCkpLmFwcGx5IHsgdGltZVpvbmUgPSBESEFLQV9UWiB9IH0KICAgIHZhbCB0aW1lRm10ID0gcmVtZW1iZXIgeyBTaW1wbGVEYXRlRm9ybWF0KCJoaDptbSBhIiwgTG9jYWxlLmdldERlZmF1bHQoKSkuYXBwbHkgeyB0aW1lWm9uZSA9IERIQUtBX1RaIH0gfQogICAgdmFsIHdlZWtMYWJlbCA9IGlmICh3ZWVrRGF5cy5pc05vdEVtcHR5KCkpIHsKICAgICAgICAiJHtkYXRlRm10LmZvcm1hdChEYXRlKHdlZWtEYXlzLmZpcnN0KCkuZGF0ZU1pbGxpcykpfSDigJQgJHtkYXRlRm10LmZvcm1hdChEYXRlKHdlZWtEYXlzLmxhc3QoKS5kYXRlTWlsbGlzKSl9IgogICAgfSBlbHNlICIiCgogICAgQ29sdW1uKE1vZGlmaWVyLmZpbGxNYXhTaXplKCkucGFkZGluZygxNi5kcCkpIHsKICAgICAgICBUZXh0KCLgprjgpr7gpqrgp43gpqTgpr7gprngpr/gppUg4Ka54Ka+4Kac4Ka/4Kaw4Ka+Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVNZWRpdW0pCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICBpZiAoc3R1ZGVudCA9PSBudWxsKSB7CiAgICAgICAgICAgIFRleHQoIlN0dWRlbnQg4Kaq4Ka+4KaT4Kav4Ka84Ka+IOCmr+CmvuCmr+CmvOCmqOCmv+ClpCIpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIH0KICAgICAgICBUZXh0KHN0dWRlbnQubmFtZSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkudGl0bGVMYXJnZSkKICAgICAgICBUZXh0KCLgprbgp43gprDgp4fgpqPgpr86ICR7c3R1ZGVudC5jbGFzc05hbWV9Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keU1lZGl1bSkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEyLmRwKSkKICAgICAgICBSb3coTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkpIHsKICAgICAgICAgICAgT3V0bGluZWRCdXR0b24oCiAgICAgICAgICAgICAgICBvbkNsaWNrID0geyB3ZWVrT2Zmc2V0IC09IDEgfSwKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIud2VpZ2h0KDFmKQogICAgICAgICAgICApIHsgVGV4dCgi4oaQIOCmhuCml+Cnh+CmsCDgprjgpqrgp43gpqTgpr7gprkiKSB9CiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci53aWR0aCg4LmRwKSkKICAgICAgICAgICAgT3V0bGluZWRCdXR0b24oCiAgICAgICAgICAgICAgICBvbkNsaWNrID0geyB3ZWVrT2Zmc2V0ICs9IDEgfSwKICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIud2VpZ2h0KDFmKQogICAgICAgICAgICApIHsgVGV4dCgi4Kaq4Kaw4KeH4KawIOCmuOCmquCnjeCmpOCmvuCmuSDihpIiKSB9CiAgICAgICAgfQogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgVGV4dCh3ZWVrTGFiZWwsIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlNZWRpdW0pCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICBMYXp5Q29sdW1uIHsKICAgICAgICAgICAgaXRlbXMod2Vla0RheXMpIHsgZGF5IC0+CiAgICAgICAgICAgICAgICB2YWwgcmVjb3JkID0gYnlEYXRlW2RheS5kYXRlU3RyaW5nXQogICAgICAgICAgICAgICAgdmFsIChzdGF0dXNUZXh0LCBzdGF0dXNDb2xvcikgPSB3aGVuIHsKICAgICAgICAgICAgICAgICAgICByZWNvcmQgIT0gbnVsbCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBob3VyQ2FsID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoREhBS0FfVFopLmFwcGx5IHsgdGltZUluTWlsbGlzID0gcmVjb3JkLnNjYW5uZWRBdCB9CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBzZXNzaW9uID0gaWYgKGhvdXJDYWwuZ2V0KENhbGVuZGFyLkhPVVJfT0ZfREFZKSA8IDEyKSAi4Ka44KaV4Ka+4KayIiBlbHNlICLgpqzgpr/gppXgp4fgprIiCiAgICAgICAgICAgICAgICAgICAgICAgICLgpongpqrgprjgp43gpqXgpr/gpqQg4oCiICR7dGltZUZtdC5mb3JtYXQoRGF0ZShyZWNvcmQuc2Nhbm5lZEF0KSl9ICgkc2Vzc2lvbikiIHRvIENvbG9yKDB4RkYyRTdEMzIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGRheS5kYXRlU3RyaW5nIDwgdG9kYXlTdHJpbmcgLT4gIuCmheCmqOCngeCmquCmuOCnjeCmpeCmv+CmpCIgdG8gQ29sb3IoMHhGRkM2MjgyOCkKICAgICAgICAgICAgICAgICAgICBkYXkuZGF0ZVN0cmluZyA9PSB0b2RheVN0cmluZyAmJiBub3dIb3VyID49IDIwIC0+ICLgpoXgpqjgp4Hgpqrgprjgp43gpqXgpr/gpqQiIHRvIENvbG9yKDB4RkZDNjI4MjgpCiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiAi4KaP4KaW4Kao4KeLIOCmrOCmvuCmleCmvyIgdG8gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5vblN1cmZhY2VWYXJpYW50CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBDYXJkKE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpLnBhZGRpbmcodmVydGljYWwgPSA0LmRwKSkgewogICAgICAgICAgICAgICAgICAgIFJvdyhNb2RpZmllci5maWxsTWF4V2lkdGgoKS5wYWRkaW5nKDE0LmRwKSkgewogICAgICAgICAgICAgICAgICAgICAgICBDb2x1bW4oTW9kaWZpZXIud2VpZ2h0KDFmKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dChkYXkuZGF5TmFtZSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkudGl0bGVNZWRpdW0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0KGRhdGVGbXQuZm9ybWF0KERhdGUoZGF5LmRhdGVNaWxsaXMpKSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keU1lZGl1bSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBUZXh0KHN0YXR1c1RleHQsIGNvbG9yID0gc3RhdHVzQ29sb3IsIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlNZWRpdW0pCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoMTIuZHApKQogICAgICAgIFRleHQoCiAgICAgICAgICAgICLgpqrgp43gprDgpqTgpr/gpqbgpr/gpqgg4Kaw4Ka+4KakIOCnruCmn+CmvuCmsCDgpq7gpqfgp43gpq/gp4cgUVIg4Ka44KeN4KaV4KeN4Kav4Ka+4KaoIOCmleCmsOCmsuCnhyDgpongpqrgprjgp43gpqXgpr/gpqQg4Ka54Kas4KeHOyDgprjgp43gppXgp43gpq/gpr7gpqgg4Kao4Ka+IOCmueCmsuCnhyDgpoXgpqjgp4Hgpqrgprjgp43gpqXgpr/gpqQg4Kam4KeH4KaW4Ka+4Kas4KeH4KWkIiwKICAgICAgICAgICAgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keU1lZGl1bQogICAgICAgICkKICAgIH0KfQo=
+package com.institution.idscanner.ui
+
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.Card
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.dp
+import com.institution.idscanner.AppViewModel
+import com.institution.idscanner.data.StudentRepository
+import java.text.SimpleDateFormat
+import java.util.Calendar
+import java.util.Date
+import java.util.Locale
+import java.util.TimeZone
+
+private val DHAKA_TZ: TimeZone = TimeZone.getTimeZone("Asia/Dhaka")
+private val DAY_NAMES = listOf(
+    "শনিবার", "রবিবার", "সোমবার", "মঙ্গলবার", "বুধবার", "বৃহস্পতিবার", "শুক্রবার"
+)
+
+private data class WeekDay(
+    val dayName: String,
+    val dateMillis: Long,
+    val dateString: String
+)
+
+@Composable
+fun WeeklyAttendanceScreen(vm: AppViewModel, studentId: String) {
+    val students by vm.students.collectAsState()
+    val records by vm.attendanceFor(studentId).collectAsState(initial = emptyList())
+    val student = students.firstOrNull { it.studentId == studentId }
+    var weekOffset by remember { mutableStateOf(0) }
+
+    val now = Calendar.getInstance(DHAKA_TZ)
+    val todayString = StudentRepository.dateString(now.timeInMillis)
+    val nowHour = now.get(Calendar.HOUR_OF_DAY)
+
+    // Saturday is the first day of the week. weekOffset 0 = current week.
+    val weekDays = remember(weekOffset) {
+        val start = Calendar.getInstance(DHAKA_TZ)
+        val back = (start.get(Calendar.DAY_OF_WEEK) - Calendar.SATURDAY + 7) % 7
+        start.add(Calendar.DAY_OF_YEAR, -back + weekOffset * 7)
+        (0..6).map { i ->
+            val day = (start.clone() as Calendar).apply { add(Calendar.DAY_OF_YEAR, i) }
+            WeekDay(
+                dayName = DAY_NAMES[i],
+                dateMillis = day.timeInMillis,
+                dateString = StudentRepository.dateString(day.timeInMillis)
+            )
+        }
+    }
+    val byDate = remember(records) { records.associateBy { it.date } }
+    val dateFmt = remember { SimpleDateFormat("dd MMM yyyy", Locale.getDefault()).apply { timeZone = DHAKA_TZ } }
+    val timeFmt = remember { SimpleDateFormat("hh:mm a", Locale.getDefault()).apply { timeZone = DHAKA_TZ } }
+    val weekLabel = if (weekDays.isNotEmpty()) {
+        "${dateFmt.format(Date(weekDays.first().dateMillis))} — ${dateFmt.format(Date(weekDays.last().dateMillis))}"
+    } else ""
+
+    Column(Modifier.fillMaxSize().padding(16.dp)) {
+        Text("সাপ্তাহিক হাজিরা", style = MaterialTheme.typography.headlineMedium)
+        Spacer(Modifier.height(8.dp))
+        if (student == null) {
+            Text("Student পাওয়া যায়নি।")
+            return
+        }
+        Text(student.name, style = MaterialTheme.typography.titleLarge)
+        Text("শ্রেণি: ${student.className}", style = MaterialTheme.typography.bodyMedium)
+        Spacer(Modifier.height(12.dp))
+        Row(Modifier.fillMaxWidth()) {
+            OutlinedButton(
+                onClick = { weekOffset -= 1 },
+                modifier = Modifier.weight(1f)
+            ) { Text("← আগের সপ্তাহ") }
+            Spacer(Modifier.width(8.dp))
+            OutlinedButton(
+                onClick = { weekOffset += 1 },
+                modifier = Modifier.weight(1f)
+            ) { Text("পরের সপ্তাহ →") }
+        }
+        Spacer(Modifier.height(8.dp))
+        Text(weekLabel, style = MaterialTheme.typography.bodyMedium)
+        Spacer(Modifier.height(8.dp))
+        LazyColumn {
+            items(weekDays) { day ->
+                val record = byDate[day.dateString]
+                val (statusText, statusColor) = when {
+                    record != null -> {
+                        val hourCal = Calendar.getInstance(DHAKA_TZ).apply { timeInMillis = record.scannedAt }
+                        val session = if (hourCal.get(Calendar.HOUR_OF_DAY) < 12) "সকাল" else "বিকেল"
+                        "উপস্থিত • ${timeFmt.format(Date(record.scannedAt))} ($session)" to Color(0xFF2E7D32)
+                    }
+                    day.dateString < todayString -> "অনুপস্থিত" to Color(0xFFC62828)
+                    day.dateString == todayString && nowHour >= 20 -> "অনুপস্থিত" to Color(0xFFC62828)
+                    else -> "এখনো বাকি" to MaterialTheme.colorScheme.onSurfaceVariant
+                }
+                Card(Modifier.fillMaxWidth().padding(vertical = 4.dp)) {
+                    Row(Modifier.fillMaxWidth().padding(14.dp)) {
+                        Column(Modifier.weight(1f)) {
+                            Text(day.dayName, style = MaterialTheme.typography.titleMedium)
+                            Text(dateFmt.format(Date(day.dateMillis)), style = MaterialTheme.typography.bodyMedium)
+                        }
+                        Text(statusText, color = statusColor, style = MaterialTheme.typography.bodyMedium)
+                    }
+                }
+            }
+        }
+        Spacer(Modifier.height(12.dp))
+        Text(
+            "প্রতিদিন রাত ৮টার মধ্যে QR স্ক্যান করলে উপস্থিত হবে; স্ক্যান না হলে অনুপস্থিত দেখাবে।",
+            style = MaterialTheme.typography.bodyMedium
+        )
+    }
+}
