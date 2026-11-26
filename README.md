@@ -1,1 +1,49 @@
-IyBTdHVkZW50IElEIENhcmQgU2Nhbm5lciDigJQg4Ka44Kau4KeN4Kaq4KeC4Kaw4KeN4KajIEZ1bmN0aW9uYWwgQW5kcm9pZCBBcHAgKEtvdGxpbikKCuCmheCmq+CmsuCmvuCmh+CmqC3gpqvgpr7gprDgp43gprjgp43gpp8gU3R1ZGVudCBJRCBTY2FubmVy4KWkIOCmleCnjeCmr+CmvuCmruCnh+CmsOCmvuCmr+CmvCBRUi9CYXJjb2RlIOCmuOCnjeCmleCnjeCmr+CmvuCmqCwgUVIg4Kao4Ka+IOCmpeCmvuCmleCmsuCnhyDgppvgpqzgpr8g4Kak4KeB4Kay4KeHIE9DUiwgUm9vbSDgpqHgpr7gpp/gpr7gpqzgp4fgppwsIFNlYXJjaCwgU2NhbiBIaXN0b3J5LCBBZG1pbiAoUElOKSwgQ1NWIEltcG9ydC9FeHBvcnQsIEJhY2t1cC9SZXN0b3Jl4KWkCgojIyDgpqrgp43gprDgpq/gp4HgppXgp43gpqTgpr8KLSBLb3RsaW4gKyBKZXRwYWNrIENvbXBvc2UgKyBNYXRlcmlhbCAzLCBOYXZpZ2F0aW9uIENvbXBvc2UKLSBDYW1lcmFYIChQcmV2aWV3ICsgSW1hZ2VBbmFseXNpcyArIEltYWdlQ2FwdHVyZSkKLSBNTCBLaXQgQmFyY29kZSBTY2FubmluZyAoUVIsIENvZGUgMTI4LzM5LCBFQU4sIFVQQykg4KaTIE1MIEtpdCBUZXh0IFJlY29nbml0aW9uIChPQ1IsIOCmheCmqC3gpqHgpr/gpq3gpr7gpofgprgpCi0gUm9vbSAoU1FMaXRlKSDigJQg4Ka44Kau4KeN4Kaq4KeC4Kaw4KeN4KajIOCmheCmq+CmsuCmvuCmh+CmqCDgpqHgpr7gpp/gpr7gpqzgp4fgppwKLSBDb2lsICjgppvgpqzgpr8pLCBEYXRhU3RvcmUgKOCmquCnjeCmsOCmpOCmv+Cmt+CnjeCmoOCmvuCmqOCnh+CmsCDgpqjgpr7gpq4g4KaTIEFkbWluIFBJTikKCiMjIOCnpy4gUHJvamVjdCBkb3dubG9hZC9leHBvcnQK4Kao4Ka/4Kaa4KeH4KawIFpJUCDgpqvgpr7gpofgprLgpp/gpr8g4Kah4Ka+4KaJ4Kao4Kay4KeL4KahIOCmleCmsOCnhyB1bnppcCDgppXgprDgp4Hgpqg6IGBzdHVkZW50LWlkLXNjYW5uZXIuemlwYArgpqvgp4vgprLgp43gpqHgpr7gprDgp4fgprAg4Kat4KeH4Kak4Kaw4KeHIGBzZXR0aW5ncy5ncmFkbGUua3RzYCwgYGFwcC9gIOCmq+Cni+CmsuCnjeCmoeCmvuCmsCDgpqXgpr7gppXgpqzgp4fgpaQKCiMjIOCnqC4gQW5kcm9pZCBTdHVkaW8t4Kak4KeHIOCmluCni+CmsuCmvgoxLiBBbmRyb2lkIFN0dWRpbyAoSGVkZ2Vob2cg4Kas4Ka+IOCmqOCmpOCngeCmqCwgSkRLIDE3KSDgppbgp4HgprLgp4HgpqjgpaQKMi4gKipGaWxlIOKGkiBPcGVuKiog4oaSIHVuemlwIOCmleCmsOCmviBgc3R1ZGVudC1pZC1zY2FubmVyYCDgpqvgp4vgprLgp43gpqHgpr7gprDgpp/gpr8g4Ka44Ka/4Kay4KeH4KaV4KeN4KafIOCmleCmsOCngeCmqOClpAozLiDgpqrgp43gprDgpqXgpq7gpqzgpr7gprAgR3JhZGxlIHN5bmMg4Ka54Kas4KeHICjgpofgpqjgp43gpp/gpr7gprDgpqjgp4fgpp8g4Kay4Ka+4KaX4Kas4KeHKSDigJQgU3luYyDgprbgp4fgprcg4Ka54KaT4Kav4Ka84Ka+IOCmquCmsOCnjeCmr+CmqOCnjeCmpCDgpoXgpqrgp4fgppXgp43gprfgpr4g4KaV4Kaw4KeB4Kao4KWkCjQuIOCmleCni+CmqOCniyBTREsgbWlzc2luZyDgpqbgp4fgppbgpr7gprLgp4cgKipTREsgTWFuYWdlcioqIOCmpeCnh+CmleCnhyBBbmRyb2lkIDE0IChBUEkgMzQpIOCmh+CmqOCmuOCnjeCmn+CmsiDgppXgprDgp4HgpqjgpaQKCiMjIOCnqS4gQVBLIGJ1aWxkIOCmleCmsOCmvgotIOCmruCnh+CmqOCngSDgpqXgp4fgppXgp4cgKipCdWlsZCDihpIgQnVpbGQgQnVuZGxlKHMpIC8gQVBLKHMpIOKGkiBCdWlsZCBBUEsocykqKgotIOCmtuCnh+CmtyDgprngprLgp4cg4Kao4KeL4Kaf4Ka/4Kar4Ka/4KaV4KeH4Ka24Kao4KeH4KawICoqbG9jYXRlKiot4KaPIOCmleCnjeCmsuCmv+CmlSDgppXgprDgp4HgpqgsIOCmheCmpeCmrOCmviDgpqvgpr7gpofgprLgpp/gpr8g4Kaq4Ka+4Kas4KeH4KaoOgogIGBhcHAvYnVpbGQvb3V0cHV0cy9hcGsvZGVidWcvYXBwLWRlYnVnLmFwa2AKLSBSZWxlYXNlIEFQSyDgpprgpr7gpofgprLgp4cgKipCdWlsZCDihpIgR2VuZXJhdGUgU2lnbmVkIEJ1bmRsZSAvIEFQSyoqIOCmrOCnjeCmr+CmrOCmueCmvuCmsCDgppXgprDgp4HgpqjgpaQKCiMjIOCnqi4g4Kau4KeL4Kas4Ka+4KaH4Kay4KeHIGluc3RhbGwg4KaV4Kaw4Ka+CjEuIOCmq+Cni+CmqOCnhyAqKlNldHRpbmdzIOKGkiBTZWN1cml0eSDihpIgVW5rbm93biBzb3VyY2VzIC8gSW5zdGFsbCB1bmtub3duIGFwcHMqKiDgpqXgp4fgppXgp4cgQ2hyb21lL0ZpbGVzLeCmleCnhyDgpoXgpqjgp4Hgpq7gpqTgpr8g4Kam4Ka/4KaoICjgpqrgp43gprDgpqXgpq7gpqzgpr7gprAp4KWkCjIuIEFQSyDgpqvgpr7gpofgprLgpp/gpr8g4Kar4KeL4Kao4KeHIOCmquCmvuCmoOCmv+Cmr+CmvOCnhyAoV2hhdHNBcHAvRHJpdmUvVVNCKSDgpp/gp43gpq/gpr7gpqog4KaV4Kaw4KeHIEluc3RhbGwg4KaV4Kaw4KeB4Kao4KWkCjMuIOCmluCngeCmsuCnhyDgppXgp43gpq/gpr7gpq7gp4fgprDgpr7gprAg4KaF4Kao4KeB4Kau4Kak4Ka/IOCmpuCmv+CmqOClpAoKIyMg4KerLiBTdHVkZW50IERhdGFiYXNlIHVwZGF0ZSDgppXgprDgpr4KLSAqKkFkbWluICjgpqHgpr/gpqvgprLgp43gpp8gUElOOiAxMjM0KSDihpIgQ1NWIOCmpeCnh+CmleCnhyBJbXBvcnQqKjogYHNhbXBsZS1zdHVkZW50cy5jc3ZgIOCmq+CmsOCmruCnjeCmr+CmvuCmn+CnhyDgpqvgpr7gpofgprIg4Kas4Ka+4Kao4Ka+4Kao4KWkIEV4Y2VsIOCmpeCmvuCmleCmsuCnhyAqKkZpbGUg4oaSIFNhdmUgQXMg4oaSIENTViBVVEYtOCoqIOCmleCmsOCnhyBpbXBvcnQg4KaV4Kaw4KeB4Kao4KWkCi0g4KaV4Kay4Ka+4KauOiBgU3R1ZGVudCBJRCB8IE5hbWUgfCBGYXRoZXIgfCBNb3RoZXIgfCBDbGFzcyB8IFJvbGwgfCBTZXNzaW9uIHwgU2VjdGlvbiB8IFBob25lYAotIOCmj+CmleCmleCmreCmvuCmrOCnhzogKipBZG1pbiDihpIgQWRkIFN0dWRlbnQqKiwg4KaG4KawIEVkaXQvRGVsZXRlOiAqKlN0dWRlbnRzIOKGkiBQcm9maWxlIOKGkiBFZGl0L0RlbGV0ZSoq4KWkCi0gRXhwb3J0OiAqKkFkbWluIOKGkiBDU1Yt4KaPIEV4cG9ydCoq4KWkIEJhY2t1cDogKipBZG1pbiDihpIgRGF0YWJhc2UgQmFja3VwKirgpaQKCiMjIOCmquCnjeCmsOCmpOCmv+Cmt+CnjeCmoOCmvuCmqOCnh+CmsCDgpqjgpr7gpq4g4KaTIExvZ28g4Kaq4Kaw4Ka/4Kas4Kaw4KeN4Kak4KaoCi0g4Kao4Ka+4KauOiDgpoXgp43gpq/gpr7gpqrgp4fgprAgKipBZG1pbiDihpIg4Kaq4KeN4Kaw4Kak4Ka/4Ka34KeN4Kag4Ka+4Kao4KeH4KawIOCmqOCmvuCmriDgppMgUElOIOCmquCmsOCmv+CmrOCmsOCnjeCmpOCmqCoqIOCmpeCnh+CmleCnhyAo4KaF4Kal4Kas4Ka+IFNldHRpbmdzIOCmuOCnjeCmleCnjeCmsOCmv+CmqCngpaQKLSBMb2dvOiBgYXBwL3NyYy9tYWluL3Jlcy9kcmF3YWJsZS9pY19sYXVuY2hlcl9mb3JlZ3JvdW5kLnhtbGAt4KaP4KawIOCmrOCmpuCmsuCnhyDgpqjgpr/gppzgp4fgprAg4Kay4KeL4KaX4KeL4KawIHZlY3Rvci9QTkcg4Kas4Ka44Ka+4KaoLCDgpobgprAgSG9tZSBTY3JlZW4t4KaP4KawIPCfjpMt4KaP4KawIOCmnOCmvuCmr+CmvOCml+CmvuCmr+CmvCBgSW1hZ2UoKWAg4Kam4Ka/4Kav4Ka84KeHIOCmsuCni+Cml+CniyDgpqbgp4fgppbgpr7gpqggKOCmleCni+CmoeCnhyDgpq7gpqjgp43gpqTgpqzgp43gpq8g4Kam4KeH4KaT4Kav4Ka84Ka+IOCmhuCmm+CnhyngpaQKCiMjIOCmoeCnh+CmruCniyDgpqHgpr7gpp/gpr4K4Kaq4KeN4Kaw4Kal4Kau4Kas4Ka+4KawIOCmheCnjeCmr+CmvuCmqiDgppbgp4HgprLgprLgp4cg4KerIOCmnOCmqCDgpqHgp4fgpq7gp4sg4Ka24Ka/4KaV4KeN4Ka34Ka+4Kaw4KeN4Kal4KeAIChTVEQtMTAwMSDigKYgU1RELTEwMDUpIOCmpeCmvuCmleCnhywg4Kav4Ka+4Kak4KeHIOCmuOCmmeCnjeCml+CnhyDgprjgppngp43gppfgp4cg4Ka44KeN4KaV4KeN4Kav4Ka+4KaoIOCmquCmsOCngOCmleCnjeCmt+CmviDgppXgprDgpr4g4Kav4Ka+4Kav4Ka84KWkIEFkbWluIOCmpeCnh+CmleCnhyDgpq7gp4Hgppvgp4cg4Kar4KeH4Kay4KeB4KaoIOCmrOCmviBDU1YgaW1wb3J0IOCmleCmsOCnhyDgpqjgpr/gppzgp4fgprAg4Kah4Ka+4Kaf4Ka+IOCmrOCmuOCmvuCmqOClpAoKIyMg4Ka44KeA4Kau4Ka+4Kas4Kam4KeN4Kan4Kak4Ka+ICjgprjgp47gpq3gpr7gpqzgp4cpCi0gT0NSIOCmtuCngeCmp+CngSBMYXRpbiAo4KaH4KaC4Kaw4KeH4Kac4Ka/L+CmuOCmguCmluCnjeCmr+Cmvikg4Kay4KeH4KaW4Ka+IOCmquCmoeCmvOCnhzsg4Kas4Ka+4KaC4Kay4Ka+IOCmueCmvuCmpOCnh+CmsC/gppvgpr7gpqrgpr4g4Kay4KeH4KaW4Ka+IOCmqOCmv+CmsOCnjeCmreCmsOCmr+Cni+Cml+CnjeCmr+CmreCmvuCmrOCnhyDgpqrgpqHgprzgp4cg4Kao4Ka+IOKAlCDgpqTgpr7gpocgSUQg4KaV4Ka+4Kaw4KeN4Kah4KeHIFFSL0JhcmNvZGUg4Kas4Ka+IOCmh+CmguCmsOCnh+CmnOCmvyBJRCDgpqjgpq7gp43gpqzgprAg4Kal4Ka+4KaV4Kay4KeHIOCmuOCmrOCmmuCnh+Cmr+CmvOCnhyDgpqjgpr/gprDgp43gpq3gprDgpq/gp4vgppfgp43gpq8g4Kar4KayIOCmquCmvuCmrOCnh+CmqOClpAotIOCmm+CmrOCmvyAocGhvdG9VcmkpIOCmq+Cni+CmqOCnh+CmsCDgppfgp43gpq/gpr7gprLgpr7gprDgpr8g4Kal4KeH4KaV4KeHIOCmrOCmvuCmm+CmviBVUkkg4Ka54Ka/4Ka44KeH4Kas4KeHIOCmuOCmguCmsOCmleCnjeCmt+Cmv+CmpCDgprngpq/gprw7IOCmm+CmrOCmvyDgpq7gp4Hgppvgp4cg4Kar4KeH4Kay4Kay4KeHIOCmquCnjeCmsOCni+Cmq+CmvuCmh+CmsuCnhyDgppvgpqzgpr8g4Kam4KeH4KaW4Ka+4Kas4KeHIOCmqOCmvuClpAotIOCmj+CmhyDgpqrgp43gprDgppzgp4fgppXgp43gpp8g4KaP4KaW4Ka+4Kao4KeHICjgprjgpr7gprDgp43gpq3gpr7gprAg4Kab4Ka+4Kah4Ka84Ka+KSDgppXgpq7gp43gpqrgpr7gpofgprIg4KaV4Kaw4KeHIOCmr+CmvuCmmuCmvuCmhyDgppXgprDgpr4g4Ka54Kav4Ka84Kao4Ka/IOKAlCBBbmRyb2lkIFN0dWRpby3gpqTgp4cg4Kaq4KeN4Kaw4Kal4KauIHN5bmMt4KaPIEdyYWRsZS9BR1Ag4Ka44KaC4Ka44KeN4KaV4Kaw4KajIOCmruCmv+CmsuCnhyDgppfgp4fgprLgp4cgYnVpbGQg4Ka54Kas4KeH4KWkCg==
+# Student ID Card Scanner — সম্পূর্ণ Functional Android App (Kotlin)
+
+অফলাইন-ফার্স্ট Student ID Scanner। ক্যামেরায় QR/Barcode স্ক্যান, QR না থাকলে ছবি তুলে OCR, Room ডাটাবেজ, Search, Scan History, Admin (PIN), CSV Import/Export, Backup/Restore।
+
+## প্রযুক্তি
+- Kotlin + Jetpack Compose + Material 3, Navigation Compose
+- CameraX (Preview + ImageAnalysis + ImageCapture)
+- ML Kit Barcode Scanning (QR, Code 128/39, EAN, UPC) ও ML Kit Text Recognition (OCR, অন-ডিভাইস)
+- Room (SQLite) — সম্পূর্ণ অফলাইন ডাটাবেজ
+- Coil (ছবি), DataStore (প্রতিষ্ঠানের নাম ও Admin PIN)
+
+## ১. Project download/export
+নিচের ZIP ফাইলটি ডাউনলোড করে unzip করুন: `student-id-scanner.zip`
+ফোল্ডারের ভেতরে `settings.gradle.kts`, `app/` ফোল্ডার থাকবে।
+
+## ২. Android Studio-তে খোলা
+1. Android Studio (Hedgehog বা নতুন, JDK 17) খুলুন।
+2. **File → Open** → unzip করা `student-id-scanner` ফোল্ডারটি সিলেক্ট করুন।
+3. প্রথমবার Gradle sync হবে (ইন্টারনেট লাগবে) — Sync শেষ হওয়া পর্যন্ত অপেক্ষা করুন।
+4. কোনো SDK missing দেখালে **SDK Manager** থেকে Android 14 (API 34) ইনস্টল করুন।
+
+## ৩. APK build করা
+- মেনু থেকে **Build → Build Bundle(s) / APK(s) → Build APK(s)**
+- শেষ হলে নোটিফিকেশনের **locate**-এ ক্লিক করুন, অথবা ফাইলটি পাবেন:
+  `app/build/outputs/apk/debug/app-debug.apk`
+- Release APK চাইলে **Build → Generate Signed Bundle / APK** ব্যবহার করুন।
+
+## ৪. মোবাইলে install করা
+1. ফোনে **Settings → Security → Unknown sources / Install unknown apps** থেকে Chrome/Files-কে অনুমতি দিন (প্রথমবার)।
+2. APK ফাইলটি ফোনে পাঠিয়ে (WhatsApp/Drive/USB) ট্যাপ করে Install করুন।
+3. খুলে ক্যামেরার অনুমতি দিন।
+
+## ৫. Student Database update করা
+- **Admin (ডিফল্ট PIN: 1234) → CSV থেকে Import**: `sample-students.csv` ফরম্যাটে ফাইল বানান। Excel থাকলে **File → Save As → CSV UTF-8** করে import করুন।
+- কলাম: `Student ID | Name | Father | Mother | Class | Roll | Session | Section | Phone`
+- এককভাবে: **Admin → Add Student**, আর Edit/Delete: **Students → Profile → Edit/Delete**।
+- Export: **Admin → CSV-এ Export**। Backup: **Admin → Database Backup**।
+
+## প্রতিষ্ঠানের নাম ও Logo পরিবর্তন
+- নাম: অ্যাপের **Admin → প্রতিষ্ঠানের নাম ও PIN পরিবর্তন** থেকে (অথবা Settings স্ক্রিন)।
+- Logo: `app/src/main/res/drawable/ic_launcher_foreground.xml`-এর বদলে নিজের লোগোর vector/PNG বসান, আর Home Screen-এর 🎓-এর জায়গায় `Image()` দিয়ে লোগো দেখান (কোডে মন্তব্য দেওয়া আছে)।
+
+## ডেমো ডাটা
+প্রথমবার অ্যাপ খুললে ৫ জন ডেমো শিক্ষার্থী (STD-1001 … STD-1005) থাকে, যাতে সঙ্গে সঙ্গে স্ক্যান পরীক্ষা করা যায়। Admin থেকে মুছে ফেলুন বা CSV import করে নিজের ডাটা বসান।
+
+## সীমাবদ্ধতা (সৎভাবে)
+- OCR শুধু Latin (ইংরেজি/সংখ্যা) লেখা পড়ে; বাংলা হাতের/ছাপা লেখা নির্ভরযোগ্যভাবে পড়ে না — তাই ID কার্ডে QR/Barcode বা ইংরেজি ID নম্বর থাকলে সবচেয়ে নির্ভরযোগ্য ফল পাবেন।
+- ছবি (photoUri) ফোনের গ্যালারি থেকে বাছা URI হিসেবে সংরক্ষিত হয়; ছবি মুছে ফেললে প্রোফাইলে ছবি দেখাবে না।
+- এই প্রজেক্ট এখানে (সার্ভার ছাড়া) কম্পাইল করে যাচাই করা হয়নি — Android Studio-তে প্রথম sync-এ Gradle/AGP সংস্করণ মিলে গেলে build হবে।
