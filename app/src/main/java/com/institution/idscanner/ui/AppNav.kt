@@ -1,1 +1,119 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5wYWRkaW5nCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLkljb25zCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLmZpbGxlZC5BcnJvd0JhY2sKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLkV4cGVyaW1lbnRhbE1hdGVyaWFsM0FwaQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuSWNvbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuSWNvbkJ1dHRvbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuU2NhZmZvbGQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLlRleHQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLlRvcEFwcEJhcgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLkNvbXBvc2FibGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5jb2xsZWN0QXNTdGF0ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLmdldFZhbHVlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLk1vZGlmaWVyCmltcG9ydCBhbmRyb2lkeC5uYXZpZ2F0aW9uLk5hdlR5cGUKaW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uY29tcG9zZS5OYXZIb3N0CmltcG9ydCBhbmRyb2lkeC5uYXZpZ2F0aW9uLmNvbXBvc2UuY29tcG9zYWJsZQppbXBvcnQgYW5kcm9pZHgubmF2aWdhdGlvbi5jb21wb3NlLmN1cnJlbnRCYWNrU3RhY2tFbnRyeUFzU3RhdGUKaW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uY29tcG9zZS5yZW1lbWJlck5hdkNvbnRyb2xsZXIKaW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24ubmF2QXJndW1lbnQKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIuQXBwVmlld01vZGVsCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuU3R1ZGVudAoKQE9wdEluKEV4cGVyaW1lbnRhbE1hdGVyaWFsM0FwaTo6Y2xhc3MpCkBDb21wb3NhYmxlCmZ1biBBcHBOYXYodm06IEFwcFZpZXdNb2RlbCkgewogICAgdmFsIG5hdiA9IHJlbWVtYmVyTmF2Q29udHJvbGxlcigpCiAgICB2YWwgYmFja1N0YWNrIGJ5IG5hdi5jdXJyZW50QmFja1N0YWNrRW50cnlBc1N0YXRlKCkKICAgIHZhbCByb3V0ZSA9IGJhY2tTdGFjaz8uZGVzdGluYXRpb24/LnJvdXRlID86ICJob21lIgoKICAgIFNjYWZmb2xkKAogICAgICAgIHRvcEJhciA9IHsKICAgICAgICAgICAgaWYgKHJvdXRlICE9ICJob21lIikgewogICAgICAgICAgICAgICAgVG9wQXBwQmFyKAogICAgICAgICAgICAgICAgICAgIHRpdGxlID0geyBUZXh0KCJTdHVkZW50IElEIFNjYW5uZXIiKSB9LAogICAgICAgICAgICAgICAgICAgIG5hdmlnYXRpb25JY29uID0gewogICAgICAgICAgICAgICAgICAgICAgICBJY29uQnV0dG9uKG9uQ2xpY2sgPSB7IG5hdi5wb3BCYWNrU3RhY2soKSB9KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBJY29uKEljb25zLkZpbGxlZC5BcnJvd0JhY2ssIGNvbnRlbnREZXNjcmlwdGlvbiA9ICJCYWNrIikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICkgeyBwYWQgLT4KICAgICAgICBOYXZIb3N0KG5hdiwgc3RhcnREZXN0aW5hdGlvbiA9ICJob21lIiwgbW9kaWZpZXIgPSBNb2RpZmllci5wYWRkaW5nKHBhZCkpIHsKICAgICAgICAgICAgY29tcG9zYWJsZSgiaG9tZSIpIHsgSG9tZVNjcmVlbih2bSkgeyBuYXYubmF2aWdhdGUoaXQpIH0gfQogICAgICAgICAgICBjb21wb3NhYmxlKCJzY2FubmVyIikgewogICAgICAgICAgICAgICAgU2Nhbm5lclNjcmVlbih2bSkgeyBpZCAtPiBpZiAoaWQuaXNOb3RCbGFuaygpKSBuYXYubmF2aWdhdGUoInByb2ZpbGUvJGlkIikgZWxzZSBuYXYubmF2aWdhdGUoInNlYXJjaCIpIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBjb21wb3NhYmxlKCJzZWFyY2giKSB7IFNlYXJjaFNjcmVlbih2bSkgeyBuYXYubmF2aWdhdGUoInByb2ZpbGUvJGl0IikgfSB9CiAgICAgICAgICAgIGNvbXBvc2FibGUoInN0dWRlbnRzIikgewogICAgICAgICAgICAgICAgU3R1ZGVudHNTY3JlZW4oCiAgICAgICAgICAgICAgICAgICAgdm0sCiAgICAgICAgICAgICAgICAgICAgb25Qcm9maWxlID0geyBuYXYubmF2aWdhdGUoInByb2ZpbGUvJGl0IikgfSwKICAgICAgICAgICAgICAgICAgICBvbkFkZCA9IHsgbmF2Lm5hdmlnYXRlKCJmb3JtIikgfSwKICAgICAgICAgICAgICAgICAgICBpc0FkbWluID0gdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBvbkNsYXNzID0geyBuYXYubmF2aWdhdGUoImNsYXNzLyR7YW5kcm9pZC5uZXQuVXJpLmVuY29kZShpdCl9IikgfQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbXBvc2FibGUoCiAgICAgICAgICAgICAgICAiY2xhc3Mve2NsYXNzTmFtZX0iLAogICAgICAgICAgICAgICAgYXJndW1lbnRzID0gbGlzdE9mKG5hdkFyZ3VtZW50KCJjbGFzc05hbWUiKSB7IHR5cGUgPSBOYXZUeXBlLlN0cmluZ1R5cGUgfSkKICAgICAgICAgICAgKSB7IGVudHJ5IC0+CiAgICAgICAgICAgICAgICB2YWwgY2xhc3NOYW1lID0gYW5kcm9pZC5uZXQuVXJpLmRlY29kZShlbnRyeS5hcmd1bWVudHM/LmdldFN0cmluZygiY2xhc3NOYW1lIikub3JFbXB0eSgpKQogICAgICAgICAgICAgICAgQ2xhc3NTdHVkZW50c1NjcmVlbigKICAgICAgICAgICAgICAgICAgICB2bSwgY2xhc3NOYW1lLAogICAgICAgICAgICAgICAgICAgIG9uUHJvZmlsZSA9IHsgbmF2Lm5hdmlnYXRlKCJwcm9maWxlLyRpdCIpIH0sCiAgICAgICAgICAgICAgICAgICAgb25BZGQgPSB7IG5hdi5uYXZpZ2F0ZSgiZm9ybSIpIH0sCiAgICAgICAgICAgICAgICAgICAgaXNBZG1pbiA9IHRydWUKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgICAgICBjb21wb3NhYmxlKAogICAgICAgICAgICAgICAgImF0dGVuZGFuY2Uve2lkfSIsCiAgICAgICAgICAgICAgICBhcmd1bWVudHMgPSBsaXN0T2YobmF2QXJndW1lbnQoImlkIikgeyB0eXBlID0gTmF2VHlwZS5TdHJpbmdUeXBlIH0pCiAgICAgICAgICAgICkgeyBlbnRyeSAtPgogICAgICAgICAgICAgICAgdmFsIGlkID0gZW50cnkuYXJndW1lbnRzPy5nZXRTdHJpbmcoImlkIikub3JFbXB0eSgpCiAgICAgICAgICAgICAgICBXZWVrbHlBdHRlbmRhbmNlU2NyZWVuKHZtLCBpZCkKICAgICAgICAgICAgfQogICAgICAgICAgICBjb21wb3NhYmxlKCJoaXN0b3J5IikgeyBIaXN0b3J5U2NyZWVuKHZtKSB7IG5hdi5uYXZpZ2F0ZSgicHJvZmlsZS8kaXQiKSB9IH0KICAgICAgICAgICAgY29tcG9zYWJsZSgiYWRtaW4iKSB7CiAgICAgICAgICAgICAgICBBZG1pblNjcmVlbih2bSwgb25TdHVkZW50cyA9IHsgbmF2Lm5hdmlnYXRlKCJzdHVkZW50cyIpIH0sIG9uQWRkID0geyBuYXYubmF2aWdhdGUoImZvcm0iKSB9LCBvblNldHRpbmdzID0geyBuYXYubmF2aWdhdGUoInNldHRpbmdzIikgfSkKICAgICAgICAgICAgfQogICAgICAgICAgICBjb21wb3NhYmxlKCJzZXR0aW5ncyIpIHsgU2V0dGluZ3NTY3JlZW4odm0pIHsgbmF2LnBvcEJhY2tTdGFjaygpIH0gfQogICAgICAgICAgICBjb21wb3NhYmxlKCJmb3JtIikgewogICAgICAgICAgICAgICAgU3R1ZGVudEZvcm1TY3JlZW4odm0sIGV4aXN0aW5nID0gbnVsbCkgeyBuYXYucG9wQmFja1N0YWNrKCkgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbXBvc2FibGUoCiAgICAgICAgICAgICAgICAicHJvZmlsZS97aWR9IiwKICAgICAgICAgICAgICAgIGFyZ3VtZW50cyA9IGxpc3RPZihuYXZBcmd1bWVudCgiaWQiKSB7IHR5cGUgPSBOYXZUeXBlLlN0cmluZ1R5cGUgfSkKICAgICAgICAgICAgKSB7IGVudHJ5IC0+CiAgICAgICAgICAgICAgICB2YWwgaWQgPSBlbnRyeS5hcmd1bWVudHM/LmdldFN0cmluZygiaWQiKS5vckVtcHR5KCkKICAgICAgICAgICAgICAgIFByb2ZpbGVTY3JlZW4oCiAgICAgICAgICAgICAgICAgICAgdm0sIGlkLAogICAgICAgICAgICAgICAgICAgIG9uRWRpdCA9IHsgbmF2Lm5hdmlnYXRlKCJlZGl0LyRpZCIpIH0sCiAgICAgICAgICAgICAgICAgICAgb25EZWxldGUgPSB7IG5hdi5wb3BCYWNrU3RhY2soKSB9LAogICAgICAgICAgICAgICAgICAgIG9uQmFjayA9IHsgbmF2LnBvcEJhY2tTdGFjaygpIH0sCiAgICAgICAgICAgICAgICAgICAgb25BdHRlbmRhbmNlID0geyBuYXYubmF2aWdhdGUoImF0dGVuZGFuY2UvJGlkIikgfQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbXBvc2FibGUoCiAgICAgICAgICAgICAgICAiZWRpdC97aWR9IiwKICAgICAgICAgICAgICAgIGFyZ3VtZW50cyA9IGxpc3RPZihuYXZBcmd1bWVudCgiaWQiKSB7IHR5cGUgPSBOYXZUeXBlLlN0cmluZ1R5cGUgfSkKICAgICAgICAgICAgKSB7IGVudHJ5IC0+CiAgICAgICAgICAgICAgICB2YWwgaWQgPSBlbnRyeS5hcmd1bWVudHM/LmdldFN0cmluZygiaWQiKS5vckVtcHR5KCkKICAgICAgICAgICAgICAgIC8vIFJlc29sdmUgdGhlIHN0dWRlbnQgZnJvbSB0aGUgY3VycmVudCBsaXN0IHNuYXBzaG90IHZpYSBhIGxvb2t1cCBzY3JlZW4gc3RhdGU6CiAgICAgICAgICAgICAgICAvLyBzaW1wbGVyOiBwYXNzIHRocm91Z2ggU3R1ZGVudHNTY3JlZW4gc3RhdGUgYnkgcmVhZGluZyB2bS5zdHVkZW50cyBpbiBhIHdyYXBwZXIuCiAgICAgICAgICAgICAgICBFZGl0V3JhcHBlcih2bSwgaWQpIHsgbmF2LnBvcEJhY2tTdGFjaygpIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQoKQENvbXBvc2FibGUKcHJpdmF0ZSBmdW4gRWRpdFdyYXBwZXIodm06IEFwcFZpZXdNb2RlbCwgaWQ6IFN0cmluZywgb25Eb25lOiAoKSAtPiBVbml0KSB7CiAgICB2YWwgc3R1ZGVudHMgYnkgdm0uc3R1ZGVudHMuY29sbGVjdEFzU3RhdGUoKQogICAgdmFsIGV4aXN0aW5nOiBTdHVkZW50PyA9IHN0dWRlbnRzLmZpcnN0T3JOdWxsIHsgaXQuc3R1ZGVudElkID09IGlkIH0KICAgIFN0dWRlbnRGb3JtU2NyZWVuKHZtLCBleGlzdGluZyA9IGV4aXN0aW5nKSB7IG9uRG9uZSgpIH0KfQo=
+package com.institution.idscanner.ui
+
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Text
+import androidx.compose.material3.TopAppBar
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.Modifier
+import androidx.navigation.NavType
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.currentBackStackEntryAsState
+import androidx.navigation.compose.rememberNavController
+import androidx.navigation.navArgument
+import com.institution.idscanner.AppViewModel
+import com.institution.idscanner.data.Student
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun AppNav(vm: AppViewModel) {
+    val nav = rememberNavController()
+    val backStack by nav.currentBackStackEntryAsState()
+    val route = backStack?.destination?.route ?: "home"
+
+    Scaffold(
+        topBar = {
+            if (route != "home") {
+                TopAppBar(
+                    title = { Text("Student ID Scanner") },
+                    navigationIcon = {
+                        IconButton(onClick = { nav.popBackStack() }) {
+                            Icon(Icons.Filled.ArrowBack, contentDescription = "Back")
+                        }
+                    }
+                )
+            }
+        }
+    ) { pad ->
+        NavHost(nav, startDestination = "home", modifier = Modifier.padding(pad)) {
+            composable("home") { HomeScreen(vm) { nav.navigate(it) } }
+            composable("scanner") {
+                ScannerScreen(vm) { id -> if (id.isNotBlank()) nav.navigate("profile/$id") else nav.navigate("search") }
+            }
+            composable("search") { SearchScreen(vm) { nav.navigate("profile/$it") } }
+            composable("students") {
+                StudentsScreen(
+                    vm,
+                    onProfile = { nav.navigate("profile/$it") },
+                    onAdd = { nav.navigate("form") },
+                    isAdmin = true,
+                    onClass = { nav.navigate("class/${android.net.Uri.encode(it)}") }
+                )
+            }
+            composable(
+                "class/{className}",
+                arguments = listOf(navArgument("className") { type = NavType.StringType })
+            ) { entry ->
+                val className = android.net.Uri.decode(entry.arguments?.getString("className").orEmpty())
+                ClassStudentsScreen(
+                    vm, className,
+                    onProfile = { nav.navigate("profile/$it") },
+                    onAdd = { nav.navigate("form") },
+                    isAdmin = true
+                )
+            }
+            composable(
+                "attendance/{id}",
+                arguments = listOf(navArgument("id") { type = NavType.StringType })
+            ) { entry ->
+                val id = entry.arguments?.getString("id").orEmpty()
+                WeeklyAttendanceScreen(vm, id)
+            }
+            composable("history") { HistoryScreen(vm) { nav.navigate("profile/$it") } }
+            composable("admin") {
+                AdminScreen(vm, onStudents = { nav.navigate("students") }, onAdd = { nav.navigate("form") }, onSettings = { nav.navigate("settings") })
+            }
+            composable("settings") { SettingsScreen(vm) { nav.popBackStack() } }
+            composable("form") {
+                StudentFormScreen(vm, existing = null) { nav.popBackStack() }
+            }
+            composable(
+                "profile/{id}",
+                arguments = listOf(navArgument("id") { type = NavType.StringType })
+            ) { entry ->
+                val id = entry.arguments?.getString("id").orEmpty()
+                ProfileScreen(
+                    vm, id,
+                    onEdit = { nav.navigate("edit/$id") },
+                    onDelete = { nav.popBackStack() },
+                    onBack = { nav.popBackStack() },
+                    onAttendance = { nav.navigate("attendance/$id") }
+                )
+            }
+            composable(
+                "edit/{id}",
+                arguments = listOf(navArgument("id") { type = NavType.StringType })
+            ) { entry ->
+                val id = entry.arguments?.getString("id").orEmpty()
+                // Resolve the student from the current list snapshot via a lookup screen state:
+                // simpler: pass through StudentsScreen state by reading vm.students in a wrapper.
+                EditWrapper(vm, id) { nav.popBackStack() }
+            }
+        }
+    }
+}
+
+@Composable
+private fun EditWrapper(vm: AppViewModel, id: String, onDone: () -> Unit) {
+    val students by vm.students.collectAsState()
+    val existing: Student? = students.firstOrNull { it.studentId == id }
+    StudentFormScreen(vm, existing = existing) { onDone() }
+}
