@@ -1,1 +1,119 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5Db2x1bW4KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuUm93CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LlNwYWNlcgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5maWxsTWF4V2lkdGgKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuaGVpZ2h0CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LnBhZGRpbmcKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuc2l6ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC53aWR0aAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLnNoYXBlLkNpcmNsZVNoYXBlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5DYXJkCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5DYXJkRGVmYXVsdHMKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLk1hdGVyaWFsVGhlbWUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLlRleHQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5Db21wb3NhYmxlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLkFsaWdubWVudAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS5Nb2RpZmllcgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS5kcmF3LmNsaXAKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkubGF5b3V0LkNvbnRlbnRTY2FsZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS51bml0LmRwCmltcG9ydCBjb2lsLmNvbXBvc2UuQXN5bmNJbWFnZQppbXBvcnQgY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lci5kYXRhLlN0dWRlbnQKaW1wb3J0IGphdmEuaW8uRmlsZQppbXBvcnQgamF2YS50ZXh0LlNpbXBsZURhdGVGb3JtYXQKaW1wb3J0IGphdmEudXRpbC5EYXRlCgovKiogUGhvdG9zIHNhdmVkIGluIGludGVybmFsIHN0b3JhZ2UgYXJlIGFic29sdXRlIHBhdGhzOyBvbGRlciBlbnRyaWVzIG1heQogKiAgc3RpbGwgaG9sZCBhIGNvbnRlbnQ6Ly8gVVJJLiBDb2lsIG5lZWRzIGEgRmlsZSBmb3IgdGhlIGZvcm1lci4gKi8KaW50ZXJuYWwgZnVuIHBob3RvTW9kZWwoc3RvcmVkOiBTdHJpbmcpOiBBbnkgPQogICAgaWYgKHN0b3JlZC5zdGFydHNXaXRoKCIvIikpIEZpbGUoc3RvcmVkKSBlbHNlIHN0b3JlZAoKQENvbXBvc2FibGUKZnVuIFN0dWRlbnRJbmZvUm93KGxhYmVsOiBTdHJpbmcsIHZhbHVlOiBTdHJpbmcpIHsKICAgIGlmICh2YWx1ZS5pc0JsYW5rKCkpIHJldHVybgogICAgUm93KE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpLnBhZGRpbmcodmVydGljYWwgPSAzLmRwKSkgewogICAgICAgIFRleHQobGFiZWwsIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlNZWRpdW0sIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5wcmltYXJ5LCBtb2RpZmllciA9IE1vZGlmaWVyLndpZHRoKDExMC5kcCkpCiAgICAgICAgVGV4dCh2YWx1ZSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keU1lZGl1bSkKICAgIH0KfQoKQENvbXBvc2FibGUKZnVuIFN0dWRlbnRDYXJkKHN0dWRlbnQ6IFN0dWRlbnQsIGluc3RpdHV0aW9uTmFtZTogU3RyaW5nLCBvbkNsaWNrOiAoKCkgLT4gVW5pdCk/ID0gbnVsbCkgewogICAgQ2FyZCgKICAgICAgICBvbkNsaWNrID0geyBvbkNsaWNrPy5pbnZva2UoKSB9LAogICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkucGFkZGluZyh2ZXJ0aWNhbCA9IDYuZHApLAogICAgICAgIGNvbG9ycyA9IENhcmREZWZhdWx0cy5jYXJkQ29sb3JzKGNvbnRhaW5lckNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5zdXJmYWNlKQogICAgKSB7CiAgICAgICAgUm93KE1vZGlmaWVyLnBhZGRpbmcoMTQuZHApLCB2ZXJ0aWNhbEFsaWdubWVudCA9IEFsaWdubWVudC5DZW50ZXJWZXJ0aWNhbGx5KSB7CiAgICAgICAgICAgIGlmIChzdHVkZW50LnBob3RvVXJpLmlzTm90QmxhbmsoKSkgewogICAgICAgICAgICAgICAgQXN5bmNJbWFnZSgKICAgICAgICAgICAgICAgICAgICBtb2RlbCA9IHBob3RvTW9kZWwoc3R1ZGVudC5waG90b1VyaSksIGNvbnRlbnREZXNjcmlwdGlvbiA9IG51bGwsCiAgICAgICAgICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllci5zaXplKDY0LmRwKS5jbGlwKENpcmNsZVNoYXBlKSwKICAgICAgICAgICAgICAgICAgICBjb250ZW50U2NhbGUgPSBDb250ZW50U2NhbGUuQ3JvcAogICAgICAgICAgICAgICAgKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuU3VyZmFjZSgKICAgICAgICAgICAgICAgICAgICBtb2RpZmllciA9IE1vZGlmaWVyLnNpemUoNjQuZHApLmNsaXAoQ2lyY2xlU2hhcGUpLAogICAgICAgICAgICAgICAgICAgIGNvbG9yID0gTWF0ZXJpYWxUaGVtZS5jb2xvclNjaGVtZS5wcmltYXJ5Q29udGFpbmVyCiAgICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LkJveChjb250ZW50QWxpZ25tZW50ID0gQWxpZ25tZW50LkNlbnRlcikgewogICAgICAgICAgICAgICAgICAgICAgICBUZXh0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R1ZGVudC5uYW1lLmZpcnN0T3JOdWxsKCk/LnRvU3RyaW5nKCkgPzogIj8iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVNZWRpdW0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvciA9IE1hdGVyaWFsVGhlbWUuY29sb3JTY2hlbWUucHJpbWFyeQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci53aWR0aCgxNC5kcCkpCiAgICAgICAgICAgIENvbHVtbiB7CiAgICAgICAgICAgICAgICBUZXh0KHN0dWRlbnQubmFtZSwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkudGl0bGVNZWRpdW0pCiAgICAgICAgICAgICAgICBUZXh0KCJJRDogJHtzdHVkZW50LnN0dWRlbnRJZH0iLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5ib2R5TWVkaXVtKQogICAgICAgICAgICAgICAgaWYgKHN0dWRlbnQuY2xhc3NOYW1lLmlzTm90QmxhbmsoKSkKICAgICAgICAgICAgICAgICAgICBUZXh0KCLgprbgp43gprDgp4fgpqPgpr86ICR7c3R1ZGVudC5jbGFzc05hbWV9ICDigKIgIOCmsOCni+CmsjogJHtzdHVkZW50LnJvbGx9Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keU1lZGl1bSkKICAgICAgICAgICAgICAgIGlmIChpbnN0aXR1dGlvbk5hbWUuaXNOb3RCbGFuaygpKQogICAgICAgICAgICAgICAgICAgIFRleHQoaW5zdGl0dXRpb25OYW1lLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5ib2R5U21hbGwpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CiAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDIuZHApKQp9CgpAQ29tcG9zYWJsZQpmdW4gU3R1ZGVudERldGFpbENhcmQoCiAgICBzdHVkZW50OiBTdHVkZW50LAogICAgaW5zdGl0dXRpb25OYW1lOiBTdHJpbmcsCiAgICBzY2FuVGltZU1pbGxpczogTG9uZz8gPSBudWxsLAogICAgc2NhblRpbWVGb3JtYXQ6IFNpbXBsZURhdGVGb3JtYXQ/ID0gbnVsbAopIHsKICAgIENhcmQoTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkucGFkZGluZyh2ZXJ0aWNhbCA9IDguZHApKSB7CiAgICAgICAgQ29sdW1uKE1vZGlmaWVyLnBhZGRpbmcoMTYuZHApKSB7CiAgICAgICAgICAgIFRleHQoIlN0dWRlbnQgRm91bmQiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5oZWFkbGluZU1lZGl1bSwgY29sb3IgPSBNYXRlcmlhbFRoZW1lLmNvbG9yU2NoZW1lLnByaW1hcnkpCiAgICAgICAgICAgIGlmIChzY2FuVGltZU1pbGxpcyAhPSBudWxsICYmIHNjYW5UaW1lRm9ybWF0ICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoNC5kcCkpCiAgICAgICAgICAgICAgICBUZXh0KCLgprjgp43gppXgp43gpq/gpr7gpqjgp4fgprAg4Ka44Kau4Kav4Ka8OiAke3NjYW5UaW1lRm9ybWF0LmZvcm1hdChEYXRlKHNjYW5UaW1lTWlsbGlzKSl9Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuYm9keU1lZGl1bSkKICAgICAgICAgICAgfQogICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEwLmRwKSkKICAgICAgICAgICAgaWYgKHN0dWRlbnQucGhvdG9VcmkuaXNOb3RCbGFuaygpKSB7CiAgICAgICAgICAgICAgICBBc3luY0ltYWdlKAogICAgICAgICAgICAgICAgICAgIG1vZGVsID0gcGhvdG9Nb2RlbChzdHVkZW50LnBob3RvVXJpKSwgY29udGVudERlc2NyaXB0aW9uID0gIlN0dWRlbnQgcGhvdG8iLAogICAgICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIuc2l6ZSgxMjAuZHApLmNsaXAoQ2lyY2xlU2hhcGUpLmFsaWduKEFsaWdubWVudC5DZW50ZXJIb3Jpem9udGFsbHkpLAogICAgICAgICAgICAgICAgICAgIGNvbnRlbnRTY2FsZSA9IENvbnRlbnRTY2FsZS5Dcm9wCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDEwLmRwKSkKICAgICAgICAgICAgfQogICAgICAgICAgICBTdHVkZW50SW5mb1JvdygiU3R1ZGVudCBJRCIsIHN0dWRlbnQuc3R1ZGVudElkKQogICAgICAgICAgICBTdHVkZW50SW5mb1Jvdygi4Kao4Ka+4KauIiwgc3R1ZGVudC5uYW1lKQogICAgICAgICAgICBTdHVkZW50SW5mb1Jvdygi4Kaq4Ka/4Kak4Ka+4KawIOCmqOCmvuCmriIsIHN0dWRlbnQuZmF0aGVyTmFtZSkKICAgICAgICAgICAgU3R1ZGVudEluZm9Sb3coIuCmruCmvuCmpOCmvuCmsCDgpqjgpr7gpq4iLCBzdHVkZW50Lm1vdGhlck5hbWUpCiAgICAgICAgICAgIFN0dWRlbnRJbmZvUm93KCLgprbgp43gprDgp4fgpqPgpr8iLCBzdHVkZW50LmNsYXNzTmFtZSkKICAgICAgICAgICAgU3R1ZGVudEluZm9Sb3coIuCmsOCni+CmsiIsIHN0dWRlbnQucm9sbCkKICAgICAgICAgICAgU3R1ZGVudEluZm9Sb3coIuCmuOCnh+CmtuCmqCIsIHN0dWRlbnQuc2Vzc2lvbikKICAgICAgICAgICAgU3R1ZGVudEluZm9Sb3coIuCmrOCmv+CmreCmvuCmly/gprbgpr7gppbgpr4iLCBzdHVkZW50LnNlY3Rpb24pCiAgICAgICAgICAgIFN0dWRlbnRJbmZvUm93KCLgpq7gp4vgpqzgpr7gpofgprIiLCBzdHVkZW50LnBob25lKQogICAgICAgICAgICBTdHVkZW50SW5mb1Jvdygi4Kaq4KeN4Kaw4Kak4Ka/4Ka34KeN4Kag4Ka+4KaoIiwgaW5zdGl0dXRpb25OYW1lKQogICAgICAgIH0KICAgIH0KfQo=
+package com.institution.idscanner.ui
+
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.unit.dp
+import coil.compose.AsyncImage
+import com.institution.idscanner.data.Student
+import java.io.File
+import java.text.SimpleDateFormat
+import java.util.Date
+
+/** Photos saved in internal storage are absolute paths; older entries may
+ *  still hold a content:// URI. Coil needs a File for the former. */
+internal fun photoModel(stored: String): Any =
+    if (stored.startsWith("/")) File(stored) else stored
+
+@Composable
+fun StudentInfoRow(label: String, value: String) {
+    if (value.isBlank()) return
+    Row(Modifier.fillMaxWidth().padding(vertical = 3.dp)) {
+        Text(label, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.primary, modifier = Modifier.width(110.dp))
+        Text(value, style = MaterialTheme.typography.bodyMedium)
+    }
+}
+
+@Composable
+fun StudentCard(student: Student, institutionName: String, onClick: (() -> Unit)? = null) {
+    Card(
+        onClick = { onClick?.invoke() },
+        modifier = Modifier.fillMaxWidth().padding(vertical = 6.dp),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface)
+    ) {
+        Row(Modifier.padding(14.dp), verticalAlignment = Alignment.CenterVertically) {
+            if (student.photoUri.isNotBlank()) {
+                AsyncImage(
+                    model = photoModel(student.photoUri), contentDescription = null,
+                    modifier = Modifier.size(64.dp).clip(CircleShape),
+                    contentScale = ContentScale.Crop
+                )
+            } else {
+                androidx.compose.material3.Surface(
+                    modifier = Modifier.size(64.dp).clip(CircleShape),
+                    color = MaterialTheme.colorScheme.primaryContainer
+                ) {
+                    androidx.compose.foundation.layout.Box(contentAlignment = Alignment.Center) {
+                        Text(
+                            student.name.firstOrNull()?.toString() ?: "?",
+                            style = MaterialTheme.typography.headlineMedium,
+                            color = MaterialTheme.colorScheme.primary
+                        )
+                    }
+                }
+            }
+            Spacer(Modifier.width(14.dp))
+            Column {
+                Text(student.name, style = MaterialTheme.typography.titleMedium)
+                Text("ID: ${student.studentId}", style = MaterialTheme.typography.bodyMedium)
+                if (student.className.isNotBlank())
+                    Text("শ্রেণি: ${student.className}  •  রোল: ${student.roll}", style = MaterialTheme.typography.bodyMedium)
+                if (institutionName.isNotBlank())
+                    Text(institutionName, style = MaterialTheme.typography.bodySmall)
+            }
+        }
+    }
+    Spacer(Modifier.height(2.dp))
+}
+
+@Composable
+fun StudentDetailCard(
+    student: Student,
+    institutionName: String,
+    scanTimeMillis: Long? = null,
+    scanTimeFormat: SimpleDateFormat? = null
+) {
+    Card(Modifier.fillMaxWidth().padding(vertical = 8.dp)) {
+        Column(Modifier.padding(16.dp)) {
+            Text("Student Found", style = MaterialTheme.typography.headlineMedium, color = MaterialTheme.colorScheme.primary)
+            if (scanTimeMillis != null && scanTimeFormat != null) {
+                Spacer(Modifier.height(4.dp))
+                Text("স্ক্যানের সময়: ${scanTimeFormat.format(Date(scanTimeMillis))}", style = MaterialTheme.typography.bodyMedium)
+            }
+            Spacer(Modifier.height(10.dp))
+            if (student.photoUri.isNotBlank()) {
+                AsyncImage(
+                    model = photoModel(student.photoUri), contentDescription = "Student photo",
+                    modifier = Modifier.size(120.dp).clip(CircleShape).align(Alignment.CenterHorizontally),
+                    contentScale = ContentScale.Crop
+                )
+                Spacer(Modifier.height(10.dp))
+            }
+            StudentInfoRow("Student ID", student.studentId)
+            StudentInfoRow("নাম", student.name)
+            StudentInfoRow("পিতার নাম", student.fatherName)
+            StudentInfoRow("মাতার নাম", student.motherName)
+            StudentInfoRow("শ্রেণি", student.className)
+            StudentInfoRow("রোল", student.roll)
+            StudentInfoRow("সেশন", student.session)
+            StudentInfoRow("বিভাগ/শাখা", student.section)
+            StudentInfoRow("মোবাইল", student.phone)
+            StudentInfoRow("প্রতিষ্ঠান", institutionName)
+        }
+    }
+}
