@@ -1,1 +1,7 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDxzdHlsZSBuYW1lPSJUaGVtZS5TdHVkZW50SURTY2FubmVyIiBwYXJlbnQ9ImFuZHJvaWQ6VGhlbWUuTWF0ZXJpYWwuTGlnaHQuTm9BY3Rpb25CYXIiPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93U3BsYXNoU2NyZWVuQmFja2dyb3VuZCI+QGNvbG9yL2dyZWVuOTAwPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6d2luZG93U3BsYXNoU2NyZWVuQW5pbWF0ZWRJY29uIj5AbWlwbWFwL2ljX2xhdW5jaGVyPC9pdGVtPgogICAgPC9zdHlsZT4KPC9yZXNvdXJjZXM+Cg==
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StudentIDScanner" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowSplashScreenBackground">@color/green900</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+    </style>
+</resources>
