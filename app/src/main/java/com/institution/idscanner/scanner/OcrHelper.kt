@@ -1,1 +1,20 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnNjYW5uZXIKCmltcG9ydCBhbmRyb2lkLmdyYXBoaWNzLkJpdG1hcAppbXBvcnQgY29tLmdvb2dsZS5tbGtpdC52aXNpb24uY29tbW9uLklucHV0SW1hZ2UKaW1wb3J0IGNvbS5nb29nbGUubWxraXQudmlzaW9uLnRleHQuVGV4dFJlY29nbml0aW9uCmltcG9ydCBjb20uZ29vZ2xlLm1sa2l0LnZpc2lvbi50ZXh0LmxhdGluLlRleHRSZWNvZ25pemVyT3B0aW9ucwppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLnN1c3BlbmRDYW5jZWxsYWJsZUNvcm91dGluZQppbXBvcnQga290bGluLmNvcm91dGluZXMucmVzdW1lCgovKiogUnVucyBNTCBLaXQgb24tZGV2aWNlIE9DUiAoTGF0aW4gc2NyaXB0KSBvdmVyIGEgY2FwdHVyZWQgcGhvdG8uIE5vIGludGVybmV0IG5lZWRlZC4gKi8Kb2JqZWN0IE9jckhlbHBlciB7CiAgICBzdXNwZW5kIGZ1biByZWNvZ25pemVUZXh0KGJpdG1hcDogQml0bWFwKTogU3RyaW5nID0KICAgICAgICBzdXNwZW5kQ2FuY2VsbGFibGVDb3JvdXRpbmUgeyBjb250IC0+CiAgICAgICAgICAgIHZhbCByZWNvZ25pemVyID0gVGV4dFJlY29nbml0aW9uLmdldENsaWVudChUZXh0UmVjb2duaXplck9wdGlvbnMuREVGQVVMVF9PUFRJT05TKQogICAgICAgICAgICByZWNvZ25pemVyLnByb2Nlc3MoSW5wdXRJbWFnZS5mcm9tQml0bWFwKGJpdG1hcCwgMCkpCiAgICAgICAgICAgICAgICAuYWRkT25TdWNjZXNzTGlzdGVuZXIgeyBjb250LnJlc3VtZShpdC50ZXh0KSB9CiAgICAgICAgICAgICAgICAuYWRkT25GYWlsdXJlTGlzdGVuZXIgeyBjb250LnJlc3VtZSgiIikgfQogICAgICAgICAgICAgICAgLmFkZE9uQ29tcGxldGVMaXN0ZW5lciB7IHJlY29nbml6ZXIuY2xvc2UoKSB9CiAgICAgICAgfQp9Cg==
+package com.institution.idscanner.scanner
+
+import android.graphics.Bitmap
+import com.google.mlkit.vision.common.InputImage
+import com.google.mlkit.vision.text.TextRecognition
+import com.google.mlkit.vision.text.latin.TextRecognizerOptions
+import kotlinx.coroutines.suspendCancellableCoroutine
+import kotlin.coroutines.resume
+
+/** Runs ML Kit on-device OCR (Latin script) over a captured photo. No internet needed. */
+object OcrHelper {
+    suspend fun recognizeText(bitmap: Bitmap): String =
+        suspendCancellableCoroutine { cont ->
+            val recognizer = TextRecognition.getClient(TextRecognizerOptions.DEFAULT_OPTIONS)
+            recognizer.process(InputImage.fromBitmap(bitmap, 0))
+                .addOnSuccessListener { cont.resume(it.text) }
+                .addOnFailureListener { cont.resume("") }
+                .addOnCompleteListener { recognizer.close() }
+        }
+}
