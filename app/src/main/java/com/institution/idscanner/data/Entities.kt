@@ -1,1 +1,43 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEKCmltcG9ydCBhbmRyb2lkeC5yb29tLkVudGl0eQppbXBvcnQgYW5kcm9pZHgucm9vbS5QcmltYXJ5S2V5CgpARW50aXR5KHRhYmxlTmFtZSA9ICJzdHVkZW50cyIpCmRhdGEgY2xhc3MgU3R1ZGVudCgKICAgIEBQcmltYXJ5S2V5IHZhbCBzdHVkZW50SWQ6IFN0cmluZywKICAgIHZhbCBuYW1lOiBTdHJpbmcsCiAgICB2YWwgZmF0aGVyTmFtZTogU3RyaW5nID0gIiIsCiAgICB2YWwgbW90aGVyTmFtZTogU3RyaW5nID0gIiIsCiAgICB2YWwgY2xhc3NOYW1lOiBTdHJpbmcgPSAiIiwKICAgIHZhbCByb2xsOiBTdHJpbmcgPSAiIiwKICAgIHZhbCBzZXNzaW9uOiBTdHJpbmcgPSAiIiwKICAgIHZhbCBzZWN0aW9uOiBTdHJpbmcgPSAiIiwKICAgIHZhbCBwaG9uZTogU3RyaW5nID0gIiIsCiAgICAvKiogQ29udGVudCBVUkkgc3RyaW5nIG9mIGEgcGlja2VkIHBob3RvLCBvciBlbXB0eS4gKi8KICAgIHZhbCBwaG90b1VyaTogU3RyaW5nID0gIiIKKQoKQEVudGl0eSh0YWJsZU5hbWUgPSAic2Nhbl9oaXN0b3J5IikKZGF0YSBjbGFzcyBTY2FuSGlzdG9yeSgKICAgIEBQcmltYXJ5S2V5KGF1dG9HZW5lcmF0ZSA9IHRydWUpIHZhbCBpZDogTG9uZyA9IDAsCiAgICB2YWwgc3R1ZGVudElkOiBTdHJpbmcsCiAgICB2YWwgc2Nhbm5lZEF0OiBMb25nID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKKQoKLyoqCiAqIE9uZSBhdHRlbmRhbmNlIHJlY29yZCBwZXIgc3R1ZGVudCBwZXIgZGF5LiBbZGF0ZV0gaXMgInl5eXktTU0tZGQiIGluIHRoZQogKiBBc2lhL0RoYWthIHRpbWV6b25lLiBUaGUgdW5pcXVlIGluZGV4IG9uIChzdHVkZW50SWQsIGRhdGUpIHBsdXMKICogSU5TRVJUIE9SIElHTk9SRSBrZWVwcyBpdCB0byBvbmUgcmVjb3JkIHBlciBzdHVkZW50IHBlciBkYXksIHNvIHJlcGVhdAogKiBzY2FucyBvbiB0aGUgc2FtZSBkYXkgbmV2ZXIgY3JlYXRlIGR1cGxpY2F0ZXMuCiAqLwpARW50aXR5KAogICAgdGFibGVOYW1lID0gImF0dGVuZGFuY2UiLAogICAgaW5kaWNlcyA9IFthbmRyb2lkeC5yb29tLkluZGV4KHZhbHVlID0gWyJzdHVkZW50SWQiLCAiZGF0ZSJdLCB1bmlxdWUgPSB0cnVlKV0KKQpkYXRhIGNsYXNzIEF0dGVuZGFuY2VSZWNvcmQoCiAgICBAUHJpbWFyeUtleShhdXRvR2VuZXJhdGUgPSB0cnVlKSB2YWwgaWQ6IExvbmcgPSAwLAogICAgdmFsIHN0dWRlbnRJZDogU3RyaW5nLAogICAgdmFsIGRhdGU6IFN0cmluZywKICAgIHZhbCBzY2FubmVkQXQ6IExvbmcgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKQopCg==
+package com.institution.idscanner.data
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+@Entity(tableName = "students")
+data class Student(
+    @PrimaryKey val studentId: String,
+    val name: String,
+    val fatherName: String = "",
+    val motherName: String = "",
+    val className: String = "",
+    val roll: String = "",
+    val session: String = "",
+    val section: String = "",
+    val phone: String = "",
+    /** Content URI string of a picked photo, or empty. */
+    val photoUri: String = ""
+)
+
+@Entity(tableName = "scan_history")
+data class ScanHistory(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val studentId: String,
+    val scannedAt: Long = System.currentTimeMillis()
+)
+
+/**
+ * One attendance record per student per day. [date] is "yyyy-MM-dd" in the
+ * Asia/Dhaka timezone. The unique index on (studentId, date) plus
+ * INSERT OR IGNORE keeps it to one record per student per day, so repeat
+ * scans on the same day never create duplicates.
+ */
+@Entity(
+    tableName = "attendance",
+    indices = [androidx.room.Index(value = ["studentId", "date"], unique = true)]
+)
+data class AttendanceRecord(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val studentId: String,
+    val date: String,
+    val scannedAt: Long = System.currentTimeMillis()
+)
