@@ -1,1 +1,57 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEKCmltcG9ydCBqYXZhLnRleHQuU2ltcGxlRGF0ZUZvcm1hdAppbXBvcnQgamF2YS51dGlsLkRhdGUKaW1wb3J0IGphdmEudXRpbC5Mb2NhbGUKaW1wb3J0IGphdmEudXRpbC5UaW1lWm9uZQppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmZsb3cuRmxvdwoKY2xhc3MgU3R1ZGVudFJlcG9zaXRvcnkocHJpdmF0ZSB2YWwgZGI6IEFwcERhdGFiYXNlKSB7CiAgICBwcml2YXRlIHZhbCBzdHVkZW50RGFvID0gZGIuc3R1ZGVudERhbygpCiAgICBwcml2YXRlIHZhbCBoaXN0b3J5RGFvID0gZGIuaGlzdG9yeURhbygpCiAgICBwcml2YXRlIHZhbCBhdHRlbmRhbmNlRGFvID0gZGIuYXR0ZW5kYW5jZURhbygpCgogICAgdmFsIGFsbFN0dWRlbnRzOiBGbG93PExpc3Q8U3R1ZGVudD4+ID0gc3R1ZGVudERhby5nZXRBbGwoKQogICAgdmFsIGhpc3Rvcnk6IEZsb3c8TGlzdDxTY2FuSGlzdG9yeT4+ID0gaGlzdG9yeURhby5nZXRBbGwoKQoKICAgIGZ1biBzZWFyY2gocXVlcnk6IFN0cmluZyk6IEZsb3c8TGlzdDxTdHVkZW50Pj4gPSBzdHVkZW50RGFvLnNlYXJjaChxdWVyeSkKCiAgICBmdW4gYXR0ZW5kYW5jZUZvcihzdHVkZW50SWQ6IFN0cmluZyk6IEZsb3c8TGlzdDxBdHRlbmRhbmNlUmVjb3JkPj4gPQogICAgICAgIGF0dGVuZGFuY2VEYW8uZ2V0Rm9yU3R1ZGVudChzdHVkZW50SWQpCgogICAgLyoqIE5vcm1hbGlzZXMgYSBzY2FubmVkIHZhbHVlICh0cmltcyBzcGFjZXMsIHVwcGVyLWNhc2VzKSBiZWZvcmUgbG9va3VwLiAqLwogICAgc3VzcGVuZCBmdW4gZmluZEJ5U2Nhbm5lZChyYXc6IFN0cmluZyk6IFN0dWRlbnQ/IHsKICAgICAgICB2YWwgaWQgPSByYXcudHJpbSgpLnVwcGVyY2FzZSgpCiAgICAgICAgcmV0dXJuIHN0dWRlbnREYW8uZ2V0QnlJZChpZCkKICAgICAgICAgICAgPzogc3R1ZGVudERhby5nZXRCeUlkKHJhdy50cmltKCkpCiAgICB9CgogICAgc3VzcGVuZCBmdW4gcmVjb3JkU2NhbihzdHVkZW50SWQ6IFN0cmluZykgewogICAgICAgIGhpc3RvcnlEYW8uaW5zZXJ0KFNjYW5IaXN0b3J5KHN0dWRlbnRJZCA9IHN0dWRlbnRJZCkpCiAgICB9CgogICAgLyoqIFJlY29yZHMgdG9kYXkncyBhdHRlbmRhbmNlIChBc2lhL0RoYWthKS4gUmVwZWF0IHNjYW5zIHRoZSBzYW1lIGRheQogICAgICogIGFyZSBpZ25vcmVkIGJ5IHRoZSB1bmlxdWUgaW5kZXgsIHNvIGEgc3R1ZGVudCBpcyBtYXJrZWQgb25jZSBhIGRheS4gKi8KICAgIHN1c3BlbmQgZnVuIG1hcmtBdHRlbmRhbmNlKHN0dWRlbnRJZDogU3RyaW5nLCBub3dNaWxsaXM6IExvbmcgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkgewogICAgICAgIGF0dGVuZGFuY2VEYW8uaW5zZXJ0SWdub3JlKAogICAgICAgICAgICBBdHRlbmRhbmNlUmVjb3JkKHN0dWRlbnRJZCA9IHN0dWRlbnRJZCwgZGF0ZSA9IGRhdGVTdHJpbmcobm93TWlsbGlzKSwgc2Nhbm5lZEF0ID0gbm93TWlsbGlzKQogICAgICAgICkKICAgIH0KCiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBwcml2YXRlIHZhbCBESEFLQTogVGltZVpvbmUgPSBUaW1lWm9uZS5nZXRUaW1lWm9uZSgiQXNpYS9EaGFrYSIpCgogICAgICAgIC8qKiAieXl5eS1NTS1kZCIgZm9yIFttaWxsaXNdIGluIEFzaWEvRGhha2EuICovCiAgICAgICAgZnVuIGRhdGVTdHJpbmcobWlsbGlzOiBMb25nID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOiBTdHJpbmcgewogICAgICAgICAgICB2YWwgZm10ID0gU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCIsIExvY2FsZS5VUykKICAgICAgICAgICAgZm10LnRpbWVab25lID0gREhBS0EKICAgICAgICAgICAgcmV0dXJuIGZtdC5mb3JtYXQoRGF0ZShtaWxsaXMpKQogICAgICAgIH0KICAgIH0KCiAgICBzdXNwZW5kIGZ1biB1cHNlcnQoc3R1ZGVudDogU3R1ZGVudCkgPSBzdHVkZW50RGFvLnVwc2VydChzdHVkZW50KQogICAgc3VzcGVuZCBmdW4gdXBzZXJ0QWxsKHN0dWRlbnRzOiBMaXN0PFN0dWRlbnQ+KSA9IHN0dWRlbnREYW8udXBzZXJ0QWxsKHN0dWRlbnRzKQogICAgc3VzcGVuZCBmdW4gZGVsZXRlKHN0dWRlbnQ6IFN0dWRlbnQpID0gc3R1ZGVudERhby5kZWxldGUoc3R1ZGVudCkKICAgIHN1c3BlbmQgZnVuIGRlbGV0ZUhpc3RvcnkoaWQ6IExvbmcpID0gaGlzdG9yeURhby5kZWxldGVCeUlkKGlkKQogICAgc3VzcGVuZCBmdW4gY2xlYXJIaXN0b3J5KCkgPSBoaXN0b3J5RGFvLmNsZWFyQWxsKCkKfQo=
+package com.institution.idscanner.data
+
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+import java.util.TimeZone
+import kotlinx.coroutines.flow.Flow
+
+class StudentRepository(private val db: AppDatabase) {
+    private val studentDao = db.studentDao()
+    private val historyDao = db.historyDao()
+    private val attendanceDao = db.attendanceDao()
+
+    val allStudents: Flow<List<Student>> = studentDao.getAll()
+    val history: Flow<List<ScanHistory>> = historyDao.getAll()
+
+    fun search(query: String): Flow<List<Student>> = studentDao.search(query)
+
+    fun attendanceFor(studentId: String): Flow<List<AttendanceRecord>> =
+        attendanceDao.getForStudent(studentId)
+
+    /** Normalises a scanned value (trims spaces, upper-cases) before lookup. */
+    suspend fun findByScanned(raw: String): Student? {
+        val id = raw.trim().uppercase()
+        return studentDao.getById(id)
+            ?: studentDao.getById(raw.trim())
+    }
+
+    suspend fun recordScan(studentId: String) {
+        historyDao.insert(ScanHistory(studentId = studentId))
+    }
+
+    /** Records today's attendance (Asia/Dhaka). Repeat scans the same day
+     *  are ignored by the unique index, so a student is marked once a day. */
+    suspend fun markAttendance(studentId: String, nowMillis: Long = System.currentTimeMillis()) {
+        attendanceDao.insertIgnore(
+            AttendanceRecord(studentId = studentId, date = dateString(nowMillis), scannedAt = nowMillis)
+        )
+    }
+
+    companion object {
+        private val DHAKA: TimeZone = TimeZone.getTimeZone("Asia/Dhaka")
+
+        /** "yyyy-MM-dd" for [millis] in Asia/Dhaka. */
+        fun dateString(millis: Long = System.currentTimeMillis()): String {
+            val fmt = SimpleDateFormat("yyyy-MM-dd", Locale.US)
+            fmt.timeZone = DHAKA
+            return fmt.format(Date(millis))
+        }
+    }
+
+    suspend fun upsert(student: Student) = studentDao.upsert(student)
+    suspend fun upsertAll(students: List<Student>) = studentDao.upsertAll(students)
+    suspend fun delete(student: Student) = studentDao.delete(student)
+    suspend fun deleteHistory(id: Long) = historyDao.deleteById(id)
+    suspend fun clearHistory() = historyDao.clearAll()
+}
