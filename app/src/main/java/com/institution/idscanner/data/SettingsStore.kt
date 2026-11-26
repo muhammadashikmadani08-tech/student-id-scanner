@@ -1,1 +1,51 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgYW5kcm9pZHguZGF0YXN0b3JlLmNvcmUuRGF0YVN0b3JlCmltcG9ydCBhbmRyb2lkeC5kYXRhc3RvcmUucHJlZmVyZW5jZXMuY29yZS5QcmVmZXJlbmNlcwppbXBvcnQgYW5kcm9pZHguZGF0YXN0b3JlLnByZWZlcmVuY2VzLmNvcmUuZWRpdAppbXBvcnQgYW5kcm9pZHguZGF0YXN0b3JlLnByZWZlcmVuY2VzLmNvcmUuc3RyaW5nUHJlZmVyZW5jZXNLZXkKaW1wb3J0IGFuZHJvaWR4LmRhdGFzdG9yZS5wcmVmZXJlbmNlcy5wcmVmZXJlbmNlc0RhdGFTdG9yZQppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmZsb3cuRmxvdwppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmZsb3cubWFwCgpwcml2YXRlIHZhbCBDb250ZXh0LmRhdGFTdG9yZTogRGF0YVN0b3JlPFByZWZlcmVuY2VzPiBieSBwcmVmZXJlbmNlc0RhdGFTdG9yZSgic2V0dGluZ3MiKQoKLyoqCiAqIEluc3RpdHV0aW9uIG5hbWUgYW5kIHRoZSBBZG1pbiBQSU4sIHN0b3JlZCBvbmx5IG9uIHRoZSBkZXZpY2UuCiAqIEtleXMgYXJlIHN1ZmZpeGVkIHdpdGggdGhlIGFjY291bnQga2V5ICgiZGVmYXVsdCIgd2hlbiBubyBHbWFpbCBpcyBzZXQpLAogKiBzbyBlYWNoIEdtYWlsIGFjY291bnQgaGFzIGl0cyBvd24gaW5zdGl0dXRpb24gbmFtZSBhbmQgaXRzIG93biBBZG1pbiBQSU4KICogKGRlZmF1bHQgMTIzNCBmb3IgZXZlcnkgYWNjb3VudCkuCiAqLwpjbGFzcyBTZXR0aW5nc1N0b3JlKAogICAgcHJpdmF0ZSB2YWwgY29udGV4dDogQ29udGV4dCwKICAgIGFjY291bnRLZXk6IFN0cmluZyA9ICJkZWZhdWx0IgopIHsKICAgIHByaXZhdGUgdmFsIEtFWV9OQU1FID0gc3RyaW5nUHJlZmVyZW5jZXNLZXkoImluc3RpdHV0aW9uX25hbWVfJGFjY291bnRLZXkiKQogICAgcHJpdmF0ZSB2YWwgS0VZX1BJTiA9IHN0cmluZ1ByZWZlcmVuY2VzS2V5KCJhZG1pbl9waW5fJGFjY291bnRLZXkiKQoKICAgIC8vIExlZ2FjeSBrZXlzIGZyb20gYmVmb3JlIHBlci1hY2NvdW50IHNldHRpbmdzLCB1c2VkIG9ubHkgYXMgYSBmYWxsYmFjawogICAgLy8gZm9yIHRoZSBkZWZhdWx0IGFjY291bnQgc28gZXhpc3RpbmcgdXNlcnMga2VlcCB0aGVpciBzYXZlZCB2YWx1ZXMuCiAgICBwcml2YXRlIHZhbCBMRUdBQ1lfTkFNRSA9IHN0cmluZ1ByZWZlcmVuY2VzS2V5KCJpbnN0aXR1dGlvbl9uYW1lIikKICAgIHByaXZhdGUgdmFsIExFR0FDWV9QSU4gPSBzdHJpbmdQcmVmZXJlbmNlc0tleSgiYWRtaW5fcGluIikKICAgIHByaXZhdGUgdmFsIGlzRGVmYXVsdEFjY291bnQgPSBhY2NvdW50S2V5ID09ICJkZWZhdWx0IgoKICAgIHZhbCBpbnN0aXR1dGlvbk5hbWU6IEZsb3c8U3RyaW5nPiA9IGNvbnRleHQuZGF0YVN0b3JlLmRhdGEubWFwIHsgcHJlZnMgLT4KICAgICAgICBwcmVmc1tLRVlfTkFNRV0KICAgICAgICAgICAgPzogKGlmIChpc0RlZmF1bHRBY2NvdW50KSBwcmVmc1tMRUdBQ1lfTkFNRV0gZWxzZSBudWxsKQogICAgICAgICAgICA/OiAi4KaG4Kaq4Kao4Ka+4KawIOCmquCnjeCmsOCmpOCmv+Cmt+CnjeCmoOCmvuCmqOCnh+CmsCDgpqjgpr7gpq4iCiAgICB9CiAgICB2YWwgYWRtaW5QaW46IEZsb3c8U3RyaW5nPiA9IGNvbnRleHQuZGF0YVN0b3JlLmRhdGEubWFwIHsgcHJlZnMgLT4KICAgICAgICBwcmVmc1tLRVlfUElOXQogICAgICAgICAgICA/OiAoaWYgKGlzRGVmYXVsdEFjY291bnQpIHByZWZzW0xFR0FDWV9QSU5dIGVsc2UgbnVsbCkKICAgICAgICAgICAgPzogIjEyMzQiCiAgICB9CgogICAgc3VzcGVuZCBmdW4gc2V0SW5zdGl0dXRpb25OYW1lKG5hbWU6IFN0cmluZykgewogICAgICAgIGNvbnRleHQuZGF0YVN0b3JlLmVkaXQgeyBpdFtLRVlfTkFNRV0gPSBuYW1lIH0KICAgIH0KCiAgICBzdXNwZW5kIGZ1biBzZXRBZG1pblBpbihwaW46IFN0cmluZykgewogICAgICAgIGNvbnRleHQuZGF0YVN0b3JlLmVkaXQgeyBpdFtLRVlfUElOXSA9IHBpbiB9CiAgICB9Cn0K
+package com.institution.idscanner.data
+
+import android.content.Context
+import androidx.datastore.core.DataStore
+import androidx.datastore.preferences.core.Preferences
+import androidx.datastore.preferences.core.edit
+import androidx.datastore.preferences.core.stringPreferencesKey
+import androidx.datastore.preferences.preferencesDataStore
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.map
+
+private val Context.dataStore: DataStore<Preferences> by preferencesDataStore("settings")
+
+/**
+ * Institution name and the Admin PIN, stored only on the device.
+ * Keys are suffixed with the account key ("default" when no Gmail is set),
+ * so each Gmail account has its own institution name and its own Admin PIN
+ * (default 1234 for every account).
+ */
+class SettingsStore(
+    private val context: Context,
+    accountKey: String = "default"
+) {
+    private val KEY_NAME = stringPreferencesKey("institution_name_$accountKey")
+    private val KEY_PIN = stringPreferencesKey("admin_pin_$accountKey")
+
+    // Legacy keys from before per-account settings, used only as a fallback
+    // for the default account so existing users keep their saved values.
+    private val LEGACY_NAME = stringPreferencesKey("institution_name")
+    private val LEGACY_PIN = stringPreferencesKey("admin_pin")
+    private val isDefaultAccount = accountKey == "default"
+
+    val institutionName: Flow<String> = context.dataStore.data.map { prefs ->
+        prefs[KEY_NAME]
+            ?: (if (isDefaultAccount) prefs[LEGACY_NAME] else null)
+            ?: "আপনার প্রতিষ্ঠানের নাম"
+    }
+    val adminPin: Flow<String> = context.dataStore.data.map { prefs ->
+        prefs[KEY_PIN]
+            ?: (if (isDefaultAccount) prefs[LEGACY_PIN] else null)
+            ?: "1234"
+    }
+
+    suspend fun setInstitutionName(name: String) {
+        context.dataStore.edit { it[KEY_NAME] = name }
+    }
+
+    suspend fun setAdminPin(pin: String) {
+        context.dataStore.edit { it[KEY_PIN] = pin }
+    }
+}
