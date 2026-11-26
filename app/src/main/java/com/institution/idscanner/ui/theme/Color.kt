@@ -1,1 +1,10 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpLnRoZW1lCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS51aS5ncmFwaGljcy5Db2xvcgoKdmFsIEdyZWVuOTAwID0gQ29sb3IoMHhGRjFFNEQyQikKdmFsIEdyZWVuNzAwID0gQ29sb3IoMHhGRjJFN0QzMikKdmFsIEdyZWVuMTAwID0gQ29sb3IoMHhGRkU4RjVFOSkKdmFsIEdvbGQgPSBDb2xvcigweEZGRjVCMzAxKQp2YWwgSW5rID0gQ29sb3IoMHhGRjFBMUExQSkKdmFsIEdyZXk3MDAgPSBDb2xvcigweEZGNjE2MTYxKQo=
+package com.institution.idscanner.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Green900 = Color(0xFF1E4D2B)
+val Green700 = Color(0xFF2E7D32)
+val Green100 = Color(0xFFE8F5E9)
+val Gold = Color(0xFFF5B301)
+val Ink = Color(0xFF1A1A1A)
+val Grey700 = Color(0xFF616161)
