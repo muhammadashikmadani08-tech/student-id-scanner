@@ -1,1 +1,166 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmNsaWNrYWJsZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5Db2x1bW4KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuU3BhY2VyCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LmZpbGxNYXhTaXplCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LmZpbGxNYXhXaWR0aAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5oZWlnaHQKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQucGFkZGluZwppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxhenkuTGF6eUNvbHVtbgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxhenkuaXRlbXMKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuSWNvbnMKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwuaWNvbnMuZmlsbGVkLkFkZAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuRmxvYXRpbmdBY3Rpb25CdXR0b24KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLkljb24KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLk1hdGVyaWFsVGhlbWUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLk91dGxpbmVkVGV4dEZpZWxkCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5TY2FmZm9sZAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5tYXRlcmlhbDMuVGV4dAppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLkNvbXBvc2FibGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UucnVudGltZS5jb2xsZWN0QXNTdGF0ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLmdldFZhbHVlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUucmVtZW1iZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuTW9kaWZpZXIKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkudW5pdC5kcAppbXBvcnQgY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lci5BcHBWaWV3TW9kZWwKCkBDb21wb3NhYmxlCmZ1biBTZWFyY2hTY3JlZW4odm06IEFwcFZpZXdNb2RlbCwgb25Qcm9maWxlOiAoU3RyaW5nKSAtPiBVbml0KSB7CiAgICB2YWwgcXVlcnkgYnkgdm0ucXVlcnkuY29sbGVjdEFzU3RhdGUoKQogICAgdmFsIHJlc3VsdHMgYnkgdm0uc2VhcmNoUmVzdWx0cy5jb2xsZWN0QXNTdGF0ZSgpCiAgICB2YWwgaW5zdGl0dXRpb25OYW1lIGJ5IHZtLmluc3RpdHV0aW9uTmFtZS5jb2xsZWN0QXNTdGF0ZSgpCiAgICBDb2x1bW4oTW9kaWZpZXIuZmlsbE1heFNpemUoKS5wYWRkaW5nKDE2LmRwKSkgewogICAgICAgIFRleHQoIlNlYXJjaCBTdHVkZW50Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVNZWRpdW0pCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCgxMC5kcCkpCiAgICAgICAgT3V0bGluZWRUZXh0RmllbGQoCiAgICAgICAgICAgIHZhbHVlID0gcXVlcnksIG9uVmFsdWVDaGFuZ2UgPSB7IHZtLnNldFF1ZXJ5KGl0KSB9LAogICAgICAgICAgICBsYWJlbCA9IHsgVGV4dCgiSUQsIOCmqOCmvuCmriwg4Ka24KeN4Kaw4KeH4Kaj4Ka/IOCmrOCmviDgprDgp4vgprIg4Kay4Ka/4KaW4KeB4KaoIikgfSwKICAgICAgICAgICAgbW9kaWZpZXIgPSBNb2RpZmllci5maWxsTWF4V2lkdGgoKQogICAgICAgICkKICAgICAgICBTcGFjZXIoTW9kaWZpZXIuaGVpZ2h0KDguZHApKQogICAgICAgIGlmIChxdWVyeS5pc0JsYW5rKCkpIHsKICAgICAgICAgICAgVGV4dCgi4KaJ4Kaq4Kaw4KeHIOCmsuCmv+CmluCnhyDgppbgp4HgpoHgppzgp4HgpqjgpaQg4KaW4Ka+4Kay4Ka/IOCmpeCmvuCmleCmsuCnhyDgprjgpqwg4Ka24Ka/4KaV4KeN4Ka34Ka+4Kaw4KeN4Kal4KeAIFN0dWRlbnRzIOCmpOCmvuCmsuCmv+CmleCmvuCmr+CmvCDgpqbgp4fgppbgp4HgpqjgpaQiKQogICAgICAgIH0gZWxzZSBpZiAocmVzdWx0cy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgVGV4dCgi4KaV4KeL4Kao4KeLIOCmtuCmv+CmleCnjeCmt+CmvuCmsOCnjeCmpeCngCDgpqrgpr7gppPgpq/gprzgpr4g4Kav4Ka+4Kav4Ka84Kao4Ka/4KWkIikKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBMYXp5Q29sdW1uIHsKICAgICAgICAgICAgICAgIGl0ZW1zKHJlc3VsdHMpIHsgc3R1ZGVudCAtPgogICAgICAgICAgICAgICAgICAgIFN0dWRlbnRDYXJkKHN0dWRlbnQsIGluc3RpdHV0aW9uTmFtZSkgeyBvblByb2ZpbGUoc3R1ZGVudC5zdHVkZW50SWQpIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQoKQENvbXBvc2FibGUKZnVuIFN0dWRlbnRzU2NyZWVuKAogICAgdm06IEFwcFZpZXdNb2RlbCwKICAgIG9uUHJvZmlsZTogKFN0cmluZykgLT4gVW5pdCwKICAgIG9uQWRkOiAoKSAtPiBVbml0LAogICAgaXNBZG1pbjogQm9vbGVhbiwKICAgIG9uQ2xhc3M6IChTdHJpbmcpIC0+IFVuaXQKKSB7CiAgICB2YWwgc3R1ZGVudHMgYnkgdm0uc3R1ZGVudHMuY29sbGVjdEFzU3RhdGUoKQogICAgLy8gR3JvdXAgYnkgdHJpbW1lZCBjbGFzcyBuYW1lOyBvcmRlciBjbGFzc2VzIGJ5IHRoZSBrbm93biByYW5rLCB0aGVuCiAgICAvLyBhbHBoYWJldGljYWxseSBmb3IgYW55IG90aGVyIGNsYXNzIG5hbWVzLgogICAgdmFsIGdyb3VwcyA9IHJlbWVtYmVyKHN0dWRlbnRzKSB7CiAgICAgICAgc3R1ZGVudHMuZ3JvdXBCeSB7IGl0LmNsYXNzTmFtZS50cmltKCkgfQogICAgICAgICAgICAuZW50cmllcwogICAgICAgICAgICAuc29ydGVkV2l0aCgKICAgICAgICAgICAgICAgIGNvbXBhcmVCeSh7IENsYXNzT3JkZXIucmFuayhpdC5rZXkpIH0sIHsgaXQua2V5IH0pCiAgICAgICAgICAgICkKICAgIH0KICAgIFNjYWZmb2xkKAogICAgICAgIGZsb2F0aW5nQWN0aW9uQnV0dG9uID0gewogICAgICAgICAgICBpZiAoaXNBZG1pbikgRmxvYXRpbmdBY3Rpb25CdXR0b24ob25DbGljayA9IG9uQWRkKSB7CiAgICAgICAgICAgICAgICBJY29uKEljb25zLkZpbGxlZC5BZGQsIGNvbnRlbnREZXNjcmlwdGlvbiA9ICJBZGQgc3R1ZGVudCIpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICApIHsgcGFkIC0+CiAgICAgICAgQ29sdW1uKE1vZGlmaWVyLmZpbGxNYXhTaXplKCkucGFkZGluZyhwYWQpLnBhZGRpbmcoMTYuZHApKSB7CiAgICAgICAgICAgIFRleHQoIuCmtuCnjeCmsOCnh+Cmo+CmvyDgpoXgpqjgp4Hgpq/gpr7gpq/gprzgp4AgU3R1ZGVudHMgKCR7c3R1ZGVudHMuc2l6ZX0pIiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVNZWRpdW0pCiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgIGlmIChzdHVkZW50cy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgIFRleHQoIuCmj+CmluCmqOCniyDgppXgp4vgpqjgp4sg4Ka24Ka/4KaV4KeN4Ka34Ka+4Kaw4KeN4Kal4KeAIOCmqOCnh+Cmh+ClpCBBZG1pbiDgpqXgp4fgppXgp4cgQWRkIOCmleCmsOCngeCmqCDgpqzgpr4gQ1NWIGltcG9ydCDgppXgprDgp4HgpqjgpaQiKQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgTGF6eUNvbHVtbiB7CiAgICAgICAgICAgICAgICAgICAgaXRlbXMoZ3JvdXBzKSB7IChjbGFzc05hbWUsIG1lbWJlcnMpIC0+CiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBsYWJlbCA9IGNsYXNzTmFtZS5pZkJsYW5rIHsgIuCmtuCnjeCmsOCnh+Cmo+CmvyDgpongprLgp43gprLgp4fgppYg4Kao4KeH4KaHIiB9CiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLkNhcmQoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrID0geyBvbkNsYXNzKGNsYXNzTmFtZSkgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGlmaWVyID0gTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkucGFkZGluZyh2ZXJ0aWNhbCA9IDYuZHApCiAgICAgICAgICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5Sb3coCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9kaWZpZXIuZmlsbE1heFdpZHRoKCkucGFkZGluZygxNi5kcCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmVydGljYWxBbGlnbm1lbnQgPSBhbmRyb2lkeC5jb21wb3NlLnVpLkFsaWdubWVudC5DZW50ZXJWZXJ0aWNhbGx5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0KGxhYmVsLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS50aXRsZU1lZGl1bSwgbW9kaWZpZXIgPSBNb2RpZmllci53ZWlnaHQoMWYpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRleHQoIiR7bWVtYmVycy5zaXplfSDgppzgpqgiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5ib2R5TWVkaXVtKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9CgovKiogRGlzcGxheSBvcmRlciBvZiBjbGFzc2VzLCBtYXRjaGVkIGJ5IGtleXdvcmQgY29udGFpbmVkIGluIHRoZSBjbGFzcyBuYW1lLiAqLwppbnRlcm5hbCBvYmplY3QgQ2xhc3NPcmRlciB7CiAgICBwcml2YXRlIHZhbCByYW5rcyA9IGxpc3RPZigKICAgICAgICAi4Ka24Ka/4Ka24KeBIiwgIuCmquCnjeCmsOCmpeCmriIsICLgpqbgp43gpqzgpr/gpqTgp4Dgpq/gprwiLCAi4Kak4KeD4Kak4KeA4Kav4Ka8IiwgIuCmmuCmpOCngeCmsOCnjeCmpSIsICLgpqrgpp7gp43gpprgpq4iLAogICAgICAgICLgprfgprfgp43gpqAiLCAi4Ka44Kaq4KeN4Kak4KauIiwgIuCmheCmt+CnjeCmn+CmriIsICLgpqjgpqzgpq4iLCAi4Kam4Ka24KauIiwgIuCmj+CmleCmvuCmpuCmtiIsICLgpqbgp43gpqzgpr7gpqbgprYiCiAgICApCgogICAgZnVuIHJhbmsoY2xhc3NOYW1lOiBTdHJpbmcpOiBJbnQgewogICAgICAgIHZhbCBuYW1lID0gY2xhc3NOYW1lLnRyaW0oKQogICAgICAgIGlmIChuYW1lLmlzQmxhbmsoKSkgcmV0dXJuIHJhbmtzLnNpemUKICAgICAgICB2YWwgaW5kZXggPSByYW5rcy5pbmRleE9mRmlyc3QgeyBuYW1lLmNvbnRhaW5zKGl0KSB9CiAgICAgICAgcmV0dXJuIGlmIChpbmRleCA+PSAwKSBpbmRleCBlbHNlIHJhbmtzLnNpemUKICAgIH0KfQoKQENvbXBvc2FibGUKZnVuIENsYXNzU3R1ZGVudHNTY3JlZW4oCiAgICB2bTogQXBwVmlld01vZGVsLAogICAgY2xhc3NOYW1lOiBTdHJpbmcsCiAgICBvblByb2ZpbGU6IChTdHJpbmcpIC0+IFVuaXQsCiAgICBvbkFkZDogKCkgLT4gVW5pdCwKICAgIGlzQWRtaW46IEJvb2xlYW4KKSB7CiAgICB2YWwgc3R1ZGVudHMgYnkgdm0uc3R1ZGVudHMuY29sbGVjdEFzU3RhdGUoKQogICAgdmFsIGluc3RpdHV0aW9uTmFtZSBieSB2bS5pbnN0aXR1dGlvbk5hbWUuY29sbGVjdEFzU3RhdGUoKQogICAgLy8gTnVtZXJpYyByb2xscyBmaXJzdCwgYXNjZW5kaW5nOyBub24tbnVtZXJpYyByb2xscyBsYXN0OyB0aGVuIG5hbWUuCiAgICB2YWwgbWVtYmVycyA9IHJlbWVtYmVyKHN0dWRlbnRzLCBjbGFzc05hbWUpIHsKICAgICAgICBzdHVkZW50cy5maWx0ZXIgeyBpdC5jbGFzc05hbWUudHJpbSgpID09IGNsYXNzTmFtZS50cmltKCkgfQogICAgICAgICAgICAuc29ydGVkV2l0aCgKICAgICAgICAgICAgICAgIGNvbXBhcmVCeSgKICAgICAgICAgICAgICAgICAgICB7IGl0LnJvbGwudHJpbSgpLnRvSW50T3JOdWxsKCkgPzogSW50Lk1BWF9WQUxVRSB9LAogICAgICAgICAgICAgICAgICAgIHsgaXQubmFtZSB9CiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICkKICAgIH0KICAgIHZhbCBsYWJlbCA9IGNsYXNzTmFtZS5pZkJsYW5rIHsgIuCmtuCnjeCmsOCnh+Cmo+CmvyDgpongprLgp43gprLgp4fgppYg4Kao4KeH4KaHIiB9CiAgICBTY2FmZm9sZCgKICAgICAgICBmbG9hdGluZ0FjdGlvbkJ1dHRvbiA9IHsKICAgICAgICAgICAgaWYgKGlzQWRtaW4pIEZsb2F0aW5nQWN0aW9uQnV0dG9uKG9uQ2xpY2sgPSBvbkFkZCkgewogICAgICAgICAgICAgICAgSWNvbihJY29ucy5GaWxsZWQuQWRkLCBjb250ZW50RGVzY3JpcHRpb24gPSAiQWRkIHN0dWRlbnQiKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgKSB7IHBhZCAtPgogICAgICAgIENvbHVtbihNb2RpZmllci5maWxsTWF4U2l6ZSgpLnBhZGRpbmcocGFkKS5wYWRkaW5nKDE2LmRwKSkgewogICAgICAgICAgICBUZXh0KCIkbGFiZWwgKCR7bWVtYmVycy5zaXplfSkiLCBzdHlsZSA9IE1hdGVyaWFsVGhlbWUudHlwb2dyYXBoeS5oZWFkbGluZU1lZGl1bSkKICAgICAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICAgICAgaWYgKG1lbWJlcnMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBUZXh0KCLgpo/gpocg4Ka24KeN4Kaw4KeH4Kaj4Ka/4Kak4KeHIOCmleCni+CmqOCniyDgprbgpr/gppXgp43gprfgpr7gprDgp43gpqXgp4Ag4Kao4KeH4KaH4KWkIikKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIExhenlDb2x1bW4gewogICAgICAgICAgICAgICAgICAgIGl0ZW1zKG1lbWJlcnMpIHsgc3R1ZGVudCAtPgogICAgICAgICAgICAgICAgICAgICAgICBTdHVkZW50Q2FyZChzdHVkZW50LCBpbnN0aXR1dGlvbk5hbWUpIHsgb25Qcm9maWxlKHN0dWRlbnQuc3R1ZGVudElkKSB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQp9Cg==
+package com.institution.idscanner.ui
+
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Add
+import androidx.compose.material3.FloatingActionButton
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+import com.institution.idscanner.AppViewModel
+
+@Composable
+fun SearchScreen(vm: AppViewModel, onProfile: (String) -> Unit) {
+    val query by vm.query.collectAsState()
+    val results by vm.searchResults.collectAsState()
+    val institutionName by vm.institutionName.collectAsState()
+    Column(Modifier.fillMaxSize().padding(16.dp)) {
+        Text("Search Student", style = MaterialTheme.typography.headlineMedium)
+        Spacer(Modifier.height(10.dp))
+        OutlinedTextField(
+            value = query, onValueChange = { vm.setQuery(it) },
+            label = { Text("ID, নাম, শ্রেণি বা রোল লিখুন") },
+            modifier = Modifier.fillMaxWidth()
+        )
+        Spacer(Modifier.height(8.dp))
+        if (query.isBlank()) {
+            Text("উপরে লিখে খুঁজুন। খালি থাকলে সব শিক্ষার্থী Students তালিকায় দেখুন।")
+        } else if (results.isEmpty()) {
+            Text("কোনো শিক্ষার্থী পাওয়া যায়নি।")
+        } else {
+            LazyColumn {
+                items(results) { student ->
+                    StudentCard(student, institutionName) { onProfile(student.studentId) }
+                }
+            }
+        }
+    }
+}
+
+@Composable
+fun StudentsScreen(
+    vm: AppViewModel,
+    onProfile: (String) -> Unit,
+    onAdd: () -> Unit,
+    isAdmin: Boolean,
+    onClass: (String) -> Unit
+) {
+    val students by vm.students.collectAsState()
+    // Group by trimmed class name; order classes by the known rank, then
+    // alphabetically for any other class names.
+    val groups = remember(students) {
+        students.groupBy { it.className.trim() }
+            .entries
+            .sortedWith(
+                compareBy({ ClassOrder.rank(it.key) }, { it.key })
+            )
+    }
+    Scaffold(
+        floatingActionButton = {
+            if (isAdmin) FloatingActionButton(onClick = onAdd) {
+                Icon(Icons.Filled.Add, contentDescription = "Add student")
+            }
+        }
+    ) { pad ->
+        Column(Modifier.fillMaxSize().padding(pad).padding(16.dp)) {
+            Text("শ্রেণি অনুযায়ী Students (${students.size})", style = MaterialTheme.typography.headlineMedium)
+            Spacer(Modifier.height(8.dp))
+            if (students.isEmpty()) {
+                Text("এখনো কোনো শিক্ষার্থী নেই। Admin থেকে Add করুন বা CSV import করুন।")
+            } else {
+                LazyColumn {
+                    items(groups) { (className, members) ->
+                        val label = className.ifBlank { "শ্রেণি উল্লেখ নেই" }
+                        androidx.compose.material3.Card(
+                            onClick = { onClass(className) },
+                            modifier = Modifier.fillMaxWidth().padding(vertical = 6.dp)
+                        ) {
+                            androidx.compose.foundation.layout.Row(
+                                Modifier.fillMaxWidth().padding(16.dp),
+                                verticalAlignment = androidx.compose.ui.Alignment.CenterVertically
+                            ) {
+                                Text(label, style = MaterialTheme.typography.titleMedium, modifier = Modifier.weight(1f))
+                                Text("${members.size} জন", style = MaterialTheme.typography.bodyMedium)
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+/** Display order of classes, matched by keyword contained in the class name. */
+internal object ClassOrder {
+    private val ranks = listOf(
+        "শিশু", "প্রথম", "দ্বিতীয়", "তৃতীয়", "চতুর্থ", "পঞ্চম",
+        "ষষ্ঠ", "সপ্তম", "অষ্টম", "নবম", "দশম", "একাদশ", "দ্বাদশ"
+    )
+
+    fun rank(className: String): Int {
+        val name = className.trim()
+        if (name.isBlank()) return ranks.size
+        val index = ranks.indexOfFirst { name.contains(it) }
+        return if (index >= 0) index else ranks.size
+    }
+}
+
+@Composable
+fun ClassStudentsScreen(
+    vm: AppViewModel,
+    className: String,
+    onProfile: (String) -> Unit,
+    onAdd: () -> Unit,
+    isAdmin: Boolean
+) {
+    val students by vm.students.collectAsState()
+    val institutionName by vm.institutionName.collectAsState()
+    // Numeric rolls first, ascending; non-numeric rolls last; then name.
+    val members = remember(students, className) {
+        students.filter { it.className.trim() == className.trim() }
+            .sortedWith(
+                compareBy(
+                    { it.roll.trim().toIntOrNull() ?: Int.MAX_VALUE },
+                    { it.name }
+                )
+            )
+    }
+    val label = className.ifBlank { "শ্রেণি উল্লেখ নেই" }
+    Scaffold(
+        floatingActionButton = {
+            if (isAdmin) FloatingActionButton(onClick = onAdd) {
+                Icon(Icons.Filled.Add, contentDescription = "Add student")
+            }
+        }
+    ) { pad ->
+        Column(Modifier.fillMaxSize().padding(pad).padding(16.dp)) {
+            Text("$label (${members.size})", style = MaterialTheme.typography.headlineMedium)
+            Spacer(Modifier.height(8.dp))
+            if (members.isEmpty()) {
+                Text("এই শ্রেণিতে কোনো শিক্ষার্থী নেই।")
+            } else {
+                LazyColumn {
+                    items(members) { student ->
+                        StudentCard(student, institutionName) { onProfile(student.studentId) }
+                    }
+                }
+            }
+        }
+    }
+}
