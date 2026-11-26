@@ -1,1 +1,3 @@
-IyBLZWVwIE1MIEtpdCAvIENhbWVyYVggY2xhc3Nlcwota2VlcCBjbGFzcyBjb20uZ29vZ2xlLm1sa2l0LioqIHsgKjsgfQotZG9udHdhcm4gY29tLmdvb2dsZS5tbGtpdC4qKgo=
+# Keep ML Kit / CameraX classes
+-keep class com.google.mlkit.** { *; }
+-dontwarn com.google.mlkit.**
