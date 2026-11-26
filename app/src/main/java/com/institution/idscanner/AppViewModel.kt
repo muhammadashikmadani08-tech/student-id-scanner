@@ -1,1 +1,85 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyCgppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLlZpZXdNb2RlbAppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLnZpZXdNb2RlbFNjb3BlCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuQWNjb3VudFN0b3JlCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuQXR0ZW5kYW5jZVJlY29yZAppbXBvcnQgY29tLmluc3RpdHV0aW9uLmlkc2Nhbm5lci5kYXRhLlNldHRpbmdzU3RvcmUKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIuZGF0YS5TdHVkZW50CmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuU3R1ZGVudFJlcG9zaXRvcnkKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIudXRpbC5QaG90b1N0b3JlCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5GbG93CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5NdXRhYmxlU3RhdGVGbG93CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5TaGFyaW5nU3RhcnRlZAppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmZsb3cuU3RhdGVGbG93CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5zdGF0ZUluCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMubGF1bmNoCgpjbGFzcyBBcHBWaWV3TW9kZWwoCiAgICBwcml2YXRlIHZhbCByZXBvOiBTdHVkZW50UmVwb3NpdG9yeSwKICAgIHByaXZhdGUgdmFsIHNldHRpbmdzOiBTZXR0aW5nc1N0b3JlLAogICAgcHJpdmF0ZSB2YWwgYWNjb3VudFN0b3JlOiBBY2NvdW50U3RvcmUsCiAgICB2YWwgZGF0YWJhc2VGaWxlTmFtZTogU3RyaW5nCikgOiBWaWV3TW9kZWwoKSB7CiAgICB2YWwgc3R1ZGVudHM6IFN0YXRlRmxvdzxMaXN0PFN0dWRlbnQ+PiA9IHJlcG8uYWxsU3R1ZGVudHMKICAgICAgICAuc3RhdGVJbih2aWV3TW9kZWxTY29wZSwgU2hhcmluZ1N0YXJ0ZWQuV2hpbGVTdWJzY3JpYmVkKDUwMDApLCBlbXB0eUxpc3QoKSkKICAgIHZhbCBoaXN0b3J5ID0gcmVwby5oaXN0b3J5CiAgICAgICAgLnN0YXRlSW4odmlld01vZGVsU2NvcGUsIFNoYXJpbmdTdGFydGVkLldoaWxlU3Vic2NyaWJlZCg1MDAwKSwgZW1wdHlMaXN0KCkpCiAgICB2YWwgaW5zdGl0dXRpb25OYW1lID0gc2V0dGluZ3MuaW5zdGl0dXRpb25OYW1lCiAgICAgICAgLnN0YXRlSW4odmlld01vZGVsU2NvcGUsIFNoYXJpbmdTdGFydGVkLldoaWxlU3Vic2NyaWJlZCg1MDAwKSwgIiIpCiAgICB2YWwgYWRtaW5QaW4gPSBzZXR0aW5ncy5hZG1pblBpbgogICAgICAgIC5zdGF0ZUluKHZpZXdNb2RlbFNjb3BlLCBTaGFyaW5nU3RhcnRlZC5XaGlsZVN1YnNjcmliZWQoNTAwMCksICIxMjM0IikKCiAgICAvKiogVGhlIEdtYWlsIGN1cnJlbnRseSBhY3RpdmUgKCIiID0gbm9uZSkuIEVhY2ggR21haWwgaGFzIGl0cyBvd24gZGF0YS4gKi8KICAgIHZhbCBjdXJyZW50QWNjb3VudEVtYWlsID0gYWNjb3VudFN0b3JlLmN1cnJlbnRBY2NvdW50RW1haWwKICAgICAgICAuc3RhdGVJbih2aWV3TW9kZWxTY29wZSwgU2hhcmluZ1N0YXJ0ZWQuV2hpbGVTdWJzY3JpYmVkKDUwMDApLCAiIikKCiAgICAvKiogQXR0ZW5kYW5jZSByZWNvcmRzIGZvciBvbmUgc3R1ZGVudCwgb2xkZXN0IGZpcnN0LiAqLwogICAgZnVuIGF0dGVuZGFuY2VGb3Ioc3R1ZGVudElkOiBTdHJpbmcpOiBGbG93PExpc3Q8QXR0ZW5kYW5jZVJlY29yZD4+ID0KICAgICAgICByZXBvLmF0dGVuZGFuY2VGb3Ioc3R1ZGVudElkKQoKICAgIHN1c3BlbmQgZnVuIG1hcmtBdHRlbmRhbmNlKHN0dWRlbnRJZDogU3RyaW5nKSB7CiAgICAgICAgcmVwby5tYXJrQXR0ZW5kYW5jZShzdHVkZW50SWQpCiAgICB9CgogICAgcHJpdmF0ZSB2YWwgX3F1ZXJ5ID0gTXV0YWJsZVN0YXRlRmxvdygiIikKICAgIHZhbCBxdWVyeTogU3RhdGVGbG93PFN0cmluZz4gPSBfcXVlcnkKICAgIHZhbCBzZWFyY2hSZXN1bHRzOiBTdGF0ZUZsb3c8TGlzdDxTdHVkZW50Pj4gPSBNdXRhYmxlU3RhdGVGbG93KGVtcHR5TGlzdCgpKQoKICAgIGZ1biBzZXRRdWVyeShxOiBTdHJpbmcpIHsKICAgICAgICBfcXVlcnkudmFsdWUgPSBxCiAgICAgICAgdmlld01vZGVsU2NvcGUubGF1bmNoIHsKICAgICAgICAgICAgcmVwby5zZWFyY2gocSkuY29sbGVjdCB7IChzZWFyY2hSZXN1bHRzIGFzIE11dGFibGVTdGF0ZUZsb3cpLnZhbHVlID0gaXQgfQogICAgICAgIH0KICAgIH0KCiAgICAvKiogUmV0dXJucyB0aGUgc3R1ZGVudCAob3IgbnVsbCkuIE9uIGEgaGl0LCByZWNvcmRzIGJvdGggdGhlIHNjYW4KICAgICAqICBoaXN0b3J5IGVudHJ5IGFuZCB0b2RheSdzIGF0dGVuZGFuY2UuICovCiAgICBzdXNwZW5kIGZ1biBsb29rdXBTY2FubmVkKHJhdzogU3RyaW5nKTogU3R1ZGVudD8gewogICAgICAgIHZhbCBzdHVkZW50ID0gcmVwby5maW5kQnlTY2FubmVkKHJhdykKICAgICAgICBpZiAoc3R1ZGVudCAhPSBudWxsKSB7CiAgICAgICAgICAgIHJlcG8ucmVjb3JkU2NhbihzdHVkZW50LnN0dWRlbnRJZCkKICAgICAgICAgICAgcmVwby5tYXJrQXR0ZW5kYW5jZShzdHVkZW50LnN0dWRlbnRJZCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHN0dWRlbnQKICAgIH0KCiAgICBzdXNwZW5kIGZ1biBnZXRTdHVkZW50KGlkOiBTdHJpbmcpID0gcmVwby5maW5kQnlTY2FubmVkKGlkKQoKICAgIGZ1biBzYXZlU3R1ZGVudChzdHVkZW50OiBTdHVkZW50KSA9IHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7IHJlcG8udXBzZXJ0KHN0dWRlbnQpIH0KICAgIGZ1biBkZWxldGVTdHVkZW50KHN0dWRlbnQ6IFN0dWRlbnQpID0gdmlld01vZGVsU2NvcGUubGF1bmNoIHsKICAgICAgICBQaG90b1N0b3JlLmRlbGV0ZVBob3RvKHN0dWRlbnQucGhvdG9VcmkpCiAgICAgICAgcmVwby5kZWxldGUoc3R1ZGVudCkKICAgIH0KICAgIGZ1biBpbXBvcnRTdHVkZW50cyhsaXN0OiBMaXN0PFN0dWRlbnQ+KSA9IHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7IHJlcG8udXBzZXJ0QWxsKGxpc3QpIH0KICAgIGZ1biBkZWxldGVIaXN0b3J5KGlkOiBMb25nKSA9IHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7IHJlcG8uZGVsZXRlSGlzdG9yeShpZCkgfQogICAgZnVuIGNsZWFySGlzdG9yeSgpID0gdmlld01vZGVsU2NvcGUubGF1bmNoIHsgcmVwby5jbGVhckhpc3RvcnkoKSB9CiAgICBmdW4gc2V0SW5zdGl0dXRpb25OYW1lKG5hbWU6IFN0cmluZykgPSB2aWV3TW9kZWxTY29wZS5sYXVuY2ggeyBzZXR0aW5ncy5zZXRJbnN0aXR1dGlvbk5hbWUobmFtZSkgfQogICAgZnVuIHNldEFkbWluUGluKHBpbjogU3RyaW5nKSA9IHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7IHNldHRpbmdzLnNldEFkbWluUGluKHBpbikgfQoKICAgIC8qKiBTYXZlcyB0aGUgYWN0aXZlIEdtYWlsIChub3JtYWxpc2VkKS4gVGhlIGNhbGxlciByZXN0YXJ0cyB0aGUKICAgICAqICBhY3Rpdml0eSBzbyB0aGUgb3RoZXIgYWNjb3VudCdzIGRhdGFiYXNlIGlzIGxvYWRlZC4gKi8KICAgIHN1c3BlbmQgZnVuIHNldEFjY291bnRFbWFpbChlbWFpbDogU3RyaW5nKSB7CiAgICAgICAgYWNjb3VudFN0b3JlLnNldEN1cnJlbnRBY2NvdW50RW1haWwoZW1haWwpCiAgICB9Cn0K
+package com.institution.idscanner
+
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewModelScope
+import com.institution.idscanner.data.AccountStore
+import com.institution.idscanner.data.AttendanceRecord
+import com.institution.idscanner.data.SettingsStore
+import com.institution.idscanner.data.Student
+import com.institution.idscanner.data.StudentRepository
+import com.institution.idscanner.util.PhotoStore
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.SharingStarted
+import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.stateIn
+import kotlinx.coroutines.launch
+
+class AppViewModel(
+    private val repo: StudentRepository,
+    private val settings: SettingsStore,
+    private val accountStore: AccountStore,
+    val databaseFileName: String
+) : ViewModel() {
+    val students: StateFlow<List<Student>> = repo.allStudents
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
+    val history = repo.history
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
+    val institutionName = settings.institutionName
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), "")
+    val adminPin = settings.adminPin
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), "1234")
+
+    /** The Gmail currently active ("" = none). Each Gmail has its own data. */
+    val currentAccountEmail = accountStore.currentAccountEmail
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), "")
+
+    /** Attendance records for one student, oldest first. */
+    fun attendanceFor(studentId: String): Flow<List<AttendanceRecord>> =
+        repo.attendanceFor(studentId)
+
+    suspend fun markAttendance(studentId: String) {
+        repo.markAttendance(studentId)
+    }
+
+    private val _query = MutableStateFlow("")
+    val query: StateFlow<String> = _query
+    val searchResults: StateFlow<List<Student>> = MutableStateFlow(emptyList())
+
+    fun setQuery(q: String) {
+        _query.value = q
+        viewModelScope.launch {
+            repo.search(q).collect { (searchResults as MutableStateFlow).value = it }
+        }
+    }
+
+    /** Returns the student (or null). On a hit, records both the scan
+     *  history entry and today's attendance. */
+    suspend fun lookupScanned(raw: String): Student? {
+        val student = repo.findByScanned(raw)
+        if (student != null) {
+            repo.recordScan(student.studentId)
+            repo.markAttendance(student.studentId)
+        }
+        return student
+    }
+
+    suspend fun getStudent(id: String) = repo.findByScanned(id)
+
+    fun saveStudent(student: Student) = viewModelScope.launch { repo.upsert(student) }
+    fun deleteStudent(student: Student) = viewModelScope.launch {
+        PhotoStore.deletePhoto(student.photoUri)
+        repo.delete(student)
+    }
+    fun importStudents(list: List<Student>) = viewModelScope.launch { repo.upsertAll(list) }
+    fun deleteHistory(id: Long) = viewModelScope.launch { repo.deleteHistory(id) }
+    fun clearHistory() = viewModelScope.launch { repo.clearHistory() }
+    fun setInstitutionName(name: String) = viewModelScope.launch { settings.setInstitutionName(name) }
+    fun setAdminPin(pin: String) = viewModelScope.launch { settings.setAdminPin(pin) }
+
+    /** Saves the active Gmail (normalised). The caller restarts the
+     *  activity so the other account's database is loaded. */
+    suspend fun setAccountEmail(email: String) {
+        accountStore.setCurrentAccountEmail(email)
+    }
+}
