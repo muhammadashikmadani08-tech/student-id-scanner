@@ -1,1 +1,64 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnV0aWwKCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuU3R1ZGVudAppbXBvcnQgamF2YS5pby5CdWZmZXJlZFJlYWRlcgppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbQppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcgoKLyoqIENTViBmb3JtYXQgKGhlYWRlciByb3cgcmVxdWlyZWQpOgogKiAgU3R1ZGVudCBJRCB8IE5hbWUgfCBGYXRoZXIgfCBNb3RoZXIgfCBDbGFzcyB8IFJvbGwgfCBTZXNzaW9uIHwgU2VjdGlvbiB8IFBob25lCiAqICBFeHRyYSBjb2x1bW5zIGFyZSBpZ25vcmVkOyBtaXNzaW5nIGNvbHVtbnMgZGVmYXVsdCB0byBlbXB0eS4gKi8Kb2JqZWN0IENzdlV0aWwgewogICAgcHJpdmF0ZSBmdW4gc3BsaXQobGluZTogU3RyaW5nKTogTGlzdDxTdHJpbmc+IHsKICAgICAgICB2YWwgb3V0ID0gbXV0YWJsZUxpc3RPZjxTdHJpbmc+KCkKICAgICAgICB2YWwgY3VyID0gU3RyaW5nQnVpbGRlcigpCiAgICAgICAgdmFyIGluUXVvdGVzID0gZmFsc2UKICAgICAgICBmb3IgKGMgaW4gbGluZSkgewogICAgICAgICAgICB3aGVuIHsKICAgICAgICAgICAgICAgIGMgPT0gJyInIC0+IGluUXVvdGVzID0gIWluUXVvdGVzCiAgICAgICAgICAgICAgICBjID09ICcsJyAmJiAhaW5RdW90ZXMgLT4geyBvdXQgKz0gY3VyLnRvU3RyaW5nKCkudHJpbSgpOyBjdXIuY2xlYXIoKSB9CiAgICAgICAgICAgICAgICBlbHNlIC0+IGN1ci5hcHBlbmQoYykKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBvdXQgKz0gY3VyLnRvU3RyaW5nKCkudHJpbSgpCiAgICAgICAgcmV0dXJuIG91dC5tYXAgeyBpdC50cmltKCciJykgfQogICAgfQoKICAgIGZ1biBwYXJzZShpbnB1dDogSW5wdXRTdHJlYW0pOiBMaXN0PFN0dWRlbnQ+IHsKICAgICAgICB2YWwgcmVhZGVyID0gQnVmZmVyZWRSZWFkZXIoSW5wdXRTdHJlYW1SZWFkZXIoaW5wdXQsIENoYXJzZXRzLlVURl84KSkKICAgICAgICB2YWwgbGluZXMgPSByZWFkZXIucmVhZExpbmVzKCkuZmlsdGVyIHsgaXQuaXNOb3RCbGFuaygpIH0KICAgICAgICBpZiAobGluZXMuaXNFbXB0eSgpKSByZXR1cm4gZW1wdHlMaXN0KCkKICAgICAgICB2YWwgaGVhZGVyID0gc3BsaXQobGluZXMuZmlyc3QoKSkubWFwIHsgaXQubG93ZXJjYXNlKCkgfQogICAgICAgIGZ1biBjb2wocm93OiBMaXN0PFN0cmluZz4sIHZhcmFyZyBuYW1lczogU3RyaW5nKTogU3RyaW5nIHsKICAgICAgICAgICAgdmFsIGlkeCA9IG5hbWVzLmZpcnN0Tm90TnVsbE9mT3JOdWxsIHsgaGVhZGVyLmluZGV4T2YoaXQpLnRha2VJZiB7IGkgLT4gaSA+PSAwIH0gfSA/OiByZXR1cm4gIiIKICAgICAgICAgICAgcmV0dXJuIHJvdy5nZXRPck51bGwoaWR4KS5vckVtcHR5KCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxpbmVzLmRyb3AoMSkubWFwTm90TnVsbCB7IGxpbmUgLT4KICAgICAgICAgICAgdmFsIHJvdyA9IHNwbGl0KGxpbmUpCiAgICAgICAgICAgIHZhbCBpZCA9IGNvbChyb3csICJzdHVkZW50IGlkIiwgInN0dWRlbnRpZCIsICJpZCIpLnRyaW0oKQogICAgICAgICAgICBpZiAoaWQuaXNFbXB0eSgpKSByZXR1cm5AbWFwTm90TnVsbCBudWxsCiAgICAgICAgICAgIFN0dWRlbnQoCiAgICAgICAgICAgICAgICBzdHVkZW50SWQgPSBpZCwKICAgICAgICAgICAgICAgIG5hbWUgPSBjb2wocm93LCAibmFtZSIsICJzdHVkZW50IG5hbWUiKSwKICAgICAgICAgICAgICAgIGZhdGhlck5hbWUgPSBjb2wocm93LCAiZmF0aGVyIiwgImZhdGhlciBuYW1lIiwgImZhdGhlcidzIG5hbWUiKSwKICAgICAgICAgICAgICAgIG1vdGhlck5hbWUgPSBjb2wocm93LCAibW90aGVyIiwgIm1vdGhlciBuYW1lIiwgIm1vdGhlcidzIG5hbWUiKSwKICAgICAgICAgICAgICAgIGNsYXNzTmFtZSA9IGNvbChyb3csICJjbGFzcyIpLAogICAgICAgICAgICAgICAgcm9sbCA9IGNvbChyb3csICJyb2xsIiksCiAgICAgICAgICAgICAgICBzZXNzaW9uID0gY29sKHJvdywgInNlc3Npb24iKSwKICAgICAgICAgICAgICAgIHNlY3Rpb24gPSBjb2wocm93LCAic2VjdGlvbiIsICJkaXZpc2lvbiIsICJicmFuY2giKSwKICAgICAgICAgICAgICAgIHBob25lID0gY29sKHJvdywgInBob25lIiwgIm1vYmlsZSIsICJtb2JpbGUgbnVtYmVyIikKICAgICAgICAgICAgKQogICAgICAgIH0KICAgIH0KCiAgICBmdW4gdG9Dc3Yoc3R1ZGVudHM6IExpc3Q8U3R1ZGVudD4pOiBTdHJpbmcgewogICAgICAgIHZhbCBzYiA9IFN0cmluZ0J1aWxkZXIoIlN0dWRlbnQgSUQsTmFtZSxGYXRoZXIsTW90aGVyLENsYXNzLFJvbGwsU2Vzc2lvbixTZWN0aW9uLFBob25lXG4iKQogICAgICAgIHN0dWRlbnRzLmZvckVhY2ggewogICAgICAgICAgICBzYi5hcHBlbmRMaW5lKAogICAgICAgICAgICAgICAgbGlzdE9mKGl0LnN0dWRlbnRJZCwgaXQubmFtZSwgaXQuZmF0aGVyTmFtZSwgaXQubW90aGVyTmFtZSwgaXQuY2xhc3NOYW1lLCBpdC5yb2xsLCBpdC5zZXNzaW9uLCBpdC5zZWN0aW9uLCBpdC5waG9uZSkKICAgICAgICAgICAgICAgICAgICAuam9pblRvU3RyaW5nKCIsIikgeyB2IC0+ICJcIiR7di5yZXBsYWNlKCJcIiIsICIiKX1cIiIgfQogICAgICAgICAgICApCiAgICAgICAgfQogICAgICAgIHJldHVybiBzYi50b1N0cmluZygpCiAgICB9Cn0K
+package com.institution.idscanner.util
+
+import com.institution.idscanner.data.Student
+import java.io.BufferedReader
+import java.io.InputStream
+import java.io.InputStreamReader
+
+/** CSV format (header row required):
+ *  Student ID | Name | Father | Mother | Class | Roll | Session | Section | Phone
+ *  Extra columns are ignored; missing columns default to empty. */
+object CsvUtil {
+    private fun split(line: String): List<String> {
+        val out = mutableListOf<String>()
+        val cur = StringBuilder()
+        var inQuotes = false
+        for (c in line) {
+            when {
+                c == '"' -> inQuotes = !inQuotes
+                c == ',' && !inQuotes -> { out += cur.toString().trim(); cur.clear() }
+                else -> cur.append(c)
+            }
+        }
+        out += cur.toString().trim()
+        return out.map { it.trim('"') }
+    }
+
+    fun parse(input: InputStream): List<Student> {
+        val reader = BufferedReader(InputStreamReader(input, Charsets.UTF_8))
+        val lines = reader.readLines().filter { it.isNotBlank() }
+        if (lines.isEmpty()) return emptyList()
+        val header = split(lines.first()).map { it.lowercase() }
+        fun col(row: List<String>, vararg names: String): String {
+            val idx = names.firstNotNullOfOrNull { header.indexOf(it).takeIf { i -> i >= 0 } } ?: return ""
+            return row.getOrNull(idx).orEmpty()
+        }
+        return lines.drop(1).mapNotNull { line ->
+            val row = split(line)
+            val id = col(row, "student id", "studentid", "id").trim()
+            if (id.isEmpty()) return@mapNotNull null
+            Student(
+                studentId = id,
+                name = col(row, "name", "student name"),
+                fatherName = col(row, "father", "father name", "father's name"),
+                motherName = col(row, "mother", "mother name", "mother's name"),
+                className = col(row, "class"),
+                roll = col(row, "roll"),
+                session = col(row, "session"),
+                section = col(row, "section", "division", "branch"),
+                phone = col(row, "phone", "mobile", "mobile number")
+            )
+        }
+    }
+
+    fun toCsv(students: List<Student>): String {
+        val sb = StringBuilder("Student ID,Name,Father,Mother,Class,Roll,Session,Section,Phone\n")
+        students.forEach {
+            sb.appendLine(
+                listOf(it.studentId, it.name, it.fatherName, it.motherName, it.className, it.roll, it.session, it.section, it.phone)
+                    .joinToString(",") { v -> "\"${v.replace("\"", "")}\"" }
+            )
+        }
+        return sb.toString()
+    }
+}
