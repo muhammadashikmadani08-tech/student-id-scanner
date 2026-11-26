@@ -1,1 +1,45 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnNjYW5uZXIKCmltcG9ydCBhbmRyb2lkLmFubm90YXRpb24uU3VwcHJlc3NMaW50CmltcG9ydCBhbmRyb2lkeC5jYW1lcmEuY29yZS5JbWFnZUFuYWx5c2lzCmltcG9ydCBhbmRyb2lkeC5jYW1lcmEuY29yZS5JbWFnZVByb3h5CmltcG9ydCBjb20uZ29vZ2xlLm1sa2l0LnZpc2lvbi5iYXJjb2RlLkJhcmNvZGVTY2FubmVyT3B0aW9ucwppbXBvcnQgY29tLmdvb2dsZS5tbGtpdC52aXNpb24uYmFyY29kZS5CYXJjb2RlU2Nhbm5pbmcKaW1wb3J0IGNvbS5nb29nbGUubWxraXQudmlzaW9uLmJhcmNvZGUuY29tbW9uLkJhcmNvZGUKaW1wb3J0IGNvbS5nb29nbGUubWxraXQudmlzaW9uLmNvbW1vbi5JbnB1dEltYWdlCgovKiogTUwgS2l0IGJhcmNvZGUvUVIgYW5hbHlzZXIgZm9yIENhbWVyYVguIENhbGxzIGJhY2sgb25jZSBwZXIgZGlzdGluY3QgdmFsdWUuICovCmNsYXNzIEJhcmNvZGVBbmFseXplcigKICAgIHByaXZhdGUgdmFsIG9uQmFyY29kZTogKFN0cmluZykgLT4gVW5pdAopIDogSW1hZ2VBbmFseXNpcy5BbmFseXplciB7CiAgICBwcml2YXRlIHZhbCBzY2FubmVyID0gQmFyY29kZVNjYW5uaW5nLmdldENsaWVudCgKICAgICAgICBCYXJjb2RlU2Nhbm5lck9wdGlvbnMuQnVpbGRlcigpCiAgICAgICAgICAgIC5zZXRCYXJjb2RlRm9ybWF0cygKICAgICAgICAgICAgICAgIEJhcmNvZGUuRk9STUFUX1FSX0NPREUsCiAgICAgICAgICAgICAgICBCYXJjb2RlLkZPUk1BVF9DT0RFXzEyOCwKICAgICAgICAgICAgICAgIEJhcmNvZGUuRk9STUFUX0NPREVfMzksCiAgICAgICAgICAgICAgICBCYXJjb2RlLkZPUk1BVF9FQU5fMTMsCiAgICAgICAgICAgICAgICBCYXJjb2RlLkZPUk1BVF9FQU5fOCwKICAgICAgICAgICAgICAgIEJhcmNvZGUuRk9STUFUX1VQQ19BCiAgICAgICAgICAgICkuYnVpbGQoKQogICAgKQogICAgcHJpdmF0ZSB2YXIgbGFzdFZhbHVlOiBTdHJpbmc/ID0gbnVsbAogICAgcHJpdmF0ZSB2YXIgbGFzdFRpbWUgPSAwTAoKICAgIEBTdXBwcmVzc0xpbnQoIlVuc2FmZU9wdEluVXNhZ2VFcnJvciIpCiAgICBvdmVycmlkZSBmdW4gYW5hbHl6ZShpbWFnZVByb3h5OiBJbWFnZVByb3h5KSB7CiAgICAgICAgdmFsIG1lZGlhSW1hZ2UgPSBpbWFnZVByb3h5LmltYWdlID86IHJ1biB7IGltYWdlUHJveHkuY2xvc2UoKTsgcmV0dXJuIH0KICAgICAgICB2YWwgaW1hZ2UgPSBJbnB1dEltYWdlLmZyb21NZWRpYUltYWdlKG1lZGlhSW1hZ2UsIGltYWdlUHJveHkuaW1hZ2VJbmZvLnJvdGF0aW9uRGVncmVlcykKICAgICAgICBzY2FubmVyLnByb2Nlc3MoaW1hZ2UpCiAgICAgICAgICAgIC5hZGRPblN1Y2Nlc3NMaXN0ZW5lciB7IGJhcmNvZGVzIC0+CiAgICAgICAgICAgICAgICB2YWwgdmFsdWUgPSBiYXJjb2Rlcy5maXJzdE5vdE51bGxPZk9yTnVsbCB7IGl0LnJhd1ZhbHVlIH0/LnRyaW0oKQogICAgICAgICAgICAgICAgdmFsIG5vdyA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCiAgICAgICAgICAgICAgICBpZiAoIXZhbHVlLmlzTnVsbE9yRW1wdHkoKSAmJiAodmFsdWUgIT0gbGFzdFZhbHVlIHx8IG5vdyAtIGxhc3RUaW1lID4gMzAwMCkpIHsKICAgICAgICAgICAgICAgICAgICBsYXN0VmFsdWUgPSB2YWx1ZQogICAgICAgICAgICAgICAgICAgIGxhc3RUaW1lID0gbm93CiAgICAgICAgICAgICAgICAgICAgb25CYXJjb2RlKHZhbHVlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIC5hZGRPbkNvbXBsZXRlTGlzdGVuZXIgeyBpbWFnZVByb3h5LmNsb3NlKCkgfQogICAgfQp9Cg==
+package com.institution.idscanner.scanner
+
+import android.annotation.SuppressLint
+import androidx.camera.core.ImageAnalysis
+import androidx.camera.core.ImageProxy
+import com.google.mlkit.vision.barcode.BarcodeScannerOptions
+import com.google.mlkit.vision.barcode.BarcodeScanning
+import com.google.mlkit.vision.barcode.common.Barcode
+import com.google.mlkit.vision.common.InputImage
+
+/** ML Kit barcode/QR analyser for CameraX. Calls back once per distinct value. */
+class BarcodeAnalyzer(
+    private val onBarcode: (String) -> Unit
+) : ImageAnalysis.Analyzer {
+    private val scanner = BarcodeScanning.getClient(
+        BarcodeScannerOptions.Builder()
+            .setBarcodeFormats(
+                Barcode.FORMAT_QR_CODE,
+                Barcode.FORMAT_CODE_128,
+                Barcode.FORMAT_CODE_39,
+                Barcode.FORMAT_EAN_13,
+                Barcode.FORMAT_EAN_8,
+                Barcode.FORMAT_UPC_A
+            ).build()
+    )
+    private var lastValue: String? = null
+    private var lastTime = 0L
+
+    @SuppressLint("UnsafeOptInUsageError")
+    override fun analyze(imageProxy: ImageProxy) {
+        val mediaImage = imageProxy.image ?: run { imageProxy.close(); return }
+        val image = InputImage.fromMediaImage(mediaImage, imageProxy.imageInfo.rotationDegrees)
+        scanner.process(image)
+            .addOnSuccessListener { barcodes ->
+                val value = barcodes.firstNotNullOfOrNull { it.rawValue }?.trim()
+                val now = System.currentTimeMillis()
+                if (!value.isNullOrEmpty() && (value != lastValue || now - lastTime > 3000)) {
+                    lastValue = value
+                    lastTime = now
+                    onBarcode(value)
+                }
+            }
+            .addOnCompleteListener { imageProxy.close() }
+    }
+}
