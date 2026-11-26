@@ -1,1 +1,41 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyCgppbXBvcnQgYW5kcm9pZC5vcy5CdW5kbGUKaW1wb3J0IGFuZHJvaWR4LmFjdGl2aXR5LkNvbXBvbmVudEFjdGl2aXR5CmltcG9ydCBhbmRyb2lkeC5hY3Rpdml0eS5jb21wb3NlLnNldENvbnRlbnQKaW1wb3J0IGFuZHJvaWR4LmNvcmUuc3BsYXNoc2NyZWVuLlNwbGFzaFNjcmVlbi5Db21wYW5pb24uaW5zdGFsbFNwbGFzaFNjcmVlbgppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLlZpZXdNb2RlbAppbXBvcnQgYW5kcm9pZHgubGlmZWN5Y2xlLlZpZXdNb2RlbFByb3ZpZGVyCmltcG9ydCBhbmRyb2lkeC5saWZlY3ljbGUudmlld21vZGVsLmNvbXBvc2Uudmlld01vZGVsCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuQWNjb3VudFN0b3JlCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuQXBwRGF0YWJhc2UKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIuZGF0YS5TZXR0aW5nc1N0b3JlCmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEuU3R1ZGVudFJlcG9zaXRvcnkKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIudWkuQXBwTmF2CmltcG9ydCBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpLnRoZW1lLlN0dWRlbnRJRFNjYW5uZXJUaGVtZQoKY2xhc3MgTWFpbkFjdGl2aXR5IDogQ29tcG9uZW50QWN0aXZpdHkoKSB7CiAgICBvdmVycmlkZSBmdW4gb25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlOiBCdW5kbGU/KSB7CiAgICAgICAgaW5zdGFsbFNwbGFzaFNjcmVlbigpCiAgICAgICAgc3VwZXIub25DcmVhdGUoc2F2ZWRJbnN0YW5jZVN0YXRlKQogICAgICAgIC8vIFJlYWQgdGhlIGFjdGl2ZSBHbWFpbCBzeW5jaHJvbm91c2x5IHNvIHRoZSBjb3JyZWN0IHBlci1hY2NvdW50CiAgICAgICAgLy8gZGF0YWJhc2UgYW5kIHNldHRpbmdzIGFyZSB1c2VkIGJlZm9yZSBhbnkgVUkgaXMgYnVpbHQuCiAgICAgICAgdmFsIGFjY291bnRFbWFpbCA9IEFjY291bnRTdG9yZS5yZWFkQ3VycmVudEVtYWlsKHRoaXMpCiAgICAgICAgdmFsIGFjY291bnRTdG9yZSA9IEFjY291bnRTdG9yZSh0aGlzKQogICAgICAgIHZhbCBkYiA9IEFwcERhdGFiYXNlLmdldCh0aGlzLCBhY2NvdW50RW1haWwpCiAgICAgICAgdmFsIHJlcG8gPSBTdHVkZW50UmVwb3NpdG9yeShkYikKICAgICAgICB2YWwgc2V0dGluZ3MgPSBTZXR0aW5nc1N0b3JlKHRoaXMsIEFjY291bnRTdG9yZS5hY2NvdW50S2V5KGFjY291bnRFbWFpbCkpCiAgICAgICAgdmFsIGRiRmlsZU5hbWUgPSBBcHBEYXRhYmFzZS5kYXRhYmFzZU5hbWVGb3IoYWNjb3VudEVtYWlsKQogICAgICAgIHZhbCBmYWN0b3J5ID0gb2JqZWN0IDogVmlld01vZGVsUHJvdmlkZXIuRmFjdG9yeSB7CiAgICAgICAgICAgIEBTdXBwcmVzcygiVU5DSEVDS0VEX0NBU1QiKQogICAgICAgICAgICBvdmVycmlkZSBmdW4gPFQgOiBWaWV3TW9kZWw+IGNyZWF0ZShtb2RlbENsYXNzOiBDbGFzczxUPik6IFQgPQogICAgICAgICAgICAgICAgQXBwVmlld01vZGVsKHJlcG8sIHNldHRpbmdzLCBhY2NvdW50U3RvcmUsIGRiRmlsZU5hbWUpIGFzIFQKICAgICAgICB9CiAgICAgICAgc2V0Q29udGVudCB7CiAgICAgICAgICAgIFN0dWRlbnRJRFNjYW5uZXJUaGVtZSB7CiAgICAgICAgICAgICAgICB2YWwgdm06IEFwcFZpZXdNb2RlbCA9IHZpZXdNb2RlbChmYWN0b3J5ID0gZmFjdG9yeSkKICAgICAgICAgICAgICAgIEFwcE5hdih2bSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=
+package com.institution.idscanner
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.institution.idscanner.data.AccountStore
+import com.institution.idscanner.data.AppDatabase
+import com.institution.idscanner.data.SettingsStore
+import com.institution.idscanner.data.StudentRepository
+import com.institution.idscanner.ui.AppNav
+import com.institution.idscanner.ui.theme.StudentIDScannerTheme
+
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        installSplashScreen()
+        super.onCreate(savedInstanceState)
+        // Read the active Gmail synchronously so the correct per-account
+        // database and settings are used before any UI is built.
+        val accountEmail = AccountStore.readCurrentEmail(this)
+        val accountStore = AccountStore(this)
+        val db = AppDatabase.get(this, accountEmail)
+        val repo = StudentRepository(db)
+        val settings = SettingsStore(this, AccountStore.accountKey(accountEmail))
+        val dbFileName = AppDatabase.databaseNameFor(accountEmail)
+        val factory = object : ViewModelProvider.Factory {
+            @Suppress("UNCHECKED_CAST")
+            override fun <T : ViewModel> create(modelClass: Class<T>): T =
+                AppViewModel(repo, settings, accountStore, dbFileName) as T
+        }
+        setContent {
+            StudentIDScannerTheme {
+                val vm: AppViewModel = viewModel(factory = factory)
+                AppNav(vm)
+            }
+        }
+    }
+}
