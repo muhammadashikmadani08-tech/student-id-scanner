@@ -1,1 +1,25 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnV0aWwKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgamF2YS5pby5GaWxlCmltcG9ydCBqYXZhLmlvLkZpbGVJbnB1dFN0cmVhbQppbXBvcnQgamF2YS5pby5GaWxlT3V0cHV0U3RyZWFtCgovKiogQ29waWVzIHRoZSBSb29tIGRhdGFiYXNlIGZpbGUgb3V0IChiYWNrdXApIG9yIGJhY2sgaW4gKHJlc3RvcmUpLgogKiAgUmVzdG9yZSByZXF1aXJlcyBhbiBhcHAgcmVzdGFydCBhZnRlcndhcmRzLiBbZGJOYW1lXSBpcyB0aGUgYWN0aXZlCiAqICBhY2NvdW50J3MgZGF0YWJhc2UgZmlsZSwgc28gYmFja3VwcyBzdGF5IHBlci1HbWFpbCB0b28uICovCm9iamVjdCBCYWNrdXBVdGlsIHsKICAgIHByaXZhdGUgZnVuIGRiRmlsZShjb250ZXh0OiBDb250ZXh0LCBkYk5hbWU6IFN0cmluZyA9ICJzdHVkZW50X2lkX3NjYW5uZXIuZGIiKSA9CiAgICAgICAgY29udGV4dC5nZXREYXRhYmFzZVBhdGgoZGJOYW1lKQoKICAgIGZ1biBiYWNrdXAoY29udGV4dDogQ29udGV4dCwgb3V0OiBqYXZhLmlvLk91dHB1dFN0cmVhbSwgZGJOYW1lOiBTdHJpbmcgPSAic3R1ZGVudF9pZF9zY2FubmVyLmRiIikgewogICAgICAgIEZpbGVJbnB1dFN0cmVhbShkYkZpbGUoY29udGV4dCwgZGJOYW1lKSkudXNlIHsgaXQuY29weVRvKG91dCkgfQogICAgfQoKICAgIGZ1biByZXN0b3JlKGNvbnRleHQ6IENvbnRleHQsIGlucHV0OiBGaWxlLCBkYk5hbWU6IFN0cmluZyA9ICJzdHVkZW50X2lkX3NjYW5uZXIuZGIiKSB7CiAgICAgICAgdmFsIGRiID0gZGJGaWxlKGNvbnRleHQsIGRiTmFtZSkKICAgICAgICAvLyBDbG9zZSBSb29tIGZpcnN0IGlzIGhhbmRsZWQgYnkgdGhlIGNhbGxlciByZXN0YXJ0aW5nIHRoZSBwcm9jZXNzOwogICAgICAgIC8vIGhlcmUgd2Ugc2ltcGx5IG92ZXJ3cml0ZSB0aGUgZmlsZS4KICAgICAgICBpbnB1dC5pbnB1dFN0cmVhbSgpLnVzZSB7IHNyYyAtPiBGaWxlT3V0cHV0U3RyZWFtKGRiKS51c2UgeyBzcmMuY29weVRvKGl0KSB9IH0KICAgIH0KfQo=
+package com.institution.idscanner.util
+
+import android.content.Context
+import java.io.File
+import java.io.FileInputStream
+import java.io.FileOutputStream
+
+/** Copies the Room database file out (backup) or back in (restore).
+ *  Restore requires an app restart afterwards. [dbName] is the active
+ *  account's database file, so backups stay per-Gmail too. */
+object BackupUtil {
+    private fun dbFile(context: Context, dbName: String = "student_id_scanner.db") =
+        context.getDatabasePath(dbName)
+
+    fun backup(context: Context, out: java.io.OutputStream, dbName: String = "student_id_scanner.db") {
+        FileInputStream(dbFile(context, dbName)).use { it.copyTo(out) }
+    }
+
+    fun restore(context: Context, input: File, dbName: String = "student_id_scanner.db") {
+        val db = dbFile(context, dbName)
+        // Close Room first is handled by the caller restarting the process;
+        // here we simply overwrite the file.
+        input.inputStream().use { src -> FileOutputStream(db).use { src.copyTo(it) } }
+    }
+}
