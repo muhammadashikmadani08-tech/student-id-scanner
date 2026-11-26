@@ -1,1 +1,27 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnNjYW5uZXIKCi8qKiBFeHRyYWN0cyBhIGxpa2VseSBTdHVkZW50IElEIGZyb20gcmF3IE9DUiB0ZXh0LgogKiAgUHJlZmVycyBhbiBleHBsaWNpdCBwYXR0ZXJuIGxpa2UgU1RELTEwMDEgLyBJRDogMTAwMSwgb3RoZXJ3aXNlIHRoZQogKiAgbG9uZ2VzdCBydW4gb2YgZGlnaXRzLCBvdGhlcndpc2UgdGhlIGZpcnN0IHRva2VuIHRoYXQgbG9va3MgbGlrZSBhbiBJRC4gKi8Kb2JqZWN0IElkUGFyc2VyIHsKICAgIHByaXZhdGUgdmFsIGV4cGxpY2l0ID0gUmVnZXgoIiIiKD9pKSg/OlNURHxJRHxST0xMKVstOlxzXSooW0EtWjAtOV1bQS1aMC05XC1dezIsfSkiIiIpCiAgICBwcml2YXRlIHZhbCBkaWdpdHMgPSBSZWdleCgiIiJcYlxkezMsfVxiIiIiKQoKICAgIGZ1biBleHRyYWN0SWQodGV4dDogU3RyaW5nKTogU3RyaW5nPyB7CiAgICAgICAgdmFsIGNsZWFuZWQgPSB0ZXh0LnJlcGxhY2UoJ1xuJywgJyAnKS50cmltKCkKICAgICAgICBleHBsaWNpdC5maW5kKGNsZWFuZWQpPy5ncm91cFZhbHVlcz8uZ2V0KDEpPy5sZXQgeyByZXR1cm4gaXQudXBwZXJjYXNlKCkgfQogICAgICAgIGRpZ2l0cy5maW5kQWxsKGNsZWFuZWQpLm1heEJ5T3JOdWxsIHsgaXQudmFsdWUubGVuZ3RoIH0/LmxldCB7IHJldHVybiBpdC52YWx1ZSB9CiAgICAgICAgcmV0dXJuIGNsZWFuZWQuc3BsaXQoIiAiKS5maXJzdE9yTnVsbCB7IGl0Lmxlbmd0aCA+PSA0ICYmIGl0LmFueShDaGFyOjppc0RpZ2l0KSB9CiAgICAgICAgICAgID8udXBwZXJjYXNlKCkKICAgIH0KCiAgICAvKiogQmVzdC1lZmZvcnQgbmFtZS9jbGFzcyBoaW50cyBmcm9tIE9DUiB0ZXh0LCBzaG93biBvbiB0aGUgTm90LUZvdW5kIHNjcmVlbi4gKi8KICAgIGZ1biBndWVzc05hbWUodGV4dDogU3RyaW5nKTogU3RyaW5nIHsKICAgICAgICB2YWwgbGluZXMgPSB0ZXh0LmxpbmVzKCkubWFwIHsgaXQudHJpbSgpIH0uZmlsdGVyIHsgaXQubGVuZ3RoID4gMiB9CiAgICAgICAgdmFsIG5hbWVkID0gbGluZXMuZmlyc3RPck51bGwgeyBpdC5jb250YWlucygibmFtZSIsIGlnbm9yZUNhc2UgPSB0cnVlKSB9CiAgICAgICAgaWYgKG5hbWVkICE9IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIG5hbWVkLnN1YnN0cmluZ0FmdGVyKCI6IikudHJpbSgpCiAgICAgICAgfQogICAgICAgIHJldHVybiBsaW5lcy5nZXRPck51bGwoMCkub3JFbXB0eSgpCiAgICB9Cn0K
+package com.institution.idscanner.scanner
+
+/** Extracts a likely Student ID from raw OCR text.
+ *  Prefers an explicit pattern like STD-1001 / ID: 1001, otherwise the
+ *  longest run of digits, otherwise the first token that looks like an ID. */
+object IdParser {
+    private val explicit = Regex("""(?i)(?:STD|ID|ROLL)[-:\s]*([A-Z0-9][A-Z0-9\-]{2,})""")
+    private val digits = Regex("""\b\d{3,}\b""")
+
+    fun extractId(text: String): String? {
+        val cleaned = text.replace('\n', ' ').trim()
+        explicit.find(cleaned)?.groupValues?.get(1)?.let { return it.uppercase() }
+        digits.findAll(cleaned).maxByOrNull { it.value.length }?.let { return it.value }
+        return cleaned.split(" ").firstOrNull { it.length >= 4 && it.any(Char::isDigit) }
+            ?.uppercase()
+    }
+
+    /** Best-effort name/class hints from OCR text, shown on the Not-Found screen. */
+    fun guessName(text: String): String {
+        val lines = text.lines().map { it.trim() }.filter { it.length > 2 }
+        val named = lines.firstOrNull { it.contains("name", ignoreCase = true) }
+        if (named != null) {
+            return named.substringAfter(":").trim()
+        }
+        return lines.getOrNull(0).orEmpty()
+    }
+}
