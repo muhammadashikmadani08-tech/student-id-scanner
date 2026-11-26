@@ -1,1 +1,60 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLmRhdGEKCmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuQ29udGV4dAppbXBvcnQgYW5kcm9pZHguZGF0YXN0b3JlLmNvcmUuRGF0YVN0b3JlCmltcG9ydCBhbmRyb2lkeC5kYXRhc3RvcmUucHJlZmVyZW5jZXMuY29yZS5QcmVmZXJlbmNlcwppbXBvcnQgYW5kcm9pZHguZGF0YXN0b3JlLnByZWZlcmVuY2VzLmNvcmUuZWRpdAppbXBvcnQgYW5kcm9pZHguZGF0YXN0b3JlLnByZWZlcmVuY2VzLmNvcmUuc3RyaW5nUHJlZmVyZW5jZXNLZXkKaW1wb3J0IGFuZHJvaWR4LmRhdGFzdG9yZS5wcmVmZXJlbmNlcy5wcmVmZXJlbmNlc0RhdGFTdG9yZQppbXBvcnQgamF2YS5zZWN1cml0eS5NZXNzYWdlRGlnZXN0CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5GbG93CmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMuZmxvdy5maXJzdAppbXBvcnQga290bGlueC5jb3JvdXRpbmVzLmZsb3cubWFwCmltcG9ydCBrb3RsaW54LmNvcm91dGluZXMucnVuQmxvY2tpbmcKCnByaXZhdGUgdmFsIENvbnRleHQuYWNjb3VudHNEYXRhU3RvcmU6IERhdGFTdG9yZTxQcmVmZXJlbmNlcz4gYnkgcHJlZmVyZW5jZXNEYXRhU3RvcmUoImFjY291bnRzIikKCi8qKgogKiBXaGljaCBHbWFpbCBhY2NvdW50IGlzIGFjdGl2ZS4gVGhlcmUgaXMgTk8gR29vZ2xlIHNpZ24taW4gYW5kIE5PIGNsb3VkCiAqIHVwbG9hZDogdGhlIGVtYWlsIGlzIG9ubHkgYSBsb2NhbCBrZXkuIEVhY2ggR21haWwgZ2V0cyBpdHMgb3duIHNlcGFyYXRlCiAqIGRhdGFiYXNlIGZpbGUgYW5kIGl0cyBvd24gc2V0dGluZ3Mgb24gdGhpcyBwaG9uZSwgc28gc3dpdGNoaW5nIEdtYWlsCiAqIHN3aXRjaGVzIHRvIGEgY29tcGxldGVseSBzZXBhcmF0ZSBzZXQgb2Ygc3R1ZGVudHMuCiAqLwpjbGFzcyBBY2NvdW50U3RvcmUocHJpdmF0ZSB2YWwgY29udGV4dDogQ29udGV4dCkgewoKICAgIHZhbCBjdXJyZW50QWNjb3VudEVtYWlsOiBGbG93PFN0cmluZz4gPSBjb250ZXh0LmFjY291bnRzRGF0YVN0b3JlLmRhdGEubWFwIHsKICAgICAgICBpdFtLRVlfRU1BSUxdLm9yRW1wdHkoKQogICAgfQoKICAgIHN1c3BlbmQgZnVuIHNldEN1cnJlbnRBY2NvdW50RW1haWwoZW1haWw6IFN0cmluZykgewogICAgICAgIHZhbCBub3JtYWxpc2VkID0gbm9ybWFsaXNlRW1haWwoZW1haWwpCiAgICAgICAgY29udGV4dC5hY2NvdW50c0RhdGFTdG9yZS5lZGl0IHsgaXRbS0VZX0VNQUlMXSA9IG5vcm1hbGlzZWQgfQogICAgfQoKICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIEtFWV9FTUFJTCA9IHN0cmluZ1ByZWZlcmVuY2VzS2V5KCJjdXJyZW50X2FjY291bnRfZW1haWwiKQoKICAgICAgICAvKiogVHJpbSArIGxvd2VyY2FzZS4gUmV0dXJucyAiIiBmb3IgYSBibGFuayBpbnB1dC4gKi8KICAgICAgICBmdW4gbm9ybWFsaXNlRW1haWwocmF3OiBTdHJpbmcpOiBTdHJpbmcgPSByYXcudHJpbSgpLmxvd2VyY2FzZSgpCgogICAgICAgIGZ1biBpc1ZhbGlkRW1haWwoZW1haWw6IFN0cmluZyk6IEJvb2xlYW4gPSBub3JtYWxpc2VFbWFpbChlbWFpbCkuY29udGFpbnMoIkAiKQoKICAgICAgICAvKioKICAgICAgICAgKiBTdGFibGUgcGVyLWFjY291bnQga2V5IHVzZWQgZm9yIGRhdGFiYXNlIGZpbGUgbmFtZXMgYW5kIHNldHRpbmdzCiAgICAgICAgICoga2V5IHN1ZmZpeGVzOiAiZGVmYXVsdCIgZm9yIG5vIEdtYWlsLCBvdGhlcndpc2UgdGhlIGZpcnN0IDE2IGhleAogICAgICAgICAqIGNoYXJzIG9mIHRoZSBTSEEtMjU2IG9mIHRoZSBub3JtYWxpc2VkIGVtYWlsLgogICAgICAgICAqLwogICAgICAgIGZ1biBhY2NvdW50S2V5KGVtYWlsOiBTdHJpbmcpOiBTdHJpbmcgewogICAgICAgICAgICB2YWwgbm9ybWFsaXNlZCA9IG5vcm1hbGlzZUVtYWlsKGVtYWlsKQogICAgICAgICAgICBpZiAobm9ybWFsaXNlZC5pc0VtcHR5KCkpIHJldHVybiAiZGVmYXVsdCIKICAgICAgICAgICAgdmFsIGRpZ2VzdCA9IE1lc3NhZ2VEaWdlc3QuZ2V0SW5zdGFuY2UoIlNIQS0yNTYiKQogICAgICAgICAgICAgICAgLmRpZ2VzdChub3JtYWxpc2VkLnRvQnl0ZUFycmF5KENoYXJzZXRzLlVURl84KSkKICAgICAgICAgICAgcmV0dXJuIGRpZ2VzdC5qb2luVG9TdHJpbmcoIiIpIHsgIiUwMngiLmZvcm1hdChpdCkgfS50YWtlKDE2KQogICAgICAgIH0KCiAgICAgICAgLyoqIFN5bmNocm9ub3VzIHJlYWQgZm9yIHN0YXJ0dXAsIGJlZm9yZSB0aGUgVUkgaXMgYnVpbHQuICovCiAgICAgICAgZnVuIHJlYWRDdXJyZW50RW1haWwoY29udGV4dDogQ29udGV4dCk6IFN0cmluZyA9IHJ1bkJsb2NraW5nIHsKICAgICAgICAgICAgY29udGV4dC5hY2NvdW50c0RhdGFTdG9yZS5kYXRhLmZpcnN0KClbS0VZX0VNQUlMXS5vckVtcHR5KCkKICAgICAgICB9CiAgICB9Cn0K
+package com.institution.idscanner.data
+
+import android.content.Context
+import androidx.datastore.core.DataStore
+import androidx.datastore.preferences.core.Preferences
+import androidx.datastore.preferences.core.edit
+import androidx.datastore.preferences.core.stringPreferencesKey
+import androidx.datastore.preferences.preferencesDataStore
+import java.security.MessageDigest
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.flow.map
+import kotlinx.coroutines.runBlocking
+
+private val Context.accountsDataStore: DataStore<Preferences> by preferencesDataStore("accounts")
+
+/**
+ * Which Gmail account is active. There is NO Google sign-in and NO cloud
+ * upload: the email is only a local key. Each Gmail gets its own separate
+ * database file and its own settings on this phone, so switching Gmail
+ * switches to a completely separate set of students.
+ */
+class AccountStore(private val context: Context) {
+
+    val currentAccountEmail: Flow<String> = context.accountsDataStore.data.map {
+        it[KEY_EMAIL].orEmpty()
+    }
+
+    suspend fun setCurrentAccountEmail(email: String) {
+        val normalised = normaliseEmail(email)
+        context.accountsDataStore.edit { it[KEY_EMAIL] = normalised }
+    }
+
+    companion object {
+        private val KEY_EMAIL = stringPreferencesKey("current_account_email")
+
+        /** Trim + lowercase. Returns "" for a blank input. */
+        fun normaliseEmail(raw: String): String = raw.trim().lowercase()
+
+        fun isValidEmail(email: String): Boolean = normaliseEmail(email).contains("@")
+
+        /**
+         * Stable per-account key used for database file names and settings
+         * key suffixes: "default" for no Gmail, otherwise the first 16 hex
+         * chars of the SHA-256 of the normalised email.
+         */
+        fun accountKey(email: String): String {
+            val normalised = normaliseEmail(email)
+            if (normalised.isEmpty()) return "default"
+            val digest = MessageDigest.getInstance("SHA-256")
+                .digest(normalised.toByteArray(Charsets.UTF_8))
+            return digest.joinToString("") { "%02x".format(it) }.take(16)
+        }
+
+        /** Synchronous read for startup, before the UI is built. */
+        fun readCurrentEmail(context: Context): String = runBlocking {
+            context.accountsDataStore.data.first()[KEY_EMAIL].orEmpty()
+        }
+    }
+}
