@@ -1,1 +1,65 @@
-cGFja2FnZSBjb20uaW5zdGl0dXRpb24uaWRzY2FubmVyLnVpCgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5Db2x1bW4KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuUm93CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LlNwYWNlcgppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5maWxsTWF4U2l6ZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5mb3VuZGF0aW9uLmxheW91dC5maWxsTWF4V2lkdGgKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXlvdXQuaGVpZ2h0CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLmZvdW5kYXRpb24ubGF5b3V0LnBhZGRpbmcKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXp5LkxhenlDb2x1bW4KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UuZm91bmRhdGlvbi5sYXp5Lml0ZW1zCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLkljb25zCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsLmljb25zLmZpbGxlZC5EZWxldGUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLkljb24KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLkljb25CdXR0b24KaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLk1hdGVyaWFsVGhlbWUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UubWF0ZXJpYWwzLk91dGxpbmVkQnV0dG9uCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLm1hdGVyaWFsMy5UZXh0CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuQ29tcG9zYWJsZQppbXBvcnQgYW5kcm9pZHguY29tcG9zZS5ydW50aW1lLmNvbGxlY3RBc1N0YXRlCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnJ1bnRpbWUuZ2V0VmFsdWUKaW1wb3J0IGFuZHJvaWR4LmNvbXBvc2UudWkuQWxpZ25tZW50CmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLk1vZGlmaWVyCmltcG9ydCBhbmRyb2lkeC5jb21wb3NlLnVpLnVuaXQuZHAKaW1wb3J0IGNvbS5pbnN0aXR1dGlvbi5pZHNjYW5uZXIuQXBwVmlld01vZGVsCmltcG9ydCBqYXZhLnRleHQuU2ltcGxlRGF0ZUZvcm1hdAppbXBvcnQgamF2YS51dGlsLkRhdGUKaW1wb3J0IGphdmEudXRpbC5Mb2NhbGUKCkBDb21wb3NhYmxlCmZ1biBIaXN0b3J5U2NyZWVuKHZtOiBBcHBWaWV3TW9kZWwsIG9uUHJvZmlsZTogKFN0cmluZykgLT4gVW5pdCkgewogICAgdmFsIGhpc3RvcnkgYnkgdm0uaGlzdG9yeS5jb2xsZWN0QXNTdGF0ZSgpCiAgICB2YWwgc3R1ZGVudHMgYnkgdm0uc3R1ZGVudHMuY29sbGVjdEFzU3RhdGUoKQogICAgdmFsIGZtdCA9IFNpbXBsZURhdGVGb3JtYXQoImRkIE1NTSB5eXl5LCBoaDptbSBhIiwgTG9jYWxlLmdldERlZmF1bHQoKSkKICAgIENvbHVtbihNb2RpZmllci5maWxsTWF4U2l6ZSgpLnBhZGRpbmcoMTYuZHApKSB7CiAgICAgICAgVGV4dCgiU2NhbiBIaXN0b3J5Iiwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkuaGVhZGxpbmVNZWRpdW0pCiAgICAgICAgU3BhY2VyKE1vZGlmaWVyLmhlaWdodCg4LmRwKSkKICAgICAgICBpZiAoaGlzdG9yeS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgVGV4dCgi4KaP4KaW4Kao4KeLIOCmleCni+CmqOCniyDgprjgp43gppXgp43gpq/gpr7gpqgg4Ka54Kav4Ka84Kao4Ka/4KWkIikKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBPdXRsaW5lZEJ1dHRvbihvbkNsaWNrID0geyB2bS5jbGVhckhpc3RvcnkoKSB9LCBtb2RpZmllciA9IE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpKSB7CiAgICAgICAgICAgICAgICBUZXh0KCLgprjgpqwgSGlzdG9yeSDgpq7gp4Hgppvgp4HgpqgiKQogICAgICAgICAgICB9CiAgICAgICAgICAgIFNwYWNlcihNb2RpZmllci5oZWlnaHQoOC5kcCkpCiAgICAgICAgICAgIExhenlDb2x1bW4gewogICAgICAgICAgICAgICAgaXRlbXMoaGlzdG9yeSkgeyBlbnRyeSAtPgogICAgICAgICAgICAgICAgICAgIHZhbCBzdHVkZW50ID0gc3R1ZGVudHMuZmlyc3RPck51bGwgeyBpdC5zdHVkZW50SWQgPT0gZW50cnkuc3R1ZGVudElkIH0KICAgICAgICAgICAgICAgICAgICBSb3coCiAgICAgICAgICAgICAgICAgICAgICAgIE1vZGlmaWVyLmZpbGxNYXhXaWR0aCgpLnBhZGRpbmcodmVydGljYWwgPSA4LmRwKSwKICAgICAgICAgICAgICAgICAgICAgICAgdmVydGljYWxBbGlnbm1lbnQgPSBBbGlnbm1lbnQuQ2VudGVyVmVydGljYWxseQogICAgICAgICAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgICAgICAgICBDb2x1bW4oTW9kaWZpZXIud2VpZ2h0KDFmKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dChzdHVkZW50Py5uYW1lID86IGVudHJ5LnN0dWRlbnRJZCwgc3R5bGUgPSBNYXRlcmlhbFRoZW1lLnR5cG9ncmFwaHkudGl0bGVNZWRpdW0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0KCJJRDogJHtlbnRyeS5zdHVkZW50SWR9ICDigKIgICR7Zm10LmZvcm1hdChEYXRlKGVudHJ5LnNjYW5uZWRBdCkpfSIsIHN0eWxlID0gTWF0ZXJpYWxUaGVtZS50eXBvZ3JhcGh5LmJvZHlNZWRpdW0pCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgT3V0bGluZWRCdXR0b24ob25DbGljayA9IHsgb25Qcm9maWxlKGVudHJ5LnN0dWRlbnRJZCkgfSkgeyBUZXh0KCJQcm9maWxlIikgfQogICAgICAgICAgICAgICAgICAgICAgICBJY29uQnV0dG9uKG9uQ2xpY2sgPSB7IHZtLmRlbGV0ZUhpc3RvcnkoZW50cnkuaWQpIH0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEljb24oSWNvbnMuRmlsbGVkLkRlbGV0ZSwgY29udGVudERlc2NyaXB0aW9uID0gIkRlbGV0ZSBoaXN0b3J5IikKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=
+package com.institution.idscanner.ui
+
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Delete
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.Text
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+import com.institution.idscanner.AppViewModel
+import java.text.SimpleDateFormat
+import java.util.Date
+import java.util.Locale
+
+@Composable
+fun HistoryScreen(vm: AppViewModel, onProfile: (String) -> Unit) {
+    val history by vm.history.collectAsState()
+    val students by vm.students.collectAsState()
+    val fmt = SimpleDateFormat("dd MMM yyyy, hh:mm a", Locale.getDefault())
+    Column(Modifier.fillMaxSize().padding(16.dp)) {
+        Text("Scan History", style = MaterialTheme.typography.headlineMedium)
+        Spacer(Modifier.height(8.dp))
+        if (history.isEmpty()) {
+            Text("এখনো কোনো স্ক্যান হয়নি।")
+        } else {
+            OutlinedButton(onClick = { vm.clearHistory() }, modifier = Modifier.fillMaxWidth()) {
+                Text("সব History মুছুন")
+            }
+            Spacer(Modifier.height(8.dp))
+            LazyColumn {
+                items(history) { entry ->
+                    val student = students.firstOrNull { it.studentId == entry.studentId }
+                    Row(
+                        Modifier.fillMaxWidth().padding(vertical = 8.dp),
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        Column(Modifier.weight(1f)) {
+                            Text(student?.name ?: entry.studentId, style = MaterialTheme.typography.titleMedium)
+                            Text("ID: ${entry.studentId}  •  ${fmt.format(Date(entry.scannedAt))}", style = MaterialTheme.typography.bodyMedium)
+                        }
+                        OutlinedButton(onClick = { onProfile(entry.studentId) }) { Text("Profile") }
+                        IconButton(onClick = { vm.deleteHistory(entry.id) }) {
+                            Icon(Icons.Filled.Delete, contentDescription = "Delete history")
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
